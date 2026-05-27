@@ -1,0 +1,107 @@
+affordability_band,party_affiliation,voters,new_registrations,departures,zip_changes,county_changes,party_changes
+1: low pressure,AMF,1761,184,4,122,44,237
+1: low pressure,ASP,693,16,1,16,4,22
+1: low pressure,BPP,845,38,1,30,13,39
+1: low pressure,CPF,1840,14,6,22,9,16
+1: low pressure,CPP,889,44,1,29,12,64
+1: low pressure,CSV,4306,65,10,72,23,63
+1: low pressure,DEM,531862,3143,2700,6048,1837,2182
+1: low pressure,ECO,568,16,1,12,7,15
+1: low pressure,FFP,205,7,1,6,4,11
+1: low pressure,GRE,1329,16,2,25,7,25
+1: low pressure,IND,47762,539,135,842,300,1244
+1: low pressure,JEF,12,0,0,1,0,3
+1: low pressure,LPF,4844,52,9,93,27,75
+1: low pressure,MGT,5,1,0,0,0,1
+1: low pressure,NPA,508194,3532,1690,5341,1718,2841
+1: low pressure,PSL,284,1,2,8,4,13
+1: low pressure,REP,789727,6139,3394,9328,3071,2937
+2: below average,AMF,4904,491,13,343,143,709
+2: below average,ASP,1805,59,4,42,14,62
+2: below average,BPP,2814,97,8,116,55,131
+2: below average,CPF,5146,45,17,46,17,33
+2: below average,CPP,2247,95,6,79,37,138
+2: below average,CSV,11491,143,31,171,75,170
+2: below average,DEM,1071279,5992,5429,12977,4329,4505
+2: below average,ECO,1172,25,4,36,13,47
+2: below average,FFP,522,20,3,26,8,41
+2: below average,GRE,2870,43,1,50,19,43
+2: below average,IND,92118,945,326,1768,734,2597
+2: below average,JEF,28,0,0,2,1,4
+2: below average,LPF,11545,99,36,168,69,157
+2: below average,MGT,17,0,0,0,0,0
+2: below average,NPA,942223,6531,3500,10733,3985,5427
+2: below average,PSL,657,15,1,25,8,19
+2: below average,REP,1648052,11049,7273,20323,7677,6041
+2: below average,WPF,1,0,0,0,0,1
+3: average,AMF,5908,568,15,424,195,865
+3: average,ASP,2455,76,4,64,26,99
+3: average,BPP,4744,160,4,188,81,205
+3: average,CPF,6223,65,17,78,28,53
+3: average,CPP,2651,116,6,102,43,180
+3: average,CSV,13405,134,44,194,78,197
+3: average,DEM,1083926,6204,4825,14675,5090,4424
+3: average,ECO,1283,28,4,27,14,37
+3: average,FFP,549,29,0,12,6,23
+3: average,GRE,3253,43,8,69,26,54
+3: average,IND,92325,937,271,1976,795,2415
+3: average,JEF,38,1,0,1,1,4
+3: average,LPF,12304,95,33,194,79,160
+3: average,MGT,15,2,0,0,0,0
+3: average,NPA,996658,6998,3047,12882,4884,5477
+3: average,PSL,768,8,0,17,7,30
+3: average,REP,1616328,10687,6222,21407,8080,6549
+3: average,WPF,5,0,0,3,2,5
+4: above average,AMF,3355,349,10,217,91,447
+4: above average,ASP,1527,40,2,38,18,49
+4: above average,BPP,4923,160,10,168,80,194
+4: above average,CPF,3335,28,5,40,17,23
+4: above average,CPP,1557,51,6,62,26,108
+4: above average,CSV,6697,54,13,106,58,104
+4: above average,DEM,706187,4099,2460,9699,3667,2716
+4: above average,ECO,744,15,4,15,8,22
+4: above average,FFP,312,13,0,10,6,26
+4: above average,GRE,1715,20,2,40,17,41
+4: above average,IND,47174,439,117,1001,473,1203
+4: above average,JEF,13,1,0,0,0,0
+4: above average,LPF,5624,37,11,93,41,69
+4: above average,MGT,9,0,0,1,1,1
+4: above average,NPA,593110,3974,1598,7667,3128,3014
+4: above average,PSL,459,5,1,11,8,10
+4: above average,REP,677841,4314,2400,9643,4042,3180
+4: above average,WPF,3,0,0,2,2,3
+5: high pressure,AMF,3421,341,7,201,59,422
+5: high pressure,ASP,1531,53,4,41,17,54
+5: high pressure,BPP,4568,150,10,180,82,234
+5: high pressure,CPF,2962,27,6,23,18,19
+5: high pressure,CPP,1429,54,2,52,17,108
+5: high pressure,CSV,5231,65,10,76,42,70
+5: high pressure,DEM,885245,4476,2453,7749,2963,2635
+5: high pressure,ECO,749,14,2,8,4,14
+5: high pressure,FFP,305,22,2,13,3,29
+5: high pressure,GRE,1676,15,2,31,11,27
+5: high pressure,IND,47282,366,88,716,318,958
+5: high pressure,JEF,14,1,0,2,1,2
+5: high pressure,LPF,3745,32,9,62,27,60
+5: high pressure,MGT,13,0,0,1,0,1
+5: high pressure,NPA,761171,4736,1377,5886,2376,3084
+5: high pressure,PSL,415,5,0,10,6,10
+5: high pressure,REP,689607,3894,1886,6332,2483,3113
+5: high pressure,WPF,3,0,0,2,2,3
+unknown,AMF,1024,119,1,140,40,114
+unknown,ASP,460,19,0,66,18,8
+unknown,BPP,715,24,1,103,28,24
+unknown,CPF,1579,7,7,125,28,8
+unknown,CPP,543,26,2,55,18,21
+unknown,CSV,3211,20,12,329,96,34
+unknown,DEM,739646,1110,3335,15085,3385,909
+unknown,ECO,371,5,1,17,3,0
+unknown,FFP,116,8,0,7,1,4
+unknown,GRE,1222,6,2,66,23,12
+unknown,IND,33722,184,128,1864,503,499
+unknown,JEF,7,0,0,1,0,2
+unknown,LPF,5335,17,21,212,67,29
+unknown,MGT,3,0,0,2,1,2
+unknown,NPA,569767,1302,1816,12840,3367,1194
+unknown,PSL,228,2,0,8,2,1
+unknown,REP,816924,2852,3573,22503,6303,1421

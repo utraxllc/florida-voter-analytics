@@ -1,0 +1,631 @@
+affordability_band,age_band,party_affiliation,voters
+1: low pressure,18-24,AMF,314
+1: low pressure,18-24,ASP,144
+1: low pressure,18-24,BPP,139
+1: low pressure,18-24,CPF,395
+1: low pressure,18-24,CPP,107
+1: low pressure,18-24,CSV,635
+1: low pressure,18-24,DEM,27418
+1: low pressure,18-24,ECO,87
+1: low pressure,18-24,FFP,23
+1: low pressure,18-24,GRE,188
+1: low pressure,18-24,IND,4200
+1: low pressure,18-24,LPF,279
+1: low pressure,18-24,NPA,34790
+1: low pressure,18-24,PSL,59
+1: low pressure,18-24,REP,39715
+1: low pressure,25-34,AMF,401
+1: low pressure,25-34,ASP,174
+1: low pressure,25-34,BPP,264
+1: low pressure,25-34,CPF,346
+1: low pressure,25-34,CPP,148
+1: low pressure,25-34,CSV,809
+1: low pressure,25-34,DEM,72919
+1: low pressure,25-34,ECO,129
+1: low pressure,25-34,FFP,37
+1: low pressure,25-34,GRE,328
+1: low pressure,25-34,IND,7700
+1: low pressure,25-34,LPF,1086
+1: low pressure,25-34,NPA,77159
+1: low pressure,25-34,PSL,120
+1: low pressure,25-34,REP,81830
+1: low pressure,35-44,AMF,286
+1: low pressure,35-44,ASP,109
+1: low pressure,35-44,BPP,172
+1: low pressure,35-44,CPF,321
+1: low pressure,35-44,CPP,151
+1: low pressure,35-44,CSV,605
+1: low pressure,35-44,DEM,71162
+1: low pressure,35-44,ECO,83
+1: low pressure,35-44,FFP,41
+1: low pressure,35-44,GRE,283
+1: low pressure,35-44,IND,5923
+1: low pressure,35-44,LPF,1315
+1: low pressure,35-44,NPA,81701
+1: low pressure,35-44,PSL,72
+1: low pressure,35-44,REP,80967
+1: low pressure,45-54,AMF,253
+1: low pressure,45-54,ASP,91
+1: low pressure,45-54,BPP,127
+1: low pressure,45-54,CPF,255
+1: low pressure,45-54,CPP,146
+1: low pressure,45-54,CSV,516
+1: low pressure,45-54,DEM,59954
+1: low pressure,45-54,ECO,72
+1: low pressure,45-54,FFP,35
+1: low pressure,45-54,GRE,202
+1: low pressure,45-54,IND,5520
+1: low pressure,45-54,LPF,877
+1: low pressure,45-54,NPA,74226
+1: low pressure,45-54,PSL,14
+1: low pressure,45-54,REP,87650
+1: low pressure,55-64,AMF,257
+1: low pressure,55-64,ASP,89
+1: low pressure,55-64,BPP,98
+1: low pressure,55-64,CPF,242
+1: low pressure,55-64,CPP,148
+1: low pressure,55-64,CSV,735
+1: low pressure,55-64,DEM,77491
+1: low pressure,55-64,ECO,84
+1: low pressure,55-64,FFP,36
+1: low pressure,55-64,GRE,139
+1: low pressure,55-64,IND,8092
+1: low pressure,55-64,LPF,665
+1: low pressure,55-64,NPA,82174
+1: low pressure,55-64,REP,147594
+1: low pressure,65-74,AMF,175
+1: low pressure,65-74,ASP,58
+1: low pressure,65-74,BPP,29
+1: low pressure,65-74,CPF,186
+1: low pressure,65-74,CPP,113
+1: low pressure,65-74,CSV,632
+1: low pressure,65-74,DEM,100904
+1: low pressure,65-74,ECO,74
+1: low pressure,65-74,FFP,20
+1: low pressure,65-74,GRE,118
+1: low pressure,65-74,IND,9030
+1: low pressure,65-74,LPF,411
+1: low pressure,65-74,NPA,78616
+1: low pressure,65-74,REP,164976
+1: low pressure,75+,AMF,75
+1: low pressure,75+,ASP,28
+1: low pressure,75+,BPP,16
+1: low pressure,75+,CPF,95
+1: low pressure,75+,CPP,76
+1: low pressure,75+,CSV,374
+1: low pressure,75+,DEM,122013
+1: low pressure,75+,ECO,39
+1: low pressure,75+,FFP,13
+1: low pressure,75+,GRE,71
+1: low pressure,75+,IND,7297
+1: low pressure,75+,LPF,211
+1: low pressure,75+,NPA,79528
+1: low pressure,75+,REP,186994
+2: below average,18-24,AMF,1074
+2: below average,18-24,ASP,424
+2: below average,18-24,BPP,549
+2: below average,18-24,CPF,1144
+2: below average,18-24,CPP,313
+2: below average,18-24,CSV,1818
+2: below average,18-24,DEM,74004
+2: below average,18-24,ECO,215
+2: below average,18-24,FFP,91
+2: below average,18-24,GRE,487
+2: below average,18-24,IND,10334
+2: below average,18-24,LPF,688
+2: below average,18-24,NPA,87236
+2: below average,18-24,PSL,193
+2: below average,18-24,REP,99353
+2: below average,25-34,AMF,1090
+2: below average,25-34,ASP,439
+2: below average,25-34,BPP,762
+2: below average,25-34,CPF,1020
+2: below average,25-34,CPP,398
+2: below average,25-34,CSV,2194
+2: below average,25-34,DEM,159199
+2: below average,25-34,ECO,289
+2: below average,25-34,FFP,110
+2: below average,25-34,GRE,762
+2: below average,25-34,IND,16188
+2: below average,25-34,LPF,2850
+2: below average,25-34,NPA,161758
+2: below average,25-34,PSL,282
+2: below average,25-34,REP,180713
+2: below average,35-44,AMF,855
+2: below average,35-44,ASP,282
+2: below average,35-44,BPP,627
+2: below average,35-44,CPF,881
+2: below average,35-44,CPP,415
+2: below average,35-44,CSV,1837
+2: below average,35-44,DEM,151411
+2: below average,35-44,ECO,154
+2: below average,35-44,FFP,105
+2: below average,35-44,GRE,645
+2: below average,35-44,IND,12752
+2: below average,35-44,LPF,3372
+2: below average,35-44,NPA,164578
+2: below average,35-44,PSL,107
+2: below average,35-44,REP,198126
+2: below average,45-54,AMF,716
+2: below average,45-54,ASP,245
+2: below average,45-54,BPP,425
+2: below average,45-54,CPF,719
+2: below average,45-54,CPP,400
+2: below average,45-54,CSV,1626
+2: below average,45-54,DEM,132346
+2: below average,45-54,ECO,173
+2: below average,45-54,FFP,81
+2: below average,45-54,GRE,374
+2: below average,45-54,IND,11728
+2: below average,45-54,LPF,2102
+2: below average,45-54,NPA,144321
+2: below average,45-54,PSL,37
+2: below average,45-54,REP,209211
+2: below average,55-64,AMF,618
+2: below average,55-64,ASP,220
+2: below average,55-64,BPP,276
+2: below average,55-64,CPF,715
+2: below average,55-64,CPP,380
+2: below average,55-64,CSV,1703
+2: below average,55-64,DEM,154293
+2: below average,55-64,ECO,138
+2: below average,55-64,FFP,50
+2: below average,55-64,GRE,257
+2: below average,55-64,IND,14190
+2: below average,55-64,LPF,1336
+2: below average,55-64,NPA,139492
+2: below average,55-64,PSL,22
+2: below average,55-64,REP,304990
+2: below average,65-74,AMF,398
+2: below average,65-74,ASP,147
+2: below average,65-74,BPP,105
+2: below average,65-74,CPF,450
+2: below average,65-74,CPP,229
+2: below average,65-74,CSV,1509
+2: below average,65-74,DEM,195221
+2: below average,65-74,ECO,139
+2: below average,65-74,FFP,55
+2: below average,65-74,GRE,239
+2: below average,65-74,IND,15596
+2: below average,65-74,LPF,787
+2: below average,65-74,NPA,129769
+2: below average,65-74,PSL,11
+2: below average,65-74,REP,330448
+2: below average,75+,AMF,153
+2: below average,75+,ASP,48
+2: below average,75+,BPP,70
+2: below average,75+,CPF,217
+2: below average,75+,CPP,112
+2: below average,75+,CSV,804
+2: below average,75+,DEM,204802
+2: below average,75+,ECO,64
+2: below average,75+,FFP,30
+2: below average,75+,GRE,106
+2: below average,75+,IND,11330
+2: below average,75+,LPF,410
+2: below average,75+,NPA,115068
+2: below average,75+,REP,325211
+3: average,18-24,AMF,1323
+3: average,18-24,ASP,597
+3: average,18-24,BPP,984
+3: average,18-24,CPF,1383
+3: average,18-24,CPP,442
+3: average,18-24,CSV,2302
+3: average,18-24,DEM,80705
+3: average,18-24,ECO,294
+3: average,18-24,FFP,137
+3: average,18-24,GRE,635
+3: average,18-24,IND,11193
+3: average,18-24,LPF,754
+3: average,18-24,NPA,100570
+3: average,18-24,PSL,200
+3: average,18-24,REP,105388
+3: average,25-34,AMF,1361
+3: average,25-34,ASP,576
+3: average,25-34,BPP,1237
+3: average,25-34,CPF,1282
+3: average,25-34,CPP,540
+3: average,25-34,CSV,2689
+3: average,25-34,DEM,171807
+3: average,25-34,ECO,294
+3: average,25-34,FFP,142
+3: average,25-34,GRE,903
+3: average,25-34,IND,18878
+3: average,25-34,JEF,12
+3: average,25-34,LPF,3394
+3: average,25-34,NPA,196907
+3: average,25-34,PSL,347
+3: average,25-34,REP,205026
+3: average,35-44,AMF,1100
+3: average,35-44,ASP,474
+3: average,35-44,BPP,1028
+3: average,35-44,CPF,1195
+3: average,35-44,CPP,510
+3: average,35-44,CSV,2405
+3: average,35-44,DEM,162463
+3: average,35-44,ECO,203
+3: average,35-44,FFP,98
+3: average,35-44,GRE,718
+3: average,35-44,IND,14637
+3: average,35-44,LPF,3736
+3: average,35-44,NPA,190121
+3: average,35-44,PSL,137
+3: average,35-44,REP,222992
+3: average,45-54,AMF,854
+3: average,45-54,ASP,336
+3: average,45-54,BPP,759
+3: average,45-54,CPF,919
+3: average,45-54,CPP,457
+3: average,45-54,CSV,1997
+3: average,45-54,DEM,141425
+3: average,45-54,ECO,175
+3: average,45-54,FFP,73
+3: average,45-54,GRE,405
+3: average,45-54,IND,12571
+3: average,45-54,LPF,2151
+3: average,45-54,NPA,156590
+3: average,45-54,PSL,36
+3: average,45-54,REP,219526
+3: average,55-64,AMF,708
+3: average,55-64,ASP,267
+3: average,55-64,BPP,446
+3: average,55-64,CPF,785
+3: average,55-64,CPP,376
+3: average,55-64,CSV,1918
+3: average,55-64,DEM,161847
+3: average,55-64,ECO,131
+3: average,55-64,FFP,39
+3: average,55-64,GRE,299
+3: average,55-64,IND,13287
+3: average,55-64,LPF,1199
+3: average,55-64,NPA,141557
+3: average,55-64,PSL,28
+3: average,55-64,REP,300970
+3: average,65-74,AMF,414
+3: average,65-74,ASP,142
+3: average,65-74,BPP,190
+3: average,65-74,CPF,474
+3: average,65-74,CPP,228
+3: average,65-74,CSV,1442
+3: average,65-74,DEM,185765
+3: average,65-74,ECO,137
+3: average,65-74,FFP,43
+3: average,65-74,GRE,205
+3: average,65-74,IND,13267
+3: average,65-74,LPF,743
+3: average,65-74,NPA,117223
+3: average,65-74,PSL,13
+3: average,65-74,REP,299143
+3: average,75+,AMF,148
+3: average,75+,ASP,63
+3: average,75+,BPP,100
+3: average,75+,CPF,185
+3: average,75+,CPP,98
+3: average,75+,CSV,652
+3: average,75+,DEM,179913
+3: average,75+,ECO,49
+3: average,75+,FFP,17
+3: average,75+,GRE,88
+3: average,75+,IND,8492
+3: average,75+,LPF,327
+3: average,75+,NPA,93687
+3: average,75+,REP,263283
+4: above average,18-24,AMF,838
+4: above average,18-24,ASP,407
+4: above average,18-24,BPP,982
+4: above average,18-24,CPF,875
+4: above average,18-24,CPP,243
+4: above average,18-24,CSV,1245
+4: above average,18-24,DEM,56708
+4: above average,18-24,ECO,157
+4: above average,18-24,FFP,78
+4: above average,18-24,GRE,365
+4: above average,18-24,IND,6149
+4: above average,18-24,LPF,366
+4: above average,18-24,NPA,63936
+4: above average,18-24,PSL,122
+4: above average,18-24,REP,47362
+4: above average,25-34,AMF,717
+4: above average,25-34,ASP,356
+4: above average,25-34,BPP,1301
+4: above average,25-34,CPF,694
+4: above average,25-34,CPP,311
+4: above average,25-34,CSV,1305
+4: above average,25-34,DEM,120847
+4: above average,25-34,ECO,183
+4: above average,25-34,FFP,79
+4: above average,25-34,GRE,483
+4: above average,25-34,IND,9901
+4: above average,25-34,LPF,1618
+4: above average,25-34,NPA,123892
+4: above average,25-34,PSL,207
+4: above average,25-34,REP,91177
+4: above average,35-44,AMF,619
+4: above average,35-44,ASP,274
+4: above average,35-44,BPP,1062
+4: above average,35-44,CPF,627
+4: above average,35-44,CPP,318
+4: above average,35-44,CSV,1300
+4: above average,35-44,DEM,116077
+4: above average,35-44,ECO,135
+4: above average,35-44,FFP,59
+4: above average,35-44,GRE,408
+4: above average,35-44,IND,8232
+4: above average,35-44,LPF,1721
+4: above average,35-44,NPA,121616
+4: above average,35-44,PSL,86
+4: above average,35-44,REP,101743
+4: above average,45-54,AMF,531
+4: above average,45-54,ASP,204
+4: above average,45-54,BPP,864
+4: above average,45-54,CPF,470
+4: above average,45-54,CPP,281
+4: above average,45-54,CSV,1071
+4: above average,45-54,DEM,100773
+4: above average,45-54,ECO,104
+4: above average,45-54,FFP,46
+4: above average,45-54,GRE,216
+4: above average,45-54,IND,6860
+4: above average,45-54,LPF,942
+4: above average,45-54,NPA,96745
+4: above average,45-54,PSL,27
+4: above average,45-54,REP,98188
+4: above average,55-64,AMF,374
+4: above average,55-64,ASP,162
+4: above average,55-64,BPP,453
+4: above average,55-64,CPF,411
+4: above average,55-64,CPP,232
+4: above average,55-64,CSV,911
+4: above average,55-64,DEM,108981
+4: above average,55-64,ECO,87
+4: above average,55-64,FFP,25
+4: above average,55-64,GRE,142
+4: above average,55-64,IND,7001
+4: above average,55-64,LPF,567
+4: above average,55-64,NPA,82049
+4: above average,55-64,PSL,13
+4: above average,55-64,REP,126715
+4: above average,65-74,AMF,215
+4: above average,65-74,ASP,94
+4: above average,65-74,BPP,171
+4: above average,65-74,CPF,183
+4: above average,65-74,CPP,129
+4: above average,65-74,CSV,618
+4: above average,65-74,DEM,109099
+4: above average,65-74,ECO,57
+4: above average,65-74,FFP,13
+4: above average,65-74,GRE,66
+4: above average,65-74,IND,5778
+4: above average,65-74,LPF,291
+4: above average,65-74,NPA,61099
+4: above average,65-74,REP,116396
+4: above average,75+,AMF,61
+4: above average,75+,ASP,30
+4: above average,75+,BPP,90
+4: above average,75+,CPF,75
+4: above average,75+,CPP,43
+4: above average,75+,CSV,247
+4: above average,75+,DEM,93701
+4: above average,75+,ECO,21
+4: above average,75+,FFP,12
+4: above average,75+,GRE,35
+4: above average,75+,IND,3253
+4: above average,75+,LPF,119
+4: above average,75+,NPA,43773
+4: above average,75+,REP,96258
+5: high pressure,18-24,AMF,974
+5: high pressure,18-24,ASP,400
+5: high pressure,18-24,BPP,948
+5: high pressure,18-24,CPF,923
+5: high pressure,18-24,CPP,248
+5: high pressure,18-24,CSV,1118
+5: high pressure,18-24,DEM,72192
+5: high pressure,18-24,ECO,184
+5: high pressure,18-24,FFP,84
+5: high pressure,18-24,GRE,390
+5: high pressure,18-24,IND,6449
+5: high pressure,18-24,LPF,317
+5: high pressure,18-24,NPA,84013
+5: high pressure,18-24,PSL,125
+5: high pressure,18-24,REP,46842
+5: high pressure,25-34,AMF,741
+5: high pressure,25-34,ASP,347
+5: high pressure,25-34,BPP,1243
+5: high pressure,25-34,CPF,603
+5: high pressure,25-34,CPP,289
+5: high pressure,25-34,CSV,1112
+5: high pressure,25-34,DEM,154715
+5: high pressure,25-34,ECO,192
+5: high pressure,25-34,FFP,80
+5: high pressure,25-34,GRE,482
+5: high pressure,25-34,IND,10126
+5: high pressure,25-34,LPF,1102
+5: high pressure,25-34,NPA,154610
+5: high pressure,25-34,PSL,177
+5: high pressure,25-34,REP,90369
+5: high pressure,35-44,AMF,614
+5: high pressure,35-44,ASP,275
+5: high pressure,35-44,BPP,941
+5: high pressure,35-44,CPF,509
+5: high pressure,35-44,CPP,305
+5: high pressure,35-44,CSV,1001
+5: high pressure,35-44,DEM,145219
+5: high pressure,35-44,ECO,122
+5: high pressure,35-44,FFP,67
+5: high pressure,35-44,GRE,351
+5: high pressure,35-44,IND,8445
+5: high pressure,35-44,LPF,1119
+5: high pressure,35-44,NPA,149650
+5: high pressure,35-44,PSL,64
+5: high pressure,35-44,REP,107246
+5: high pressure,45-54,AMF,477
+5: high pressure,45-54,ASP,196
+5: high pressure,45-54,BPP,762
+5: high pressure,45-54,CPF,402
+5: high pressure,45-54,CPP,262
+5: high pressure,45-54,CSV,771
+5: high pressure,45-54,DEM,127239
+5: high pressure,45-54,ECO,103
+5: high pressure,45-54,FFP,35
+5: high pressure,45-54,GRE,211
+5: high pressure,45-54,IND,7407
+5: high pressure,45-54,LPF,619
+5: high pressure,45-54,NPA,124978
+5: high pressure,45-54,PSL,33
+5: high pressure,45-54,REP,104320
+5: high pressure,55-64,AMF,373
+5: high pressure,55-64,ASP,193
+5: high pressure,55-64,BPP,425
+5: high pressure,55-64,CPF,310
+5: high pressure,55-64,CPP,186
+5: high pressure,55-64,CSV,682
+5: high pressure,55-64,DEM,139202
+5: high pressure,55-64,ECO,84
+5: high pressure,55-64,FFP,23
+5: high pressure,55-64,GRE,139
+5: high pressure,55-64,IND,7267
+5: high pressure,55-64,LPF,358
+5: high pressure,55-64,NPA,112647
+5: high pressure,55-64,REP,130784
+5: high pressure,65-74,AMF,180
+5: high pressure,65-74,ASP,84
+5: high pressure,65-74,BPP,160
+5: high pressure,65-74,CPF,149
+5: high pressure,65-74,CPP,94
+5: high pressure,65-74,CSV,392
+5: high pressure,65-74,DEM,132373
+5: high pressure,65-74,ECO,49
+5: high pressure,65-74,FFP,16
+5: high pressure,65-74,GRE,71
+5: high pressure,65-74,IND,4845
+5: high pressure,65-74,LPF,172
+5: high pressure,65-74,NPA,77674
+5: high pressure,65-74,REP,104014
+5: high pressure,75+,AMF,62
+5: high pressure,75+,ASP,36
+5: high pressure,75+,BPP,89
+5: high pressure,75+,CPF,66
+5: high pressure,75+,CPP,45
+5: high pressure,75+,CSV,155
+5: high pressure,75+,DEM,114292
+5: high pressure,75+,ECO,15
+5: high pressure,75+,GRE,32
+5: high pressure,75+,IND,2743
+5: high pressure,75+,LPF,58
+5: high pressure,75+,NPA,57594
+5: high pressure,75+,REP,106024
+5: high pressure,unknown,DEM,13
+unknown,18-24,AMF,195
+unknown,18-24,ASP,106
+unknown,18-24,BPP,94
+unknown,18-24,CPF,262
+unknown,18-24,CPP,73
+unknown,18-24,CSV,413
+unknown,18-24,DEM,21896
+unknown,18-24,ECO,53
+unknown,18-24,FFP,20
+unknown,18-24,GRE,152
+unknown,18-24,IND,2712
+unknown,18-24,LPF,205
+unknown,18-24,NPA,26671
+unknown,18-24,PSL,40
+unknown,18-24,REP,26573
+unknown,25-34,AMF,212
+unknown,25-34,ASP,105
+unknown,25-34,BPP,205
+unknown,25-34,CPF,349
+unknown,25-34,CPP,100
+unknown,25-34,CSV,672
+unknown,25-34,DEM,97971
+unknown,25-34,ECO,101
+unknown,25-34,FFP,24
+unknown,25-34,GRE,316
+unknown,25-34,IND,6754
+unknown,25-34,LPF,1319
+unknown,25-34,NPA,103433
+unknown,25-34,PSL,98
+unknown,25-34,REP,81393
+unknown,35-44,AMF,167
+unknown,35-44,ASP,81
+unknown,35-44,BPP,149
+unknown,35-44,CPF,307
+unknown,35-44,CPP,101
+unknown,35-44,CSV,597
+unknown,35-44,DEM,120061
+unknown,35-44,ECO,62
+unknown,35-44,FFP,17
+unknown,35-44,GRE,293
+unknown,35-44,IND,5527
+unknown,35-44,LPF,1530
+unknown,35-44,NPA,113674
+unknown,35-44,PSL,44
+unknown,35-44,REP,99284
+unknown,45-54,AMF,142
+unknown,45-54,ASP,48
+unknown,45-54,BPP,123
+unknown,45-54,CPF,232
+unknown,45-54,CPP,93
+unknown,45-54,CSV,450
+unknown,45-54,DEM,105913
+unknown,45-54,ECO,55
+unknown,45-54,FFP,22
+unknown,45-54,GRE,197
+unknown,45-54,IND,4432
+unknown,45-54,LPF,971
+unknown,45-54,NPA,94125
+unknown,45-54,PSL,13
+unknown,45-54,REP,105027
+unknown,55-64,AMF,122
+unknown,55-64,ASP,56
+unknown,55-64,BPP,70
+unknown,55-64,CPF,209
+unknown,55-64,CPP,83
+unknown,55-64,CSV,454
+unknown,55-64,DEM,119483
+unknown,55-64,ECO,36
+unknown,55-64,GRE,109
+unknown,55-64,IND,4785
+unknown,55-64,LPF,583
+unknown,55-64,NPA,87288
+unknown,55-64,PSL,10
+unknown,55-64,REP,152592
+unknown,65-74,AMF,85
+unknown,65-74,ASP,24
+unknown,65-74,BPP,28
+unknown,65-74,CPF,111
+unknown,65-74,CPP,53
+unknown,65-74,CSV,368
+unknown,65-74,DEM,127752
+unknown,65-74,ECO,40
+unknown,65-74,GRE,76
+unknown,65-74,IND,4742
+unknown,65-74,LPF,329
+unknown,65-74,NPA,70089
+unknown,65-74,REP,155193
+unknown,75+,AMF,40
+unknown,75+,ASP,16
+unknown,75+,BPP,11
+unknown,75+,CPF,43
+unknown,75+,CPP,23
+unknown,75+,CSV,145
+unknown,75+,DEM,125281
+unknown,75+,ECO,13
+unknown,75+,GRE,32
+unknown,75+,IND,3297
+unknown,75+,LPF,183
+unknown,75+,NPA,58046
+unknown,75+,REP,151126
+unknown,unknown,AMF,61
+unknown,unknown,ASP,24
+unknown,unknown,BPP,35
+unknown,unknown,CPF,66
+unknown,unknown,CPP,17
+unknown,unknown,CSV,112
+unknown,unknown,DEM,21289
+unknown,unknown,ECO,11
+unknown,unknown,GRE,47
+unknown,unknown,IND,1473
+unknown,unknown,LPF,215
+unknown,unknown,NPA,16441
+unknown,unknown,PSL,14
+unknown,unknown,REP,45736

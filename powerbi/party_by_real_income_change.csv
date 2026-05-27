@@ -1,0 +1,22 @@
+real_income_change_band,party_affiliation,voters
+1 declined >5%,DEM,65330
+1 declined >5%,NPA,51074
+1 declined >5%,REP,88174
+2 declined 0-5%,DEM,272182
+2 declined 0-5%,NPA,209279
+2 declined 0-5%,REP,361120
+3 grew 0-5%,DEM,1352010
+3 grew 0-5%,NPA,1242670
+3 grew 0-5%,REP,1853321
+4 grew 5-10%,DEM,1422567
+4 grew 5-10%,NPA,1280352
+4 grew 5-10%,REP,1794096
+5 grew >=10%,DEM,1166410
+5 grew >=10%,NPA,1017981
+5 grew >=10%,REP,1324844
+unknown,DEM,8566
+unknown,NPA,9810
+unknown,REP,30177
+,DEM,731080
+,NPA,559957
+,REP,786747

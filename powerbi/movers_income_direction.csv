@@ -1,0 +1,224 @@
+income_direction,race_label,party_after,movers,movers_who_also_changed_party,crossed_county
+down (<=-15%),1 American Indian / Alaskan,DEM,22,2,10
+down (<=-15%),1 American Indian / Alaskan,NPA,18,2,6
+down (<=-15%),1 American Indian / Alaskan,REP,40,1,18
+down (<=-15%),2 Asian / Pacific Islander,DEM,207,29,94
+down (<=-15%),2 Asian / Pacific Islander,IND,16,6,6
+down (<=-15%),2 Asian / Pacific Islander,NPA,256,44,117
+down (<=-15%),2 Asian / Pacific Islander,REP,255,33,112
+down (<=-15%),"3 Black, Not Hispanic",AMF,69,61,31
+down (<=-15%),"3 Black, Not Hispanic",ASP,10,4,4
+down (<=-15%),"3 Black, Not Hispanic",CPP,28,23,17
+down (<=-15%),"3 Black, Not Hispanic",CSV,24,10,17
+down (<=-15%),"3 Black, Not Hispanic",DEM,3219,284,1320
+down (<=-15%),"3 Black, Not Hispanic",IND,173,88,95
+down (<=-15%),"3 Black, Not Hispanic",NPA,1259,314,547
+down (<=-15%),"3 Black, Not Hispanic",REP,378,104,161
+down (<=-15%),4 Hispanic,AMF,73,64,37
+down (<=-15%),4 Hispanic,ASP,17,12,9
+down (<=-15%),4 Hispanic,BPP,161,95,81
+down (<=-15%),4 Hispanic,CPF,15,6,8
+down (<=-15%),4 Hispanic,CPP,11,10,4
+down (<=-15%),4 Hispanic,CSV,29,9,12
+down (<=-15%),4 Hispanic,DEM,2436,402,1073
+down (<=-15%),4 Hispanic,IND,274,148,129
+down (<=-15%),4 Hispanic,LPF,14,4,7
+down (<=-15%),4 Hispanic,NPA,2713,488,1204
+down (<=-15%),4 Hispanic,REP,2803,491,1270
+down (<=-15%),"5 White, Not Hispanic",AMF,176,160,91
+down (<=-15%),"5 White, Not Hispanic",ASP,27,13,9
+down (<=-15%),"5 White, Not Hispanic",BPP,17,9,10
+down (<=-15%),"5 White, Not Hispanic",CPF,32,5,16
+down (<=-15%),"5 White, Not Hispanic",CPP,36,31,17
+down (<=-15%),"5 White, Not Hispanic",CSV,111,35,47
+down (<=-15%),"5 White, Not Hispanic",DEM,6546,786,2811
+down (<=-15%),"5 White, Not Hispanic",ECO,14,11,8
+down (<=-15%),"5 White, Not Hispanic",GRE,46,20,15
+down (<=-15%),"5 White, Not Hispanic",IND,1233,607,582
+down (<=-15%),"5 White, Not Hispanic",LPF,162,50,64
+down (<=-15%),"5 White, Not Hispanic",NPA,6604,1230,2785
+down (<=-15%),"5 White, Not Hispanic",PSL,12,6,7
+down (<=-15%),"5 White, Not Hispanic",REP,14137,1223,6224
+down (<=-15%),6 Other,AMF,12,9,6
+down (<=-15%),6 Other,CSV,10,5,8
+down (<=-15%),6 Other,DEM,353,67,163
+down (<=-15%),6 Other,IND,46,22,18
+down (<=-15%),6 Other,LPF,11,6,6
+down (<=-15%),6 Other,NPA,385,80,180
+down (<=-15%),6 Other,REP,319,48,151
+down (<=-15%),7 Multi-racial,DEM,83,17,45
+down (<=-15%),7 Multi-racial,IND,11,8,5
+down (<=-15%),7 Multi-racial,NPA,74,16,25
+down (<=-15%),7 Multi-racial,REP,48,12,18
+down (<=-15%),9 Unknown,AMF,18,18,8
+down (<=-15%),9 Unknown,BPP,11,9,4
+down (<=-15%),9 Unknown,DEM,492,92,289
+down (<=-15%),9 Unknown,IND,68,41,46
+down (<=-15%),9 Unknown,NPA,573,94,327
+down (<=-15%),9 Unknown,REP,491,95,314
+lateral (+/-15%),1 American Indian / Alaskan,DEM,16,1,4
+lateral (+/-15%),1 American Indian / Alaskan,NPA,19,4,5
+lateral (+/-15%),1 American Indian / Alaskan,REP,32,2,9
+lateral (+/-15%),2 Asian / Pacific Islander,DEM,136,27,59
+lateral (+/-15%),2 Asian / Pacific Islander,IND,10,5,5
+lateral (+/-15%),2 Asian / Pacific Islander,NPA,173,27,79
+lateral (+/-15%),2 Asian / Pacific Islander,REP,145,21,64
+lateral (+/-15%),"3 Black, Not Hispanic",AMF,50,46,18
+lateral (+/-15%),"3 Black, Not Hispanic",ASP,11,4,7
+lateral (+/-15%),"3 Black, Not Hispanic",CPP,17,12,7
+lateral (+/-15%),"3 Black, Not Hispanic",CSV,16,6,4
+lateral (+/-15%),"3 Black, Not Hispanic",DEM,2736,200,903
+lateral (+/-15%),"3 Black, Not Hispanic",IND,144,60,69
+lateral (+/-15%),"3 Black, Not Hispanic",NPA,1050,234,359
+lateral (+/-15%),"3 Black, Not Hispanic",REP,323,72,126
+lateral (+/-15%),4 Hispanic,AMF,51,46,17
+lateral (+/-15%),4 Hispanic,ASP,14,9,2
+lateral (+/-15%),4 Hispanic,BPP,165,96,72
+lateral (+/-15%),4 Hispanic,CPP,12,10,7
+lateral (+/-15%),4 Hispanic,CSV,32,10,16
+lateral (+/-15%),4 Hispanic,DEM,1911,299,741
+lateral (+/-15%),4 Hispanic,IND,181,90,68
+lateral (+/-15%),4 Hispanic,LPF,12,8,4
+lateral (+/-15%),4 Hispanic,NPA,2205,385,896
+lateral (+/-15%),4 Hispanic,REP,2102,382,821
+lateral (+/-15%),"5 White, Not Hispanic",AMF,132,123,49
+lateral (+/-15%),"5 White, Not Hispanic",ASP,13,10,8
+lateral (+/-15%),"5 White, Not Hispanic",BPP,14,6,3
+lateral (+/-15%),"5 White, Not Hispanic",CPF,30,12,16
+lateral (+/-15%),"5 White, Not Hispanic",CPP,33,25,12
+lateral (+/-15%),"5 White, Not Hispanic",CSV,83,35,37
+lateral (+/-15%),"5 White, Not Hispanic",DEM,3987,486,1608
+lateral (+/-15%),"5 White, Not Hispanic",ECO,12,7,7
+lateral (+/-15%),"5 White, Not Hispanic",FFP,11,6,5
+lateral (+/-15%),"5 White, Not Hispanic",GRE,21,10,11
+lateral (+/-15%),"5 White, Not Hispanic",IND,808,387,334
+lateral (+/-15%),"5 White, Not Hispanic",LPF,76,19,28
+lateral (+/-15%),"5 White, Not Hispanic",NPA,4292,818,1649
+lateral (+/-15%),"5 White, Not Hispanic",REP,9807,810,3976
+lateral (+/-15%),6 Other,DEM,203,34,86
+lateral (+/-15%),6 Other,IND,29,19,12
+lateral (+/-15%),6 Other,NPA,241,40,97
+lateral (+/-15%),6 Other,REP,202,38,95
+lateral (+/-15%),7 Multi-racial,DEM,64,5,25
+lateral (+/-15%),7 Multi-racial,NPA,54,8,24
+lateral (+/-15%),7 Multi-racial,REP,47,6,13
+lateral (+/-15%),9 Unknown,DEM,315,61,183
+lateral (+/-15%),9 Unknown,IND,32,15,23
+lateral (+/-15%),9 Unknown,NPA,364,66,206
+lateral (+/-15%),9 Unknown,REP,264,64,146
+unknown,1 American Indian / Alaskan,DEM,73,4,16
+unknown,1 American Indian / Alaskan,NPA,54,3,14
+unknown,1 American Indian / Alaskan,REP,96,4,22
+unknown,2 Asian / Pacific Islander,AMF,11,9,1
+unknown,2 Asian / Pacific Islander,DEM,400,53,91
+unknown,2 Asian / Pacific Islander,IND,40,15,9
+unknown,2 Asian / Pacific Islander,NPA,530,66,128
+unknown,2 Asian / Pacific Islander,REP,493,50,130
+unknown,"3 Black, Not Hispanic",AMF,104,86,13
+unknown,"3 Black, Not Hispanic",ASP,14,5,4
+unknown,"3 Black, Not Hispanic",CPF,27,5,4
+unknown,"3 Black, Not Hispanic",CPP,46,29,10
+unknown,"3 Black, Not Hispanic",CSV,57,13,9
+unknown,"3 Black, Not Hispanic",DEM,9473,336,1487
+unknown,"3 Black, Not Hispanic",IND,358,124,83
+unknown,"3 Black, Not Hispanic",LPF,18,6,5
+unknown,"3 Black, Not Hispanic",NPA,2781,466,576
+unknown,"3 Black, Not Hispanic",REP,871,195,198
+unknown,4 Hispanic,AMF,88,73,25
+unknown,4 Hispanic,ASP,22,12,3
+unknown,4 Hispanic,BPP,192,108,58
+unknown,4 Hispanic,CPF,31,7,3
+unknown,4 Hispanic,CPP,25,21,4
+unknown,4 Hispanic,CSV,50,14,12
+unknown,4 Hispanic,DEM,4001,392,846
+unknown,4 Hispanic,GRE,14,4,2
+unknown,4 Hispanic,IND,332,123,84
+unknown,4 Hispanic,LPF,22,5,8
+unknown,4 Hispanic,NPA,3947,488,907
+unknown,4 Hispanic,REP,4071,678,966
+unknown,"5 White, Not Hispanic",AMF,236,206,54
+unknown,"5 White, Not Hispanic",ASP,68,26,24
+unknown,"5 White, Not Hispanic",BPP,14,7,6
+unknown,"5 White, Not Hispanic",CPF,95,14,28
+unknown,"5 White, Not Hispanic",CPP,54,28,12
+unknown,"5 White, Not Hispanic",CSV,300,75,94
+unknown,"5 White, Not Hispanic",DEM,13978,1085,2753
+unknown,"5 White, Not Hispanic",ECO,26,12,8
+unknown,"5 White, Not Hispanic",FFP,10,6,1
+unknown,"5 White, Not Hispanic",GRE,77,22,22
+unknown,"5 White, Not Hispanic",IND,2250,863,564
+unknown,"5 White, Not Hispanic",LPF,264,64,76
+unknown,"5 White, Not Hispanic",NPA,13521,1649,3202
+unknown,"5 White, Not Hispanic",PSL,10,4,2
+unknown,"5 White, Not Hispanic",REP,32310,2169,7611
+unknown,6 Other,AMF,12,12,3
+unknown,6 Other,CSV,11,0,4
+unknown,6 Other,DEM,613,76,135
+unknown,6 Other,IND,81,31,22
+unknown,6 Other,NPA,660,87,145
+unknown,6 Other,REP,595,96,132
+unknown,7 Multi-racial,DEM,189,22,39
+unknown,7 Multi-racial,IND,12,8,1
+unknown,7 Multi-racial,NPA,189,37,37
+unknown,7 Multi-racial,REP,122,29,15
+unknown,9 Unknown,DEM,663,87,192
+unknown,9 Unknown,IND,89,35,25
+unknown,9 Unknown,LPF,16,2,5
+unknown,9 Unknown,NPA,873,99,229
+unknown,9 Unknown,REP,555,85,160
+up (>=+15%),1 American Indian / Alaskan,DEM,26,3,8
+up (>=+15%),1 American Indian / Alaskan,NPA,17,6,8
+up (>=+15%),1 American Indian / Alaskan,REP,26,6,10
+up (>=+15%),2 Asian / Pacific Islander,DEM,252,48,114
+up (>=+15%),2 Asian / Pacific Islander,IND,19,9,10
+up (>=+15%),2 Asian / Pacific Islander,NPA,299,59,149
+up (>=+15%),2 Asian / Pacific Islander,REP,248,45,115
+up (>=+15%),"3 Black, Not Hispanic",AMF,83,75,42
+up (>=+15%),"3 Black, Not Hispanic",ASP,11,6,6
+up (>=+15%),"3 Black, Not Hispanic",CPF,15,2,6
+up (>=+15%),"3 Black, Not Hispanic",CPP,28,26,13
+up (>=+15%),"3 Black, Not Hispanic",CSV,32,12,13
+up (>=+15%),"3 Black, Not Hispanic",DEM,3773,288,1455
+up (>=+15%),"3 Black, Not Hispanic",IND,206,106,97
+up (>=+15%),"3 Black, Not Hispanic",LPF,12,4,6
+up (>=+15%),"3 Black, Not Hispanic",NPA,1472,388,632
+up (>=+15%),"3 Black, Not Hispanic",REP,430,130,186
+up (>=+15%),4 Hispanic,AMF,80,76,43
+up (>=+15%),4 Hispanic,ASP,20,13,5
+up (>=+15%),4 Hispanic,BPP,166,105,86
+up (>=+15%),4 Hispanic,CPF,13,2,6
+up (>=+15%),4 Hispanic,CPP,17,13,10
+up (>=+15%),4 Hispanic,CSV,30,12,17
+up (>=+15%),4 Hispanic,DEM,2613,395,1216
+up (>=+15%),4 Hispanic,GRE,14,6,9
+up (>=+15%),4 Hispanic,IND,272,141,130
+up (>=+15%),4 Hispanic,LPF,20,8,12
+up (>=+15%),4 Hispanic,NPA,3118,583,1409
+up (>=+15%),4 Hispanic,REP,3139,582,1414
+up (>=+15%),"5 White, Not Hispanic",AMF,158,145,82
+up (>=+15%),"5 White, Not Hispanic",ASP,22,12,11
+up (>=+15%),"5 White, Not Hispanic",BPP,11,7,8
+up (>=+15%),"5 White, Not Hispanic",CPF,46,8,21
+up (>=+15%),"5 White, Not Hispanic",CPP,28,22,14
+up (>=+15%),"5 White, Not Hispanic",CSV,111,43,57
+up (>=+15%),"5 White, Not Hispanic",DEM,6406,748,2772
+up (>=+15%),"5 White, Not Hispanic",ECO,23,17,12
+up (>=+15%),"5 White, Not Hispanic",FFP,10,8,4
+up (>=+15%),"5 White, Not Hispanic",GRE,27,14,11
+up (>=+15%),"5 White, Not Hispanic",IND,1330,646,592
+up (>=+15%),"5 White, Not Hispanic",LPF,136,44,60
+up (>=+15%),"5 White, Not Hispanic",NPA,6557,1278,2783
+up (>=+15%),"5 White, Not Hispanic",PSL,14,7,8
+up (>=+15%),"5 White, Not Hispanic",REP,14285,1262,6330
+up (>=+15%),6 Other,DEM,345,58,147
+up (>=+15%),6 Other,IND,39,13,17
+up (>=+15%),6 Other,NPA,412,65,200
+up (>=+15%),6 Other,REP,307,49,135
+up (>=+15%),7 Multi-racial,DEM,89,15,39
+up (>=+15%),7 Multi-racial,NPA,72,14,34
+up (>=+15%),7 Multi-racial,REP,53,13,23
+up (>=+15%),9 Unknown,AMF,17,17,14
+up (>=+15%),9 Unknown,DEM,596,129,392
+up (>=+15%),9 Unknown,IND,72,51,53
+up (>=+15%),9 Unknown,NPA,651,138,396
+up (>=+15%),9 Unknown,REP,511,108,320

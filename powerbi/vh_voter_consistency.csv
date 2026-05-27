@@ -1,0 +1,2512 @@
+consistency_bucket,party,age_band,race_label,voters
+0 (none),BPP,25-34,4 Hispanic,20
+0 (none),BPP,35-44,4 Hispanic,13
+0 (none),BPP,45-54,4 Hispanic,14
+0 (none),CPF,45-54,"5 White, Not Hispanic",12
+0 (none),CSV,18-24,"5 White, Not Hispanic",13
+0 (none),CSV,25-34,4 Hispanic,13
+0 (none),CSV,25-34,"5 White, Not Hispanic",20
+0 (none),CSV,35-44,"3 Black, Not Hispanic",16
+0 (none),CSV,35-44,"5 White, Not Hispanic",21
+0 (none),CSV,45-54,"5 White, Not Hispanic",13
+0 (none),CSV,55-64,"5 White, Not Hispanic",17
+0 (none),CSV,65-74,"5 White, Not Hispanic",10
+0 (none),DEM,18-24,1 American Indian / Alaskan,10
+0 (none),DEM,18-24,2 Asian / Pacific Islander,81
+0 (none),DEM,18-24,"3 Black, Not Hispanic",883
+0 (none),DEM,18-24,4 Hispanic,417
+0 (none),DEM,18-24,"5 White, Not Hispanic",839
+0 (none),DEM,18-24,6 Other,67
+0 (none),DEM,18-24,7 Multi-racial,26
+0 (none),DEM,18-24,9 Unknown,125
+0 (none),DEM,25-34,1 American Indian / Alaskan,17
+0 (none),DEM,25-34,2 Asian / Pacific Islander,146
+0 (none),DEM,25-34,"3 Black, Not Hispanic",2074
+0 (none),DEM,25-34,4 Hispanic,1089
+0 (none),DEM,25-34,"5 White, Not Hispanic",1965
+0 (none),DEM,25-34,6 Other,131
+0 (none),DEM,25-34,7 Multi-racial,128
+0 (none),DEM,25-34,9 Unknown,282
+0 (none),DEM,35-44,1 American Indian / Alaskan,11
+0 (none),DEM,35-44,2 Asian / Pacific Islander,116
+0 (none),DEM,35-44,"3 Black, Not Hispanic",1466
+0 (none),DEM,35-44,4 Hispanic,738
+0 (none),DEM,35-44,"5 White, Not Hispanic",1425
+0 (none),DEM,35-44,6 Other,87
+0 (none),DEM,35-44,7 Multi-racial,49
+0 (none),DEM,35-44,9 Unknown,158
+0 (none),DEM,45-54,2 Asian / Pacific Islander,65
+0 (none),DEM,45-54,"3 Black, Not Hispanic",848
+0 (none),DEM,45-54,4 Hispanic,472
+0 (none),DEM,45-54,"5 White, Not Hispanic",680
+0 (none),DEM,45-54,6 Other,52
+0 (none),DEM,45-54,7 Multi-racial,13
+0 (none),DEM,45-54,9 Unknown,74
+0 (none),DEM,55-64,1 American Indian / Alaskan,10
+0 (none),DEM,55-64,2 Asian / Pacific Islander,44
+0 (none),DEM,55-64,"3 Black, Not Hispanic",769
+0 (none),DEM,55-64,4 Hispanic,429
+0 (none),DEM,55-64,"5 White, Not Hispanic",731
+0 (none),DEM,55-64,6 Other,50
+0 (none),DEM,55-64,7 Multi-racial,10
+0 (none),DEM,55-64,9 Unknown,68
+0 (none),DEM,65-74,1 American Indian / Alaskan,12
+0 (none),DEM,65-74,2 Asian / Pacific Islander,39
+0 (none),DEM,65-74,"3 Black, Not Hispanic",685
+0 (none),DEM,65-74,4 Hispanic,428
+0 (none),DEM,65-74,"5 White, Not Hispanic",748
+0 (none),DEM,65-74,6 Other,37
+0 (none),DEM,65-74,7 Multi-racial,12
+0 (none),DEM,65-74,9 Unknown,78
+0 (none),DEM,75+,1 American Indian / Alaskan,10
+0 (none),DEM,75+,2 Asian / Pacific Islander,51
+0 (none),DEM,75+,"3 Black, Not Hispanic",544
+0 (none),DEM,75+,4 Hispanic,590
+0 (none),DEM,75+,"5 White, Not Hispanic",1106
+0 (none),DEM,75+,6 Other,42
+0 (none),DEM,75+,9 Unknown,74
+0 (none),DEM,unknown,"3 Black, Not Hispanic",34
+0 (none),DEM,unknown,4 Hispanic,15
+0 (none),DEM,unknown,"5 White, Not Hispanic",27
+0 (none),GRE,25-34,"5 White, Not Hispanic",14
+0 (none),IND,18-24,"3 Black, Not Hispanic",29
+0 (none),IND,18-24,4 Hispanic,40
+0 (none),IND,18-24,"5 White, Not Hispanic",158
+0 (none),IND,18-24,6 Other,11
+0 (none),IND,18-24,9 Unknown,14
+0 (none),IND,25-34,"3 Black, Not Hispanic",73
+0 (none),IND,25-34,4 Hispanic,63
+0 (none),IND,25-34,"5 White, Not Hispanic",227
+0 (none),IND,25-34,9 Unknown,14
+0 (none),IND,35-44,"3 Black, Not Hispanic",45
+0 (none),IND,35-44,4 Hispanic,37
+0 (none),IND,35-44,"5 White, Not Hispanic",124
+0 (none),IND,35-44,9 Unknown,12
+0 (none),IND,45-54,"3 Black, Not Hispanic",21
+0 (none),IND,45-54,4 Hispanic,17
+0 (none),IND,45-54,"5 White, Not Hispanic",74
+0 (none),IND,55-64,"3 Black, Not Hispanic",15
+0 (none),IND,55-64,4 Hispanic,17
+0 (none),IND,55-64,"5 White, Not Hispanic",73
+0 (none),IND,65-74,4 Hispanic,11
+0 (none),IND,65-74,"5 White, Not Hispanic",65
+0 (none),IND,75+,"5 White, Not Hispanic",54
+0 (none),LPF,18-24,"5 White, Not Hispanic",10
+0 (none),LPF,25-34,"5 White, Not Hispanic",57
+0 (none),LPF,35-44,"5 White, Not Hispanic",49
+0 (none),LPF,45-54,"5 White, Not Hispanic",17
+0 (none),NPA,18-24,2 Asian / Pacific Islander,79
+0 (none),NPA,18-24,"3 Black, Not Hispanic",365
+0 (none),NPA,18-24,4 Hispanic,493
+0 (none),NPA,18-24,"5 White, Not Hispanic",1101
+0 (none),NPA,18-24,6 Other,98
+0 (none),NPA,18-24,7 Multi-racial,48
+0 (none),NPA,18-24,9 Unknown,254
+0 (none),NPA,25-34,1 American Indian / Alaskan,12
+0 (none),NPA,25-34,2 Asian / Pacific Islander,118
+0 (none),NPA,25-34,"3 Black, Not Hispanic",765
+0 (none),NPA,25-34,4 Hispanic,952
+0 (none),NPA,25-34,"5 White, Not Hispanic",1923
+0 (none),NPA,25-34,6 Other,131
+0 (none),NPA,25-34,7 Multi-racial,66
+0 (none),NPA,25-34,9 Unknown,294
+0 (none),NPA,35-44,1 American Indian / Alaskan,11
+0 (none),NPA,35-44,2 Asian / Pacific Islander,126
+0 (none),NPA,35-44,"3 Black, Not Hispanic",559
+0 (none),NPA,35-44,4 Hispanic,772
+0 (none),NPA,35-44,"5 White, Not Hispanic",1435
+0 (none),NPA,35-44,6 Other,125
+0 (none),NPA,35-44,7 Multi-racial,24
+0 (none),NPA,35-44,9 Unknown,209
+0 (none),NPA,45-54,1 American Indian / Alaskan,10
+0 (none),NPA,45-54,2 Asian / Pacific Islander,90
+0 (none),NPA,45-54,"3 Black, Not Hispanic",265
+0 (none),NPA,45-54,4 Hispanic,470
+0 (none),NPA,45-54,"5 White, Not Hispanic",859
+0 (none),NPA,45-54,6 Other,88
+0 (none),NPA,45-54,7 Multi-racial,18
+0 (none),NPA,45-54,9 Unknown,132
+0 (none),NPA,55-64,1 American Indian / Alaskan,10
+0 (none),NPA,55-64,2 Asian / Pacific Islander,67
+0 (none),NPA,55-64,"3 Black, Not Hispanic",130
+0 (none),NPA,55-64,4 Hispanic,367
+0 (none),NPA,55-64,"5 White, Not Hispanic",790
+0 (none),NPA,55-64,6 Other,46
+0 (none),NPA,55-64,9 Unknown,99
+0 (none),NPA,65-74,2 Asian / Pacific Islander,67
+0 (none),NPA,65-74,"3 Black, Not Hispanic",93
+0 (none),NPA,65-74,4 Hispanic,295
+0 (none),NPA,65-74,"5 White, Not Hispanic",580
+0 (none),NPA,65-74,6 Other,39
+0 (none),NPA,65-74,9 Unknown,74
+0 (none),NPA,75+,2 Asian / Pacific Islander,44
+0 (none),NPA,75+,"3 Black, Not Hispanic",44
+0 (none),NPA,75+,4 Hispanic,299
+0 (none),NPA,75+,"5 White, Not Hispanic",520
+0 (none),NPA,75+,6 Other,29
+0 (none),NPA,75+,9 Unknown,60
+0 (none),NPA,unknown,"3 Black, Not Hispanic",10
+0 (none),NPA,unknown,"5 White, Not Hispanic",31
+0 (none),REP,18-24,1 American Indian / Alaskan,20
+0 (none),REP,18-24,2 Asian / Pacific Islander,79
+0 (none),REP,18-24,"3 Black, Not Hispanic",102
+0 (none),REP,18-24,4 Hispanic,530
+0 (none),REP,18-24,"5 White, Not Hispanic",2462
+0 (none),REP,18-24,6 Other,69
+0 (none),REP,18-24,7 Multi-racial,31
+0 (none),REP,18-24,9 Unknown,134
+0 (none),REP,25-34,1 American Indian / Alaskan,18
+0 (none),REP,25-34,2 Asian / Pacific Islander,106
+0 (none),REP,25-34,"3 Black, Not Hispanic",237
+0 (none),REP,25-34,4 Hispanic,770
+0 (none),REP,25-34,"5 White, Not Hispanic",3389
+0 (none),REP,25-34,6 Other,79
+0 (none),REP,25-34,7 Multi-racial,42
+0 (none),REP,25-34,9 Unknown,163
+0 (none),REP,35-44,1 American Indian / Alaskan,14
+0 (none),REP,35-44,2 Asian / Pacific Islander,136
+0 (none),REP,35-44,"3 Black, Not Hispanic",189
+0 (none),REP,35-44,4 Hispanic,700
+0 (none),REP,35-44,"5 White, Not Hispanic",2321
+0 (none),REP,35-44,6 Other,90
+0 (none),REP,35-44,7 Multi-racial,16
+0 (none),REP,35-44,9 Unknown,130
+0 (none),REP,45-54,1 American Indian / Alaskan,10
+0 (none),REP,45-54,2 Asian / Pacific Islander,99
+0 (none),REP,45-54,"3 Black, Not Hispanic",116
+0 (none),REP,45-54,4 Hispanic,471
+0 (none),REP,45-54,"5 White, Not Hispanic",1627
+0 (none),REP,45-54,6 Other,60
+0 (none),REP,45-54,7 Multi-racial,12
+0 (none),REP,45-54,9 Unknown,52
+0 (none),REP,55-64,1 American Indian / Alaskan,21
+0 (none),REP,55-64,2 Asian / Pacific Islander,74
+0 (none),REP,55-64,"3 Black, Not Hispanic",74
+0 (none),REP,55-64,4 Hispanic,475
+0 (none),REP,55-64,"5 White, Not Hispanic",2071
+0 (none),REP,55-64,6 Other,55
+0 (none),REP,55-64,9 Unknown,62
+0 (none),REP,65-74,1 American Indian / Alaskan,16
+0 (none),REP,65-74,2 Asian / Pacific Islander,77
+0 (none),REP,65-74,"3 Black, Not Hispanic",52
+0 (none),REP,65-74,4 Hispanic,372
+0 (none),REP,65-74,"5 White, Not Hispanic",1892
+0 (none),REP,65-74,6 Other,48
+0 (none),REP,65-74,9 Unknown,50
+0 (none),REP,75+,1 American Indian / Alaskan,11
+0 (none),REP,75+,2 Asian / Pacific Islander,67
+0 (none),REP,75+,"3 Black, Not Hispanic",34
+0 (none),REP,75+,4 Hispanic,603
+0 (none),REP,75+,"5 White, Not Hispanic",1925
+0 (none),REP,75+,6 Other,44
+0 (none),REP,75+,9 Unknown,64
+0 (none),REP,unknown,4 Hispanic,14
+0 (none),REP,unknown,"5 White, Not Hispanic",69
+1,AMF,18-24,"3 Black, Not Hispanic",67
+1,AMF,18-24,4 Hispanic,86
+1,AMF,18-24,"5 White, Not Hispanic",210
+1,AMF,18-24,6 Other,11
+1,AMF,25-34,2 Asian / Pacific Islander,12
+1,AMF,25-34,"3 Black, Not Hispanic",173
+1,AMF,25-34,4 Hispanic,154
+1,AMF,25-34,"5 White, Not Hispanic",355
+1,AMF,25-34,6 Other,25
+1,AMF,25-34,9 Unknown,15
+1,AMF,35-44,2 Asian / Pacific Islander,11
+1,AMF,35-44,"3 Black, Not Hispanic",122
+1,AMF,35-44,4 Hispanic,135
+1,AMF,35-44,"5 White, Not Hispanic",272
+1,AMF,35-44,6 Other,18
+1,AMF,45-54,2 Asian / Pacific Islander,12
+1,AMF,45-54,"3 Black, Not Hispanic",76
+1,AMF,45-54,4 Hispanic,92
+1,AMF,45-54,"5 White, Not Hispanic",199
+1,AMF,45-54,6 Other,14
+1,AMF,55-64,"3 Black, Not Hispanic",38
+1,AMF,55-64,4 Hispanic,54
+1,AMF,55-64,"5 White, Not Hispanic",191
+1,AMF,65-74,4 Hispanic,23
+1,AMF,65-74,"5 White, Not Hispanic",103
+1,AMF,75+,"5 White, Not Hispanic",35
+1,ASP,18-24,"3 Black, Not Hispanic",43
+1,ASP,18-24,4 Hispanic,63
+1,ASP,18-24,"5 White, Not Hispanic",96
+1,ASP,18-24,6 Other,12
+1,ASP,25-34,"3 Black, Not Hispanic",107
+1,ASP,25-34,4 Hispanic,92
+1,ASP,25-34,"5 White, Not Hispanic",180
+1,ASP,25-34,6 Other,11
+1,ASP,35-44,2 Asian / Pacific Islander,11
+1,ASP,35-44,"3 Black, Not Hispanic",80
+1,ASP,35-44,4 Hispanic,67
+1,ASP,35-44,"5 White, Not Hispanic",110
+1,ASP,45-54,"3 Black, Not Hispanic",41
+1,ASP,45-54,4 Hispanic,46
+1,ASP,45-54,"5 White, Not Hispanic",73
+1,ASP,55-64,"3 Black, Not Hispanic",20
+1,ASP,55-64,4 Hispanic,48
+1,ASP,55-64,"5 White, Not Hispanic",80
+1,ASP,65-74,4 Hispanic,33
+1,ASP,65-74,"5 White, Not Hispanic",44
+1,ASP,75+,"5 White, Not Hispanic",11
+1,BPP,18-24,"3 Black, Not Hispanic",21
+1,BPP,18-24,4 Hispanic,453
+1,BPP,18-24,"5 White, Not Hispanic",54
+1,BPP,18-24,6 Other,10
+1,BPP,25-34,"3 Black, Not Hispanic",37
+1,BPP,25-34,4 Hispanic,875
+1,BPP,25-34,"5 White, Not Hispanic",88
+1,BPP,25-34,6 Other,24
+1,BPP,35-44,"3 Black, Not Hispanic",37
+1,BPP,35-44,4 Hispanic,730
+1,BPP,35-44,"5 White, Not Hispanic",44
+1,BPP,35-44,6 Other,11
+1,BPP,45-54,"3 Black, Not Hispanic",22
+1,BPP,45-54,4 Hispanic,508
+1,BPP,45-54,"5 White, Not Hispanic",44
+1,BPP,55-64,4 Hispanic,290
+1,BPP,55-64,"5 White, Not Hispanic",37
+1,BPP,65-74,4 Hispanic,103
+1,BPP,65-74,"5 White, Not Hispanic",26
+1,BPP,75+,4 Hispanic,42
+1,CPF,18-24,2 Asian / Pacific Islander,32
+1,CPF,18-24,"3 Black, Not Hispanic",209
+1,CPF,18-24,4 Hispanic,288
+1,CPF,18-24,"5 White, Not Hispanic",442
+1,CPF,18-24,6 Other,49
+1,CPF,25-34,2 Asian / Pacific Islander,22
+1,CPF,25-34,"3 Black, Not Hispanic",226
+1,CPF,25-34,4 Hispanic,197
+1,CPF,25-34,"5 White, Not Hispanic",632
+1,CPF,25-34,6 Other,39
+1,CPF,35-44,2 Asian / Pacific Islander,32
+1,CPF,35-44,"3 Black, Not Hispanic",194
+1,CPF,35-44,4 Hispanic,175
+1,CPF,35-44,"5 White, Not Hispanic",568
+1,CPF,35-44,6 Other,28
+1,CPF,45-54,2 Asian / Pacific Islander,38
+1,CPF,45-54,"3 Black, Not Hispanic",107
+1,CPF,45-54,4 Hispanic,133
+1,CPF,45-54,"5 White, Not Hispanic",487
+1,CPF,45-54,6 Other,26
+1,CPF,55-64,2 Asian / Pacific Islander,27
+1,CPF,55-64,"3 Black, Not Hispanic",63
+1,CPF,55-64,4 Hispanic,111
+1,CPF,55-64,"5 White, Not Hispanic",490
+1,CPF,55-64,6 Other,23
+1,CPF,65-74,2 Asian / Pacific Islander,23
+1,CPF,65-74,"3 Black, Not Hispanic",20
+1,CPF,65-74,4 Hispanic,46
+1,CPF,65-74,"5 White, Not Hispanic",349
+1,CPF,65-74,6 Other,18
+1,CPF,75+,2 Asian / Pacific Islander,11
+1,CPF,75+,"3 Black, Not Hispanic",11
+1,CPF,75+,4 Hispanic,26
+1,CPF,75+,"5 White, Not Hispanic",132
+1,CPP,18-24,2 Asian / Pacific Islander,12
+1,CPP,18-24,"3 Black, Not Hispanic",66
+1,CPP,18-24,4 Hispanic,55
+1,CPP,18-24,"5 White, Not Hispanic",94
+1,CPP,18-24,6 Other,15
+1,CPP,25-34,2 Asian / Pacific Islander,10
+1,CPP,25-34,"3 Black, Not Hispanic",105
+1,CPP,25-34,4 Hispanic,85
+1,CPP,25-34,"5 White, Not Hispanic",189
+1,CPP,25-34,6 Other,22
+1,CPP,35-44,"3 Black, Not Hispanic",121
+1,CPP,35-44,4 Hispanic,82
+1,CPP,35-44,"5 White, Not Hispanic",156
+1,CPP,35-44,6 Other,16
+1,CPP,45-54,2 Asian / Pacific Islander,18
+1,CPP,45-54,"3 Black, Not Hispanic",100
+1,CPP,45-54,4 Hispanic,66
+1,CPP,45-54,"5 White, Not Hispanic",136
+1,CPP,45-54,6 Other,12
+1,CPP,55-64,2 Asian / Pacific Islander,10
+1,CPP,55-64,"3 Black, Not Hispanic",53
+1,CPP,55-64,4 Hispanic,38
+1,CPP,55-64,"5 White, Not Hispanic",160
+1,CPP,55-64,6 Other,11
+1,CPP,65-74,"3 Black, Not Hispanic",19
+1,CPP,65-74,4 Hispanic,17
+1,CPP,65-74,"5 White, Not Hispanic",128
+1,CPP,65-74,6 Other,10
+1,CPP,75+,4 Hispanic,10
+1,CPP,75+,"5 White, Not Hispanic",41
+1,CSV,18-24,2 Asian / Pacific Islander,33
+1,CSV,18-24,"3 Black, Not Hispanic",224
+1,CSV,18-24,4 Hispanic,378
+1,CSV,18-24,"5 White, Not Hispanic",973
+1,CSV,18-24,6 Other,50
+1,CSV,18-24,9 Unknown,14
+1,CSV,25-34,2 Asian / Pacific Islander,46
+1,CSV,25-34,"3 Black, Not Hispanic",373
+1,CSV,25-34,4 Hispanic,463
+1,CSV,25-34,"5 White, Not Hispanic",1468
+1,CSV,25-34,6 Other,72
+1,CSV,25-34,9 Unknown,20
+1,CSV,35-44,2 Asian / Pacific Islander,67
+1,CSV,35-44,"3 Black, Not Hispanic",343
+1,CSV,35-44,4 Hispanic,424
+1,CSV,35-44,"5 White, Not Hispanic",1177
+1,CSV,35-44,6 Other,58
+1,CSV,35-44,9 Unknown,17
+1,CSV,45-54,2 Asian / Pacific Islander,51
+1,CSV,45-54,"3 Black, Not Hispanic",255
+1,CSV,45-54,4 Hispanic,307
+1,CSV,45-54,"5 White, Not Hispanic",946
+1,CSV,45-54,6 Other,50
+1,CSV,55-64,2 Asian / Pacific Islander,42
+1,CSV,55-64,"3 Black, Not Hispanic",136
+1,CSV,55-64,4 Hispanic,233
+1,CSV,55-64,"5 White, Not Hispanic",1276
+1,CSV,55-64,6 Other,39
+1,CSV,55-64,9 Unknown,14
+1,CSV,65-74,2 Asian / Pacific Islander,45
+1,CSV,65-74,"3 Black, Not Hispanic",75
+1,CSV,65-74,4 Hispanic,115
+1,CSV,65-74,"5 White, Not Hispanic",1190
+1,CSV,65-74,6 Other,42
+1,CSV,75+,2 Asian / Pacific Islander,15
+1,CSV,75+,4 Hispanic,37
+1,CSV,75+,"5 White, Not Hispanic",496
+1,CSV,75+,6 Other,12
+1,CSV,unknown,"5 White, Not Hispanic",15
+1,DEM,18-24,1 American Indian / Alaskan,262
+1,DEM,18-24,2 Asian / Pacific Islander,4347
+1,DEM,18-24,"3 Black, Not Hispanic",37187
+1,DEM,18-24,4 Hispanic,29001
+1,DEM,18-24,"5 White, Not Hispanic",40590
+1,DEM,18-24,6 Other,3375
+1,DEM,18-24,7 Multi-racial,1589
+1,DEM,18-24,9 Unknown,7059
+1,DEM,25-34,1 American Indian / Alaskan,461
+1,DEM,25-34,2 Asian / Pacific Islander,5377
+1,DEM,25-34,"3 Black, Not Hispanic",51869
+1,DEM,25-34,4 Hispanic,36597
+1,DEM,25-34,"5 White, Not Hispanic",58590
+1,DEM,25-34,6 Other,4538
+1,DEM,25-34,7 Multi-racial,1950
+1,DEM,25-34,9 Unknown,7471
+1,DEM,35-44,1 American Indian / Alaskan,396
+1,DEM,35-44,2 Asian / Pacific Islander,3775
+1,DEM,35-44,"3 Black, Not Hispanic",41840
+1,DEM,35-44,4 Hispanic,27231
+1,DEM,35-44,"5 White, Not Hispanic",41405
+1,DEM,35-44,6 Other,3274
+1,DEM,35-44,7 Multi-racial,851
+1,DEM,35-44,9 Unknown,4846
+1,DEM,45-54,1 American Indian / Alaskan,255
+1,DEM,45-54,2 Asian / Pacific Islander,2632
+1,DEM,45-54,"3 Black, Not Hispanic",27968
+1,DEM,45-54,4 Hispanic,20205
+1,DEM,45-54,"5 White, Not Hispanic",25590
+1,DEM,45-54,6 Other,2488
+1,DEM,45-54,7 Multi-racial,406
+1,DEM,45-54,9 Unknown,3053
+1,DEM,55-64,1 American Indian / Alaskan,266
+1,DEM,55-64,2 Asian / Pacific Islander,2072
+1,DEM,55-64,"3 Black, Not Hispanic",23909
+1,DEM,55-64,4 Hispanic,18938
+1,DEM,55-64,"5 White, Not Hispanic",31249
+1,DEM,55-64,6 Other,2134
+1,DEM,55-64,7 Multi-racial,333
+1,DEM,55-64,9 Unknown,2718
+1,DEM,65-74,1 American Indian / Alaskan,223
+1,DEM,65-74,2 Asian / Pacific Islander,1563
+1,DEM,65-74,"3 Black, Not Hispanic",17742
+1,DEM,65-74,4 Hispanic,15453
+1,DEM,65-74,"5 White, Not Hispanic",35494
+1,DEM,65-74,6 Other,1728
+1,DEM,65-74,7 Multi-racial,269
+1,DEM,65-74,9 Unknown,2428
+1,DEM,75+,1 American Indian / Alaskan,167
+1,DEM,75+,2 Asian / Pacific Islander,1141
+1,DEM,75+,"3 Black, Not Hispanic",9812
+1,DEM,75+,4 Hispanic,13115
+1,DEM,75+,"5 White, Not Hispanic",27904
+1,DEM,75+,6 Other,1162
+1,DEM,75+,7 Multi-racial,174
+1,DEM,75+,9 Unknown,1770
+1,DEM,unknown,2 Asian / Pacific Islander,43
+1,DEM,unknown,"3 Black, Not Hispanic",729
+1,DEM,unknown,4 Hispanic,460
+1,DEM,unknown,"5 White, Not Hispanic",601
+1,DEM,unknown,6 Other,45
+1,DEM,unknown,7 Multi-racial,37
+1,DEM,unknown,9 Unknown,74
+1,ECO,18-24,2 Asian / Pacific Islander,14
+1,ECO,18-24,"3 Black, Not Hispanic",44
+1,ECO,18-24,4 Hispanic,50
+1,ECO,18-24,"5 White, Not Hispanic",116
+1,ECO,25-34,"3 Black, Not Hispanic",30
+1,ECO,25-34,4 Hispanic,54
+1,ECO,25-34,"5 White, Not Hispanic",157
+1,ECO,35-44,4 Hispanic,43
+1,ECO,35-44,"5 White, Not Hispanic",76
+1,ECO,45-54,"3 Black, Not Hispanic",11
+1,ECO,45-54,4 Hispanic,59
+1,ECO,45-54,"5 White, Not Hispanic",79
+1,ECO,55-64,4 Hispanic,30
+1,ECO,55-64,"5 White, Not Hispanic",77
+1,ECO,65-74,4 Hispanic,12
+1,ECO,65-74,"5 White, Not Hispanic",78
+1,ECO,75+,"5 White, Not Hispanic",27
+1,FFP,18-24,4 Hispanic,13
+1,FFP,18-24,"5 White, Not Hispanic",21
+1,FFP,25-34,"3 Black, Not Hispanic",21
+1,FFP,25-34,4 Hispanic,19
+1,FFP,25-34,"5 White, Not Hispanic",43
+1,FFP,35-44,"3 Black, Not Hispanic",16
+1,FFP,35-44,4 Hispanic,13
+1,FFP,35-44,"5 White, Not Hispanic",25
+1,FFP,45-54,"5 White, Not Hispanic",17
+1,FFP,55-64,"5 White, Not Hispanic",13
+1,GRE,18-24,2 Asian / Pacific Islander,23
+1,GRE,18-24,"3 Black, Not Hispanic",76
+1,GRE,18-24,4 Hispanic,157
+1,GRE,18-24,"5 White, Not Hispanic",391
+1,GRE,18-24,6 Other,23
+1,GRE,18-24,9 Unknown,40
+1,GRE,25-34,2 Asian / Pacific Islander,28
+1,GRE,25-34,"3 Black, Not Hispanic",93
+1,GRE,25-34,4 Hispanic,171
+1,GRE,25-34,"5 White, Not Hispanic",496
+1,GRE,25-34,6 Other,36
+1,GRE,25-34,9 Unknown,39
+1,GRE,35-44,2 Asian / Pacific Islander,17
+1,GRE,35-44,"3 Black, Not Hispanic",50
+1,GRE,35-44,4 Hispanic,65
+1,GRE,35-44,"5 White, Not Hispanic",345
+1,GRE,35-44,6 Other,36
+1,GRE,35-44,9 Unknown,30
+1,GRE,45-54,2 Asian / Pacific Islander,12
+1,GRE,45-54,"3 Black, Not Hispanic",27
+1,GRE,45-54,4 Hispanic,36
+1,GRE,45-54,"5 White, Not Hispanic",190
+1,GRE,45-54,6 Other,16
+1,GRE,55-64,"3 Black, Not Hispanic",12
+1,GRE,55-64,4 Hispanic,24
+1,GRE,55-64,"5 White, Not Hispanic",128
+1,GRE,55-64,6 Other,10
+1,GRE,65-74,4 Hispanic,12
+1,GRE,65-74,"5 White, Not Hispanic",93
+1,GRE,75+,"5 White, Not Hispanic",34
+1,IND,18-24,1 American Indian / Alaskan,46
+1,IND,18-24,2 Asian / Pacific Islander,409
+1,IND,18-24,"3 Black, Not Hispanic",1715
+1,IND,18-24,4 Hispanic,3512
+1,IND,18-24,"5 White, Not Hispanic",8598
+1,IND,18-24,6 Other,465
+1,IND,18-24,7 Multi-racial,54
+1,IND,18-24,9 Unknown,891
+1,IND,25-34,1 American Indian / Alaskan,44
+1,IND,25-34,2 Asian / Pacific Islander,325
+1,IND,25-34,"3 Black, Not Hispanic",2138
+1,IND,25-34,4 Hispanic,3280
+1,IND,25-34,"5 White, Not Hispanic",11514
+1,IND,25-34,6 Other,586
+1,IND,25-34,7 Multi-racial,52
+1,IND,25-34,9 Unknown,743
+1,IND,35-44,1 American Indian / Alaskan,33
+1,IND,35-44,2 Asian / Pacific Islander,295
+1,IND,35-44,"3 Black, Not Hispanic",1726
+1,IND,35-44,4 Hispanic,2166
+1,IND,35-44,"5 White, Not Hispanic",7321
+1,IND,35-44,6 Other,380
+1,IND,35-44,7 Multi-racial,28
+1,IND,35-44,9 Unknown,429
+1,IND,45-54,1 American Indian / Alaskan,23
+1,IND,45-54,2 Asian / Pacific Islander,266
+1,IND,45-54,"3 Black, Not Hispanic",1226
+1,IND,45-54,4 Hispanic,1603
+1,IND,45-54,"5 White, Not Hispanic",5197
+1,IND,45-54,6 Other,277
+1,IND,45-54,7 Multi-racial,21
+1,IND,45-54,9 Unknown,300
+1,IND,55-64,1 American Indian / Alaskan,25
+1,IND,55-64,2 Asian / Pacific Islander,201
+1,IND,55-64,"3 Black, Not Hispanic",801
+1,IND,55-64,4 Hispanic,1367
+1,IND,55-64,"5 White, Not Hispanic",6359
+1,IND,55-64,6 Other,231
+1,IND,55-64,9 Unknown,243
+1,IND,65-74,1 American Indian / Alaskan,19
+1,IND,65-74,2 Asian / Pacific Islander,129
+1,IND,65-74,"3 Black, Not Hispanic",425
+1,IND,65-74,4 Hispanic,807
+1,IND,65-74,"5 White, Not Hispanic",6295
+1,IND,65-74,6 Other,164
+1,IND,65-74,7 Multi-racial,12
+1,IND,65-74,9 Unknown,176
+1,IND,75+,2 Asian / Pacific Islander,89
+1,IND,75+,"3 Black, Not Hispanic",115
+1,IND,75+,4 Hispanic,417
+1,IND,75+,"5 White, Not Hispanic",3270
+1,IND,75+,6 Other,86
+1,IND,75+,9 Unknown,87
+1,IND,unknown,"3 Black, Not Hispanic",45
+1,IND,unknown,4 Hispanic,46
+1,IND,unknown,"5 White, Not Hispanic",99
+1,LPF,18-24,2 Asian / Pacific Islander,25
+1,LPF,18-24,"3 Black, Not Hispanic",53
+1,LPF,18-24,4 Hispanic,167
+1,LPF,18-24,"5 White, Not Hispanic",592
+1,LPF,18-24,6 Other,23
+1,LPF,18-24,9 Unknown,67
+1,LPF,25-34,1 American Indian / Alaskan,13
+1,LPF,25-34,2 Asian / Pacific Islander,50
+1,LPF,25-34,"3 Black, Not Hispanic",141
+1,LPF,25-34,4 Hispanic,400
+1,LPF,25-34,"5 White, Not Hispanic",2148
+1,LPF,25-34,6 Other,83
+1,LPF,25-34,7 Multi-racial,20
+1,LPF,25-34,9 Unknown,121
+1,LPF,35-44,1 American Indian / Alaskan,22
+1,LPF,35-44,2 Asian / Pacific Islander,50
+1,LPF,35-44,"3 Black, Not Hispanic",114
+1,LPF,35-44,4 Hispanic,240
+1,LPF,35-44,"5 White, Not Hispanic",2003
+1,LPF,35-44,6 Other,67
+1,LPF,35-44,7 Multi-racial,15
+1,LPF,35-44,9 Unknown,92
+1,LPF,45-54,2 Asian / Pacific Islander,27
+1,LPF,45-54,"3 Black, Not Hispanic",34
+1,LPF,45-54,4 Hispanic,102
+1,LPF,45-54,"5 White, Not Hispanic",935
+1,LPF,45-54,6 Other,38
+1,LPF,45-54,9 Unknown,33
+1,LPF,55-64,4 Hispanic,44
+1,LPF,55-64,"5 White, Not Hispanic",523
+1,LPF,55-64,6 Other,14
+1,LPF,55-64,9 Unknown,14
+1,LPF,65-74,4 Hispanic,17
+1,LPF,65-74,"5 White, Not Hispanic",234
+1,LPF,75+,"5 White, Not Hispanic",88
+1,LPF,unknown,"5 White, Not Hispanic",12
+1,NPA,18-24,1 American Indian / Alaskan,329
+1,NPA,18-24,2 Asian / Pacific Islander,5171
+1,NPA,18-24,"3 Black, Not Hispanic",16570
+1,NPA,18-24,4 Hispanic,36449
+1,NPA,18-24,"5 White, Not Hispanic",54151
+1,NPA,18-24,6 Other,4478
+1,NPA,18-24,7 Multi-racial,1687
+1,NPA,18-24,9 Unknown,11399
+1,NPA,25-34,1 American Indian / Alaskan,584
+1,NPA,25-34,2 Asian / Pacific Islander,6605
+1,NPA,25-34,"3 Black, Not Hispanic",27598
+1,NPA,25-34,4 Hispanic,53850
+1,NPA,25-34,"5 White, Not Hispanic",92346
+1,NPA,25-34,6 Other,6487
+1,NPA,25-34,7 Multi-racial,2099
+1,NPA,25-34,9 Unknown,12550
+1,NPA,35-44,1 American Indian / Alaskan,418
+1,NPA,35-44,2 Asian / Pacific Islander,6858
+1,NPA,35-44,"3 Black, Not Hispanic",21469
+1,NPA,35-44,4 Hispanic,47771
+1,NPA,35-44,"5 White, Not Hispanic",78444
+1,NPA,35-44,6 Other,5969
+1,NPA,35-44,7 Multi-racial,886
+1,NPA,35-44,9 Unknown,9810
+1,NPA,45-54,1 American Indian / Alaskan,333
+1,NPA,45-54,2 Asian / Pacific Islander,6008
+1,NPA,45-54,"3 Black, Not Hispanic",11880
+1,NPA,45-54,4 Hispanic,34186
+1,NPA,45-54,"5 White, Not Hispanic",53218
+1,NPA,45-54,6 Other,4267
+1,NPA,45-54,7 Multi-racial,510
+1,NPA,45-54,9 Unknown,6751
+1,NPA,55-64,1 American Indian / Alaskan,250
+1,NPA,55-64,2 Asian / Pacific Islander,4194
+1,NPA,55-64,"3 Black, Not Hispanic",6729
+1,NPA,55-64,4 Hispanic,24447
+1,NPA,55-64,"5 White, Not Hispanic",51662
+1,NPA,55-64,6 Other,3031
+1,NPA,55-64,7 Multi-racial,387
+1,NPA,55-64,9 Unknown,5225
+1,NPA,65-74,1 American Indian / Alaskan,207
+1,NPA,65-74,2 Asian / Pacific Islander,2793
+1,NPA,65-74,"3 Black, Not Hispanic",3441
+1,NPA,65-74,4 Hispanic,14731
+1,NPA,65-74,"5 White, Not Hispanic",42965
+1,NPA,65-74,6 Other,2026
+1,NPA,65-74,7 Multi-racial,212
+1,NPA,65-74,9 Unknown,3832
+1,NPA,75+,1 American Indian / Alaskan,126
+1,NPA,75+,2 Asian / Pacific Islander,1848
+1,NPA,75+,"3 Black, Not Hispanic",1375
+1,NPA,75+,4 Hispanic,10200
+1,NPA,75+,"5 White, Not Hispanic",26300
+1,NPA,75+,6 Other,1114
+1,NPA,75+,7 Multi-racial,132
+1,NPA,75+,9 Unknown,2611
+1,NPA,unknown,2 Asian / Pacific Islander,65
+1,NPA,unknown,"3 Black, Not Hispanic",366
+1,NPA,unknown,4 Hispanic,594
+1,NPA,unknown,"5 White, Not Hispanic",888
+1,NPA,unknown,6 Other,69
+1,NPA,unknown,7 Multi-racial,38
+1,NPA,unknown,9 Unknown,120
+1,PSL,18-24,2 Asian / Pacific Islander,10
+1,PSL,18-24,"3 Black, Not Hispanic",44
+1,PSL,18-24,4 Hispanic,67
+1,PSL,18-24,"5 White, Not Hispanic",141
+1,PSL,18-24,6 Other,10
+1,PSL,18-24,9 Unknown,23
+1,PSL,25-34,"3 Black, Not Hispanic",55
+1,PSL,25-34,4 Hispanic,60
+1,PSL,25-34,"5 White, Not Hispanic",156
+1,PSL,25-34,9 Unknown,17
+1,PSL,35-44,"3 Black, Not Hispanic",13
+1,PSL,35-44,4 Hispanic,23
+1,PSL,35-44,"5 White, Not Hispanic",57
+1,PSL,45-54,"5 White, Not Hispanic",10
+1,PSL,55-64,"5 White, Not Hispanic",11
+1,REP,18-24,1 American Indian / Alaskan,461
+1,REP,18-24,2 Asian / Pacific Islander,2494
+1,REP,18-24,"3 Black, Not Hispanic",2725
+1,REP,18-24,4 Hispanic,28011
+1,REP,18-24,"5 White, Not Hispanic",100250
+1,REP,18-24,6 Other,2693
+1,REP,18-24,7 Multi-racial,844
+1,REP,18-24,9 Unknown,5159
+1,REP,25-34,1 American Indian / Alaskan,523
+1,REP,25-34,2 Asian / Pacific Islander,3469
+1,REP,25-34,"3 Black, Not Hispanic",5388
+1,REP,25-34,4 Hispanic,36696
+1,REP,25-34,"5 White, Not Hispanic",125167
+1,REP,25-34,6 Other,3351
+1,REP,25-34,7 Multi-racial,730
+1,REP,25-34,9 Unknown,4498
+1,REP,35-44,1 American Indian / Alaskan,420
+1,REP,35-44,2 Asian / Pacific Islander,4455
+1,REP,35-44,"3 Black, Not Hispanic",5115
+1,REP,35-44,4 Hispanic,37887
+1,REP,35-44,"5 White, Not Hispanic",96746
+1,REP,35-44,6 Other,3119
+1,REP,35-44,7 Multi-racial,400
+1,REP,35-44,9 Unknown,4134
+1,REP,45-54,1 American Indian / Alaskan,348
+1,REP,45-54,2 Asian / Pacific Islander,4307
+1,REP,45-54,"3 Black, Not Hispanic",3364
+1,REP,45-54,4 Hispanic,27378
+1,REP,45-54,"5 White, Not Hispanic",77081
+1,REP,45-54,6 Other,2624
+1,REP,45-54,7 Multi-racial,231
+1,REP,45-54,9 Unknown,2930
+1,REP,55-64,1 American Indian / Alaskan,418
+1,REP,55-64,2 Asian / Pacific Islander,3560
+1,REP,55-64,"3 Black, Not Hispanic",2308
+1,REP,55-64,4 Hispanic,23715
+1,REP,55-64,"5 White, Not Hispanic",106850
+1,REP,55-64,6 Other,2372
+1,REP,55-64,7 Multi-racial,200
+1,REP,55-64,9 Unknown,2928
+1,REP,65-74,1 American Indian / Alaskan,341
+1,REP,65-74,2 Asian / Pacific Islander,2448
+1,REP,65-74,"3 Black, Not Hispanic",1395
+1,REP,65-74,4 Hispanic,14212
+1,REP,65-74,"5 White, Not Hispanic",93839
+1,REP,65-74,6 Other,1738
+1,REP,65-74,7 Multi-racial,158
+1,REP,65-74,9 Unknown,2468
+1,REP,75+,1 American Indian / Alaskan,223
+1,REP,75+,2 Asian / Pacific Islander,1606
+1,REP,75+,"3 Black, Not Hispanic",554
+1,REP,75+,4 Hispanic,10961
+1,REP,75+,"5 White, Not Hispanic",54527
+1,REP,75+,6 Other,913
+1,REP,75+,7 Multi-racial,87
+1,REP,75+,9 Unknown,1654
+1,REP,unknown,2 Asian / Pacific Islander,46
+1,REP,unknown,"3 Black, Not Hispanic",93
+1,REP,unknown,4 Hispanic,460
+1,REP,unknown,"5 White, Not Hispanic",1859
+1,REP,unknown,6 Other,65
+1,REP,unknown,7 Multi-racial,17
+1,REP,unknown,9 Unknown,63
+2,AMF,18-24,4 Hispanic,16
+2,AMF,18-24,"5 White, Not Hispanic",51
+2,AMF,25-34,"3 Black, Not Hispanic",92
+2,AMF,25-34,4 Hispanic,92
+2,AMF,25-34,"5 White, Not Hispanic",222
+2,AMF,25-34,6 Other,16
+2,AMF,35-44,"3 Black, Not Hispanic",87
+2,AMF,35-44,4 Hispanic,80
+2,AMF,35-44,"5 White, Not Hispanic",171
+2,AMF,35-44,6 Other,11
+2,AMF,45-54,2 Asian / Pacific Islander,10
+2,AMF,45-54,"3 Black, Not Hispanic",61
+2,AMF,45-54,4 Hispanic,55
+2,AMF,45-54,"5 White, Not Hispanic",174
+2,AMF,55-64,"3 Black, Not Hispanic",40
+2,AMF,55-64,4 Hispanic,44
+2,AMF,55-64,"5 White, Not Hispanic",146
+2,AMF,55-64,6 Other,10
+2,AMF,65-74,4 Hispanic,14
+2,AMF,65-74,"5 White, Not Hispanic",100
+2,AMF,75+,"5 White, Not Hispanic",32
+2,ASP,18-24,4 Hispanic,11
+2,ASP,18-24,"5 White, Not Hispanic",17
+2,ASP,25-34,"3 Black, Not Hispanic",54
+2,ASP,25-34,4 Hispanic,41
+2,ASP,25-34,"5 White, Not Hispanic",82
+2,ASP,35-44,"3 Black, Not Hispanic",51
+2,ASP,35-44,4 Hispanic,47
+2,ASP,35-44,"5 White, Not Hispanic",56
+2,ASP,45-54,"3 Black, Not Hispanic",30
+2,ASP,45-54,4 Hispanic,37
+2,ASP,45-54,"5 White, Not Hispanic",44
+2,ASP,55-64,"3 Black, Not Hispanic",17
+2,ASP,55-64,4 Hispanic,30
+2,ASP,55-64,"5 White, Not Hispanic",45
+2,ASP,65-74,4 Hispanic,17
+2,ASP,65-74,"5 White, Not Hispanic",20
+2,BPP,18-24,4 Hispanic,26
+2,BPP,25-34,"3 Black, Not Hispanic",19
+2,BPP,25-34,4 Hispanic,346
+2,BPP,25-34,"5 White, Not Hispanic",42
+2,BPP,35-44,"3 Black, Not Hispanic",11
+2,BPP,35-44,4 Hispanic,337
+2,BPP,35-44,"5 White, Not Hispanic",25
+2,BPP,45-54,"3 Black, Not Hispanic",15
+2,BPP,45-54,4 Hispanic,310
+2,BPP,45-54,"5 White, Not Hispanic",24
+2,BPP,55-64,4 Hispanic,169
+2,BPP,55-64,"5 White, Not Hispanic",22
+2,BPP,65-74,4 Hispanic,47
+2,BPP,75+,4 Hispanic,17
+2,CPF,18-24,4 Hispanic,15
+2,CPF,18-24,"5 White, Not Hispanic",33
+2,CPF,25-34,"3 Black, Not Hispanic",87
+2,CPF,25-34,4 Hispanic,82
+2,CPF,25-34,"5 White, Not Hispanic",226
+2,CPF,25-34,6 Other,17
+2,CPF,35-44,"3 Black, Not Hispanic",107
+2,CPF,35-44,4 Hispanic,77
+2,CPF,35-44,"5 White, Not Hispanic",241
+2,CPF,35-44,6 Other,11
+2,CPF,45-54,"3 Black, Not Hispanic",56
+2,CPF,45-54,4 Hispanic,65
+2,CPF,45-54,"5 White, Not Hispanic",191
+2,CPF,45-54,6 Other,11
+2,CPF,55-64,"3 Black, Not Hispanic",43
+2,CPF,55-64,4 Hispanic,41
+2,CPF,55-64,"5 White, Not Hispanic",173
+2,CPF,65-74,"3 Black, Not Hispanic",17
+2,CPF,65-74,4 Hispanic,26
+2,CPF,65-74,"5 White, Not Hispanic",114
+2,CPF,75+,"5 White, Not Hispanic",37
+2,CPP,18-24,"5 White, Not Hispanic",17
+2,CPP,25-34,"3 Black, Not Hispanic",44
+2,CPP,25-34,4 Hispanic,41
+2,CPP,25-34,"5 White, Not Hispanic",61
+2,CPP,35-44,"3 Black, Not Hispanic",78
+2,CPP,35-44,4 Hispanic,42
+2,CPP,35-44,"5 White, Not Hispanic",60
+2,CPP,45-54,"3 Black, Not Hispanic",47
+2,CPP,45-54,4 Hispanic,30
+2,CPP,45-54,"5 White, Not Hispanic",72
+2,CPP,45-54,6 Other,11
+2,CPP,55-64,"3 Black, Not Hispanic",26
+2,CPP,55-64,4 Hispanic,21
+2,CPP,55-64,"5 White, Not Hispanic",56
+2,CPP,65-74,"5 White, Not Hispanic",33
+2,CPP,75+,"5 White, Not Hispanic",22
+2,CSV,18-24,4 Hispanic,15
+2,CSV,18-24,"5 White, Not Hispanic",66
+2,CSV,25-34,2 Asian / Pacific Islander,25
+2,CSV,25-34,"3 Black, Not Hispanic",176
+2,CSV,25-34,4 Hispanic,200
+2,CSV,25-34,"5 White, Not Hispanic",548
+2,CSV,25-34,6 Other,20
+2,CSV,35-44,2 Asian / Pacific Islander,16
+2,CSV,35-44,"3 Black, Not Hispanic",198
+2,CSV,35-44,4 Hispanic,177
+2,CSV,35-44,"5 White, Not Hispanic",440
+2,CSV,35-44,6 Other,22
+2,CSV,45-54,2 Asian / Pacific Islander,17
+2,CSV,45-54,"3 Black, Not Hispanic",134
+2,CSV,45-54,4 Hispanic,180
+2,CSV,45-54,"5 White, Not Hispanic",364
+2,CSV,45-54,6 Other,18
+2,CSV,55-64,2 Asian / Pacific Islander,13
+2,CSV,55-64,"3 Black, Not Hispanic",75
+2,CSV,55-64,4 Hispanic,107
+2,CSV,55-64,"5 White, Not Hispanic",409
+2,CSV,55-64,6 Other,18
+2,CSV,65-74,2 Asian / Pacific Islander,11
+2,CSV,65-74,"3 Black, Not Hispanic",29
+2,CSV,65-74,4 Hispanic,47
+2,CSV,65-74,"5 White, Not Hispanic",329
+2,CSV,75+,4 Hispanic,19
+2,CSV,75+,"5 White, Not Hispanic",129
+2,DEM,18-24,1 American Indian / Alaskan,68
+2,DEM,18-24,2 Asian / Pacific Islander,1487
+2,DEM,18-24,"3 Black, Not Hispanic",9570
+2,DEM,18-24,4 Hispanic,8213
+2,DEM,18-24,"5 White, Not Hispanic",14532
+2,DEM,18-24,6 Other,1048
+2,DEM,18-24,7 Multi-racial,503
+2,DEM,18-24,9 Unknown,2517
+2,DEM,25-34,1 American Indian / Alaskan,377
+2,DEM,25-34,2 Asian / Pacific Islander,4666
+2,DEM,25-34,"3 Black, Not Hispanic",42623
+2,DEM,25-34,4 Hispanic,32586
+2,DEM,25-34,"5 White, Not Hispanic",51199
+2,DEM,25-34,6 Other,3679
+2,DEM,25-34,7 Multi-racial,1835
+2,DEM,25-34,9 Unknown,6169
+2,DEM,35-44,1 American Indian / Alaskan,295
+2,DEM,35-44,2 Asian / Pacific Islander,2743
+2,DEM,35-44,"3 Black, Not Hispanic",36300
+2,DEM,35-44,4 Hispanic,22931
+2,DEM,35-44,"5 White, Not Hispanic",37485
+2,DEM,35-44,6 Other,2713
+2,DEM,35-44,7 Multi-racial,704
+2,DEM,35-44,9 Unknown,3792
+2,DEM,45-54,1 American Indian / Alaskan,226
+2,DEM,45-54,2 Asian / Pacific Islander,2212
+2,DEM,45-54,"3 Black, Not Hispanic",26494
+2,DEM,45-54,4 Hispanic,19337
+2,DEM,45-54,"5 White, Not Hispanic",24419
+2,DEM,45-54,6 Other,2152
+2,DEM,45-54,7 Multi-racial,436
+2,DEM,45-54,9 Unknown,2657
+2,DEM,55-64,1 American Indian / Alaskan,244
+2,DEM,55-64,2 Asian / Pacific Islander,1864
+2,DEM,55-64,"3 Black, Not Hispanic",22704
+2,DEM,55-64,4 Hispanic,18062
+2,DEM,55-64,"5 White, Not Hispanic",29403
+2,DEM,55-64,6 Other,1802
+2,DEM,55-64,7 Multi-racial,318
+2,DEM,55-64,9 Unknown,2593
+2,DEM,65-74,1 American Indian / Alaskan,227
+2,DEM,65-74,2 Asian / Pacific Islander,1406
+2,DEM,65-74,"3 Black, Not Hispanic",17332
+2,DEM,65-74,4 Hispanic,14253
+2,DEM,65-74,"5 White, Not Hispanic",37149
+2,DEM,65-74,6 Other,1627
+2,DEM,65-74,7 Multi-racial,236
+2,DEM,65-74,9 Unknown,2082
+2,DEM,75+,1 American Indian / Alaskan,192
+2,DEM,75+,2 Asian / Pacific Islander,1024
+2,DEM,75+,"3 Black, Not Hispanic",10152
+2,DEM,75+,4 Hispanic,12453
+2,DEM,75+,"5 White, Not Hispanic",31119
+2,DEM,75+,6 Other,1159
+2,DEM,75+,7 Multi-racial,169
+2,DEM,75+,9 Unknown,1502
+2,DEM,unknown,2 Asian / Pacific Islander,49
+2,DEM,unknown,"3 Black, Not Hispanic",598
+2,DEM,unknown,4 Hispanic,326
+2,DEM,unknown,"5 White, Not Hispanic",598
+2,DEM,unknown,6 Other,34
+2,DEM,unknown,7 Multi-racial,19
+2,DEM,unknown,9 Unknown,48
+2,ECO,18-24,"5 White, Not Hispanic",11
+2,ECO,25-34,"3 Black, Not Hispanic",17
+2,ECO,25-34,4 Hispanic,22
+2,ECO,25-34,"5 White, Not Hispanic",64
+2,ECO,35-44,4 Hispanic,29
+2,ECO,35-44,"5 White, Not Hispanic",53
+2,ECO,45-54,4 Hispanic,29
+2,ECO,45-54,"5 White, Not Hispanic",39
+2,ECO,55-64,4 Hispanic,23
+2,ECO,55-64,"5 White, Not Hispanic",31
+2,ECO,65-74,4 Hispanic,11
+2,ECO,65-74,"5 White, Not Hispanic",33
+2,ECO,75+,"5 White, Not Hispanic",18
+2,FFP,25-34,"3 Black, Not Hispanic",15
+2,FFP,25-34,4 Hispanic,13
+2,FFP,25-34,"5 White, Not Hispanic",23
+2,FFP,35-44,"5 White, Not Hispanic",23
+2,FFP,45-54,"5 White, Not Hispanic",16
+2,FFP,55-64,"5 White, Not Hispanic",12
+2,FFP,65-74,"5 White, Not Hispanic",11
+2,GRE,18-24,"3 Black, Not Hispanic",14
+2,GRE,18-24,4 Hispanic,30
+2,GRE,18-24,"5 White, Not Hispanic",69
+2,GRE,18-24,9 Unknown,14
+2,GRE,25-34,2 Asian / Pacific Islander,15
+2,GRE,25-34,"3 Black, Not Hispanic",60
+2,GRE,25-34,4 Hispanic,95
+2,GRE,25-34,"5 White, Not Hispanic",297
+2,GRE,25-34,6 Other,26
+2,GRE,25-34,7 Multi-racial,10
+2,GRE,25-34,9 Unknown,27
+2,GRE,35-44,2 Asian / Pacific Islander,13
+2,GRE,35-44,"3 Black, Not Hispanic",43
+2,GRE,35-44,4 Hispanic,67
+2,GRE,35-44,"5 White, Not Hispanic",238
+2,GRE,35-44,6 Other,16
+2,GRE,35-44,9 Unknown,20
+2,GRE,45-54,"3 Black, Not Hispanic",15
+2,GRE,45-54,4 Hispanic,35
+2,GRE,45-54,"5 White, Not Hispanic",117
+2,GRE,45-54,6 Other,10
+2,GRE,55-64,4 Hispanic,12
+2,GRE,55-64,"5 White, Not Hispanic",81
+2,GRE,65-74,"5 White, Not Hispanic",80
+2,GRE,75+,"5 White, Not Hispanic",25
+2,IND,18-24,2 Asian / Pacific Islander,75
+2,IND,18-24,"3 Black, Not Hispanic",324
+2,IND,18-24,4 Hispanic,759
+2,IND,18-24,"5 White, Not Hispanic",2066
+2,IND,18-24,6 Other,103
+2,IND,18-24,7 Multi-racial,18
+2,IND,18-24,9 Unknown,252
+2,IND,25-34,1 American Indian / Alaskan,36
+2,IND,25-34,2 Asian / Pacific Islander,238
+2,IND,25-34,"3 Black, Not Hispanic",1507
+2,IND,25-34,4 Hispanic,2643
+2,IND,25-34,"5 White, Not Hispanic",7716
+2,IND,25-34,6 Other,372
+2,IND,25-34,7 Multi-racial,46
+2,IND,25-34,9 Unknown,519
+2,IND,35-44,1 American Indian / Alaskan,29
+2,IND,35-44,2 Asian / Pacific Islander,183
+2,IND,35-44,"3 Black, Not Hispanic",1297
+2,IND,35-44,4 Hispanic,1806
+2,IND,35-44,"5 White, Not Hispanic",5208
+2,IND,35-44,6 Other,243
+2,IND,35-44,7 Multi-racial,29
+2,IND,35-44,9 Unknown,282
+2,IND,45-54,1 American Indian / Alaskan,16
+2,IND,45-54,2 Asian / Pacific Islander,173
+2,IND,45-54,"3 Black, Not Hispanic",1061
+2,IND,45-54,4 Hispanic,1346
+2,IND,45-54,"5 White, Not Hispanic",4030
+2,IND,45-54,6 Other,214
+2,IND,45-54,7 Multi-racial,12
+2,IND,45-54,9 Unknown,223
+2,IND,55-64,1 American Indian / Alaskan,16
+2,IND,55-64,2 Asian / Pacific Islander,125
+2,IND,55-64,"3 Black, Not Hispanic",639
+2,IND,55-64,4 Hispanic,1132
+2,IND,55-64,"5 White, Not Hispanic",4616
+2,IND,55-64,6 Other,160
+2,IND,55-64,7 Multi-racial,12
+2,IND,55-64,9 Unknown,203
+2,IND,65-74,1 American Indian / Alaskan,15
+2,IND,65-74,2 Asian / Pacific Islander,102
+2,IND,65-74,"3 Black, Not Hispanic",353
+2,IND,65-74,4 Hispanic,660
+2,IND,65-74,"5 White, Not Hispanic",4886
+2,IND,65-74,6 Other,132
+2,IND,65-74,9 Unknown,161
+2,IND,75+,1 American Indian / Alaskan,18
+2,IND,75+,2 Asian / Pacific Islander,52
+2,IND,75+,"3 Black, Not Hispanic",94
+2,IND,75+,4 Hispanic,348
+2,IND,75+,"5 White, Not Hispanic",2992
+2,IND,75+,6 Other,69
+2,IND,75+,9 Unknown,108
+2,IND,unknown,"3 Black, Not Hispanic",21
+2,IND,unknown,4 Hispanic,18
+2,IND,unknown,"5 White, Not Hispanic",109
+2,LPF,18-24,2 Asian / Pacific Islander,10
+2,LPF,18-24,"3 Black, Not Hispanic",18
+2,LPF,18-24,4 Hispanic,64
+2,LPF,18-24,"5 White, Not Hispanic",196
+2,LPF,18-24,9 Unknown,17
+2,LPF,25-34,2 Asian / Pacific Islander,28
+2,LPF,25-34,"3 Black, Not Hispanic",84
+2,LPF,25-34,4 Hispanic,288
+2,LPF,25-34,"5 White, Not Hispanic",1465
+2,LPF,25-34,6 Other,47
+2,LPF,25-34,7 Multi-racial,10
+2,LPF,25-34,9 Unknown,71
+2,LPF,35-44,1 American Indian / Alaskan,13
+2,LPF,35-44,2 Asian / Pacific Islander,36
+2,LPF,35-44,"3 Black, Not Hispanic",74
+2,LPF,35-44,4 Hispanic,228
+2,LPF,35-44,"5 White, Not Hispanic",1630
+2,LPF,35-44,6 Other,64
+2,LPF,35-44,9 Unknown,73
+2,LPF,45-54,2 Asian / Pacific Islander,15
+2,LPF,45-54,"3 Black, Not Hispanic",28
+2,LPF,45-54,4 Hispanic,107
+2,LPF,45-54,"5 White, Not Hispanic",827
+2,LPF,45-54,6 Other,19
+2,LPF,45-54,9 Unknown,40
+2,LPF,55-64,"3 Black, Not Hispanic",12
+2,LPF,55-64,4 Hispanic,39
+2,LPF,55-64,"5 White, Not Hispanic",429
+2,LPF,55-64,6 Other,15
+2,LPF,55-64,9 Unknown,20
+2,LPF,65-74,4 Hispanic,16
+2,LPF,65-74,"5 White, Not Hispanic",211
+2,LPF,65-74,9 Unknown,11
+2,LPF,75+,4 Hispanic,10
+2,LPF,75+,"5 White, Not Hispanic",81
+2,LPF,unknown,"5 White, Not Hispanic",24
+2,NPA,18-24,1 American Indian / Alaskan,53
+2,NPA,18-24,2 Asian / Pacific Islander,1142
+2,NPA,18-24,"3 Black, Not Hispanic",2987
+2,NPA,18-24,4 Hispanic,6936
+2,NPA,18-24,"5 White, Not Hispanic",12365
+2,NPA,18-24,6 Other,870
+2,NPA,18-24,7 Multi-racial,331
+2,NPA,18-24,9 Unknown,2471
+2,NPA,25-34,1 American Indian / Alaskan,326
+2,NPA,25-34,2 Asian / Pacific Islander,4382
+2,NPA,25-34,"3 Black, Not Hispanic",17889
+2,NPA,25-34,4 Hispanic,36555
+2,NPA,25-34,"5 White, Not Hispanic",61155
+2,NPA,25-34,6 Other,3959
+2,NPA,25-34,7 Multi-racial,1528
+2,NPA,25-34,9 Unknown,7711
+2,NPA,35-44,1 American Indian / Alaskan,326
+2,NPA,35-44,2 Asian / Pacific Islander,4543
+2,NPA,35-44,"3 Black, Not Hispanic",15715
+2,NPA,35-44,4 Hispanic,35541
+2,NPA,35-44,"5 White, Not Hispanic",61373
+2,NPA,35-44,6 Other,4018
+2,NPA,35-44,7 Multi-racial,678
+2,NPA,35-44,9 Unknown,6074
+2,NPA,45-54,1 American Indian / Alaskan,230
+2,NPA,45-54,2 Asian / Pacific Islander,4744
+2,NPA,45-54,"3 Black, Not Hispanic",9514
+2,NPA,45-54,4 Hispanic,30078
+2,NPA,45-54,"5 White, Not Hispanic",46454
+2,NPA,45-54,6 Other,3351
+2,NPA,45-54,7 Multi-racial,443
+2,NPA,45-54,9 Unknown,5082
+2,NPA,55-64,1 American Indian / Alaskan,242
+2,NPA,55-64,2 Asian / Pacific Islander,3648
+2,NPA,55-64,"3 Black, Not Hispanic",5674
+2,NPA,55-64,4 Hispanic,22198
+2,NPA,55-64,"5 White, Not Hispanic",46823
+2,NPA,55-64,6 Other,2430
+2,NPA,55-64,7 Multi-racial,322
+2,NPA,55-64,9 Unknown,4011
+2,NPA,65-74,1 American Indian / Alaskan,180
+2,NPA,65-74,2 Asian / Pacific Islander,2466
+2,NPA,65-74,"3 Black, Not Hispanic",3005
+2,NPA,65-74,4 Hispanic,12767
+2,NPA,65-74,"5 White, Not Hispanic",43922
+2,NPA,65-74,6 Other,1779
+2,NPA,65-74,7 Multi-racial,193
+2,NPA,65-74,9 Unknown,2964
+2,NPA,75+,1 American Indian / Alaskan,117
+2,NPA,75+,2 Asian / Pacific Islander,1684
+2,NPA,75+,"3 Black, Not Hispanic",1261
+2,NPA,75+,4 Hispanic,8835
+2,NPA,75+,"5 White, Not Hispanic",29585
+2,NPA,75+,6 Other,1050
+2,NPA,75+,7 Multi-racial,114
+2,NPA,75+,9 Unknown,1929
+2,NPA,unknown,2 Asian / Pacific Islander,36
+2,NPA,unknown,"3 Black, Not Hispanic",244
+2,NPA,unknown,4 Hispanic,349
+2,NPA,unknown,"5 White, Not Hispanic",862
+2,NPA,unknown,6 Other,61
+2,NPA,unknown,7 Multi-racial,23
+2,NPA,unknown,9 Unknown,73
+2,PSL,18-24,"3 Black, Not Hispanic",12
+2,PSL,18-24,4 Hispanic,13
+2,PSL,18-24,"5 White, Not Hispanic",40
+2,PSL,25-34,"3 Black, Not Hispanic",31
+2,PSL,25-34,4 Hispanic,49
+2,PSL,25-34,"5 White, Not Hispanic",131
+2,PSL,25-34,9 Unknown,11
+2,PSL,35-44,4 Hispanic,10
+2,PSL,35-44,"5 White, Not Hispanic",47
+2,PSL,45-54,"5 White, Not Hispanic",13
+2,REP,18-24,1 American Indian / Alaskan,107
+2,REP,18-24,2 Asian / Pacific Islander,614
+2,REP,18-24,"3 Black, Not Hispanic",486
+2,REP,18-24,4 Hispanic,6342
+2,REP,18-24,"5 White, Not Hispanic",28399
+2,REP,18-24,6 Other,621
+2,REP,18-24,7 Multi-racial,255
+2,REP,18-24,9 Unknown,1669
+2,REP,25-34,1 American Indian / Alaskan,327
+2,REP,25-34,2 Asian / Pacific Islander,1960
+2,REP,25-34,"3 Black, Not Hispanic",2938
+2,REP,25-34,4 Hispanic,23894
+2,REP,25-34,"5 White, Not Hispanic",91327
+2,REP,25-34,6 Other,1954
+2,REP,25-34,7 Multi-racial,649
+2,REP,25-34,9 Unknown,3112
+2,REP,35-44,1 American Indian / Alaskan,286
+2,REP,35-44,2 Asian / Pacific Islander,2620
+2,REP,35-44,"3 Black, Not Hispanic",3401
+2,REP,35-44,4 Hispanic,26325
+2,REP,35-44,"5 White, Not Hispanic",80399
+2,REP,35-44,6 Other,2140
+2,REP,35-44,7 Multi-racial,303
+2,REP,35-44,9 Unknown,2590
+2,REP,45-54,1 American Indian / Alaskan,286
+2,REP,45-54,2 Asian / Pacific Islander,3152
+2,REP,45-54,"3 Black, Not Hispanic",2544
+2,REP,45-54,4 Hispanic,22316
+2,REP,45-54,"5 White, Not Hispanic",69189
+2,REP,45-54,6 Other,1835
+2,REP,45-54,7 Multi-racial,212
+2,REP,45-54,9 Unknown,2306
+2,REP,55-64,1 American Indian / Alaskan,427
+2,REP,55-64,2 Asian / Pacific Islander,3004
+2,REP,55-64,"3 Black, Not Hispanic",1936
+2,REP,55-64,4 Hispanic,20035
+2,REP,55-64,"5 White, Not Hispanic",97219
+2,REP,55-64,6 Other,1864
+2,REP,55-64,7 Multi-racial,195
+2,REP,55-64,9 Unknown,2519
+2,REP,65-74,1 American Indian / Alaskan,389
+2,REP,65-74,2 Asian / Pacific Islander,2073
+2,REP,65-74,"3 Black, Not Hispanic",1181
+2,REP,65-74,4 Hispanic,12214
+2,REP,65-74,"5 White, Not Hispanic",97484
+2,REP,65-74,6 Other,1552
+2,REP,65-74,7 Multi-racial,147
+2,REP,65-74,9 Unknown,2146
+2,REP,75+,1 American Indian / Alaskan,247
+2,REP,75+,2 Asian / Pacific Islander,1470
+2,REP,75+,"3 Black, Not Hispanic",533
+2,REP,75+,4 Hispanic,10507
+2,REP,75+,"5 White, Not Hispanic",64285
+2,REP,75+,6 Other,928
+2,REP,75+,7 Multi-racial,89
+2,REP,75+,9 Unknown,1554
+2,REP,unknown,1 American Indian / Alaskan,11
+2,REP,unknown,2 Asian / Pacific Islander,54
+2,REP,unknown,"3 Black, Not Hispanic",67
+2,REP,unknown,4 Hispanic,375
+2,REP,unknown,"5 White, Not Hispanic",2127
+2,REP,unknown,6 Other,35
+2,REP,unknown,7 Multi-racial,17
+2,REP,unknown,9 Unknown,44
+3,AMF,18-24,"5 White, Not Hispanic",15
+3,AMF,25-34,"3 Black, Not Hispanic",61
+3,AMF,25-34,4 Hispanic,51
+3,AMF,25-34,"5 White, Not Hispanic",138
+3,AMF,35-44,"3 Black, Not Hispanic",79
+3,AMF,35-44,4 Hispanic,56
+3,AMF,35-44,"5 White, Not Hispanic",140
+3,AMF,45-54,"3 Black, Not Hispanic",59
+3,AMF,45-54,4 Hispanic,56
+3,AMF,45-54,"5 White, Not Hispanic",142
+3,AMF,45-54,6 Other,10
+3,AMF,55-64,"3 Black, Not Hispanic",24
+3,AMF,55-64,4 Hispanic,59
+3,AMF,55-64,"5 White, Not Hispanic",134
+3,AMF,65-74,4 Hispanic,21
+3,AMF,65-74,"5 White, Not Hispanic",75
+3,AMF,75+,4 Hispanic,14
+3,AMF,75+,"5 White, Not Hispanic",42
+3,ASP,25-34,"3 Black, Not Hispanic",36
+3,ASP,25-34,4 Hispanic,22
+3,ASP,25-34,"5 White, Not Hispanic",45
+3,ASP,35-44,"3 Black, Not Hispanic",37
+3,ASP,35-44,4 Hispanic,18
+3,ASP,35-44,"5 White, Not Hispanic",47
+3,ASP,45-54,"3 Black, Not Hispanic",27
+3,ASP,45-54,4 Hispanic,26
+3,ASP,45-54,"5 White, Not Hispanic",25
+3,ASP,55-64,"3 Black, Not Hispanic",23
+3,ASP,55-64,4 Hispanic,25
+3,ASP,55-64,"5 White, Not Hispanic",51
+3,ASP,65-74,4 Hispanic,10
+3,ASP,65-74,"5 White, Not Hispanic",27
+3,ASP,75+,"5 White, Not Hispanic",15
+3,BPP,25-34,"3 Black, Not Hispanic",13
+3,BPP,25-34,4 Hispanic,168
+3,BPP,25-34,"5 White, Not Hispanic",17
+3,BPP,35-44,"3 Black, Not Hispanic",14
+3,BPP,35-44,4 Hispanic,197
+3,BPP,35-44,"5 White, Not Hispanic",22
+3,BPP,45-54,4 Hispanic,247
+3,BPP,45-54,"5 White, Not Hispanic",14
+3,BPP,55-64,4 Hispanic,146
+3,BPP,55-64,"5 White, Not Hispanic",14
+3,BPP,65-74,4 Hispanic,58
+3,BPP,75+,4 Hispanic,13
+3,CPF,25-34,"3 Black, Not Hispanic",65
+3,CPF,25-34,4 Hispanic,60
+3,CPF,25-34,"5 White, Not Hispanic",153
+3,CPF,35-44,2 Asian / Pacific Islander,13
+3,CPF,35-44,"3 Black, Not Hispanic",79
+3,CPF,35-44,4 Hispanic,48
+3,CPF,35-44,"5 White, Not Hispanic",163
+3,CPF,45-54,"3 Black, Not Hispanic",57
+3,CPF,45-54,4 Hispanic,61
+3,CPF,45-54,"5 White, Not Hispanic",154
+3,CPF,55-64,"3 Black, Not Hispanic",34
+3,CPF,55-64,4 Hispanic,45
+3,CPF,55-64,"5 White, Not Hispanic",171
+3,CPF,65-74,"3 Black, Not Hispanic",11
+3,CPF,65-74,4 Hispanic,17
+3,CPF,65-74,"5 White, Not Hispanic",109
+3,CPF,75+,4 Hispanic,12
+3,CPF,75+,"5 White, Not Hispanic",40
+3,CPP,25-34,"3 Black, Not Hispanic",40
+3,CPP,25-34,4 Hispanic,23
+3,CPP,25-34,"5 White, Not Hispanic",37
+3,CPP,35-44,"3 Black, Not Hispanic",53
+3,CPP,35-44,4 Hispanic,15
+3,CPP,35-44,"5 White, Not Hispanic",42
+3,CPP,45-54,"3 Black, Not Hispanic",48
+3,CPP,45-54,4 Hispanic,37
+3,CPP,45-54,"5 White, Not Hispanic",53
+3,CPP,55-64,"3 Black, Not Hispanic",34
+3,CPP,55-64,4 Hispanic,35
+3,CPP,55-64,"5 White, Not Hispanic",64
+3,CPP,65-74,"3 Black, Not Hispanic",11
+3,CPP,65-74,4 Hispanic,19
+3,CPP,65-74,"5 White, Not Hispanic",46
+3,CPP,75+,"5 White, Not Hispanic",30
+3,CSV,18-24,"5 White, Not Hispanic",17
+3,CSV,25-34,"3 Black, Not Hispanic",89
+3,CSV,25-34,4 Hispanic,114
+3,CSV,25-34,"5 White, Not Hispanic",336
+3,CSV,25-34,6 Other,16
+3,CSV,35-44,"3 Black, Not Hispanic",164
+3,CSV,35-44,4 Hispanic,135
+3,CSV,35-44,"5 White, Not Hispanic",355
+3,CSV,35-44,6 Other,13
+3,CSV,45-54,2 Asian / Pacific Islander,16
+3,CSV,45-54,"3 Black, Not Hispanic",124
+3,CSV,45-54,4 Hispanic,127
+3,CSV,45-54,"5 White, Not Hispanic",336
+3,CSV,55-64,2 Asian / Pacific Islander,12
+3,CSV,55-64,"3 Black, Not Hispanic",66
+3,CSV,55-64,4 Hispanic,133
+3,CSV,55-64,"5 White, Not Hispanic",339
+3,CSV,55-64,6 Other,10
+3,CSV,65-74,"3 Black, Not Hispanic",24
+3,CSV,65-74,4 Hispanic,46
+3,CSV,65-74,"5 White, Not Hispanic",335
+3,CSV,75+,4 Hispanic,14
+3,CSV,75+,"5 White, Not Hispanic",177
+3,DEM,18-24,1 American Indian / Alaskan,24
+3,DEM,18-24,2 Asian / Pacific Islander,426
+3,DEM,18-24,"3 Black, Not Hispanic",2529
+3,DEM,18-24,4 Hispanic,2192
+3,DEM,18-24,"5 White, Not Hispanic",4277
+3,DEM,18-24,6 Other,250
+3,DEM,18-24,7 Multi-racial,203
+3,DEM,18-24,9 Unknown,728
+3,DEM,25-34,1 American Indian / Alaskan,280
+3,DEM,25-34,2 Asian / Pacific Islander,4063
+3,DEM,25-34,"3 Black, Not Hispanic",36638
+3,DEM,25-34,4 Hispanic,27504
+3,DEM,25-34,"5 White, Not Hispanic",48929
+3,DEM,25-34,6 Other,3109
+3,DEM,25-34,7 Multi-racial,1735
+3,DEM,25-34,9 Unknown,4632
+3,DEM,35-44,1 American Indian / Alaskan,284
+3,DEM,35-44,2 Asian / Pacific Islander,2529
+3,DEM,35-44,"3 Black, Not Hispanic",38950
+3,DEM,35-44,4 Hispanic,23036
+3,DEM,35-44,"5 White, Not Hispanic",41112
+3,DEM,35-44,6 Other,2657
+3,DEM,35-44,7 Multi-racial,822
+3,DEM,35-44,9 Unknown,3110
+3,DEM,45-54,1 American Indian / Alaskan,250
+3,DEM,45-54,2 Asian / Pacific Islander,2404
+3,DEM,45-54,"3 Black, Not Hispanic",32508
+3,DEM,45-54,4 Hispanic,21796
+3,DEM,45-54,"5 White, Not Hispanic",30203
+3,DEM,45-54,6 Other,2298
+3,DEM,45-54,7 Multi-racial,522
+3,DEM,45-54,9 Unknown,2605
+3,DEM,55-64,1 American Indian / Alaskan,312
+3,DEM,55-64,2 Asian / Pacific Islander,2112
+3,DEM,55-64,"3 Black, Not Hispanic",30312
+3,DEM,55-64,4 Hispanic,22210
+3,DEM,55-64,"5 White, Not Hispanic",36306
+3,DEM,55-64,6 Other,2321
+3,DEM,55-64,7 Multi-racial,396
+3,DEM,55-64,9 Unknown,2722
+3,DEM,65-74,1 American Indian / Alaskan,300
+3,DEM,65-74,2 Asian / Pacific Islander,1740
+3,DEM,65-74,"3 Black, Not Hispanic",24555
+3,DEM,65-74,4 Hispanic,18043
+3,DEM,65-74,"5 White, Not Hispanic",49214
+3,DEM,65-74,6 Other,2060
+3,DEM,65-74,7 Multi-racial,334
+3,DEM,65-74,9 Unknown,2732
+3,DEM,75+,1 American Indian / Alaskan,274
+3,DEM,75+,2 Asian / Pacific Islander,1503
+3,DEM,75+,"3 Black, Not Hispanic",16001
+3,DEM,75+,4 Hispanic,15978
+3,DEM,75+,"5 White, Not Hispanic",49883
+3,DEM,75+,6 Other,1671
+3,DEM,75+,7 Multi-racial,270
+3,DEM,75+,9 Unknown,1948
+3,DEM,unknown,2 Asian / Pacific Islander,37
+3,DEM,unknown,"3 Black, Not Hispanic",713
+3,DEM,unknown,4 Hispanic,278
+3,DEM,unknown,"5 White, Not Hispanic",831
+3,DEM,unknown,6 Other,34
+3,DEM,unknown,7 Multi-racial,17
+3,DEM,unknown,9 Unknown,38
+3,ECO,25-34,"3 Black, Not Hispanic",10
+3,ECO,25-34,4 Hispanic,25
+3,ECO,25-34,"5 White, Not Hispanic",46
+3,ECO,35-44,4 Hispanic,15
+3,ECO,35-44,"5 White, Not Hispanic",44
+3,ECO,45-54,4 Hispanic,21
+3,ECO,45-54,"5 White, Not Hispanic",14
+3,ECO,55-64,4 Hispanic,24
+3,ECO,55-64,"5 White, Not Hispanic",29
+3,ECO,65-74,4 Hispanic,10
+3,ECO,65-74,"5 White, Not Hispanic",24
+3,ECO,75+,"5 White, Not Hispanic",13
+3,FFP,25-34,"5 White, Not Hispanic",20
+3,FFP,35-44,"5 White, Not Hispanic",25
+3,FFP,45-54,"5 White, Not Hispanic",17
+3,GRE,18-24,4 Hispanic,10
+3,GRE,18-24,"5 White, Not Hispanic",13
+3,GRE,25-34,2 Asian / Pacific Islander,13
+3,GRE,25-34,"3 Black, Not Hispanic",39
+3,GRE,25-34,4 Hispanic,68
+3,GRE,25-34,"5 White, Not Hispanic",233
+3,GRE,25-34,9 Unknown,16
+3,GRE,35-44,"3 Black, Not Hispanic",25
+3,GRE,35-44,4 Hispanic,75
+3,GRE,35-44,"5 White, Not Hispanic",247
+3,GRE,35-44,9 Unknown,11
+3,GRE,45-54,"3 Black, Not Hispanic",22
+3,GRE,45-54,4 Hispanic,26
+3,GRE,45-54,"5 White, Not Hispanic",132
+3,GRE,55-64,4 Hispanic,12
+3,GRE,55-64,"5 White, Not Hispanic",82
+3,GRE,65-74,"5 White, Not Hispanic",58
+3,GRE,75+,"5 White, Not Hispanic",31
+3,IND,18-24,2 Asian / Pacific Islander,17
+3,IND,18-24,"3 Black, Not Hispanic",90
+3,IND,18-24,4 Hispanic,198
+3,IND,18-24,"5 White, Not Hispanic",513
+3,IND,18-24,6 Other,28
+3,IND,18-24,7 Multi-racial,11
+3,IND,18-24,9 Unknown,63
+3,IND,25-34,1 American Indian / Alaskan,16
+3,IND,25-34,2 Asian / Pacific Islander,153
+3,IND,25-34,"3 Black, Not Hispanic",1123
+3,IND,25-34,4 Hispanic,1978
+3,IND,25-34,"5 White, Not Hispanic",5804
+3,IND,25-34,6 Other,260
+3,IND,25-34,7 Multi-racial,38
+3,IND,25-34,9 Unknown,335
+3,IND,35-44,1 American Indian / Alaskan,21
+3,IND,35-44,2 Asian / Pacific Islander,136
+3,IND,35-44,"3 Black, Not Hispanic",1296
+3,IND,35-44,4 Hispanic,1589
+3,IND,35-44,"5 White, Not Hispanic",5054
+3,IND,35-44,6 Other,204
+3,IND,35-44,7 Multi-racial,17
+3,IND,35-44,9 Unknown,225
+3,IND,45-54,1 American Indian / Alaskan,11
+3,IND,45-54,2 Asian / Pacific Islander,142
+3,IND,45-54,"3 Black, Not Hispanic",1158
+3,IND,45-54,4 Hispanic,1459
+3,IND,45-54,"5 White, Not Hispanic",4454
+3,IND,45-54,6 Other,190
+3,IND,45-54,7 Multi-racial,14
+3,IND,45-54,9 Unknown,199
+3,IND,55-64,1 American Indian / Alaskan,27
+3,IND,55-64,2 Asian / Pacific Islander,143
+3,IND,55-64,"3 Black, Not Hispanic",810
+3,IND,55-64,4 Hispanic,1339
+3,IND,55-64,"5 White, Not Hispanic",5506
+3,IND,55-64,6 Other,205
+3,IND,55-64,7 Multi-racial,10
+3,IND,55-64,9 Unknown,205
+3,IND,65-74,1 American Indian / Alaskan,16
+3,IND,65-74,2 Asian / Pacific Islander,72
+3,IND,65-74,"3 Black, Not Hispanic",408
+3,IND,65-74,4 Hispanic,790
+3,IND,65-74,"5 White, Not Hispanic",6533
+3,IND,65-74,6 Other,123
+3,IND,65-74,7 Multi-racial,14
+3,IND,65-74,9 Unknown,166
+3,IND,75+,2 Asian / Pacific Islander,64
+3,IND,75+,"3 Black, Not Hispanic",135
+3,IND,75+,4 Hispanic,401
+3,IND,75+,"5 White, Not Hispanic",4300
+3,IND,75+,6 Other,97
+3,IND,75+,9 Unknown,103
+3,IND,unknown,"3 Black, Not Hispanic",30
+3,IND,unknown,4 Hispanic,20
+3,IND,unknown,"5 White, Not Hispanic",127
+3,LPF,18-24,4 Hispanic,10
+3,LPF,18-24,"5 White, Not Hispanic",51
+3,LPF,25-34,2 Asian / Pacific Islander,17
+3,LPF,25-34,"3 Black, Not Hispanic",67
+3,LPF,25-34,4 Hispanic,191
+3,LPF,25-34,"5 White, Not Hispanic",1077
+3,LPF,25-34,6 Other,29
+3,LPF,25-34,9 Unknown,39
+3,LPF,35-44,2 Asian / Pacific Islander,15
+3,LPF,35-44,"3 Black, Not Hispanic",59
+3,LPF,35-44,4 Hispanic,214
+3,LPF,35-44,"5 White, Not Hispanic",1530
+3,LPF,35-44,6 Other,46
+3,LPF,35-44,9 Unknown,37
+3,LPF,45-54,2 Asian / Pacific Islander,21
+3,LPF,45-54,"3 Black, Not Hispanic",32
+3,LPF,45-54,4 Hispanic,98
+3,LPF,45-54,"5 White, Not Hispanic",880
+3,LPF,45-54,6 Other,27
+3,LPF,45-54,9 Unknown,27
+3,LPF,55-64,"3 Black, Not Hispanic",16
+3,LPF,55-64,4 Hispanic,51
+3,LPF,55-64,"5 White, Not Hispanic",523
+3,LPF,55-64,6 Other,10
+3,LPF,55-64,9 Unknown,14
+3,LPF,65-74,4 Hispanic,18
+3,LPF,65-74,"5 White, Not Hispanic",302
+3,LPF,75+,"5 White, Not Hispanic",131
+3,LPF,unknown,"5 White, Not Hispanic",27
+3,NPA,18-24,2 Asian / Pacific Islander,237
+3,NPA,18-24,"3 Black, Not Hispanic",539
+3,NPA,18-24,4 Hispanic,1431
+3,NPA,18-24,"5 White, Not Hispanic",2651
+3,NPA,18-24,6 Other,146
+3,NPA,18-24,7 Multi-racial,92
+3,NPA,18-24,9 Unknown,549
+3,NPA,25-34,1 American Indian / Alaskan,187
+3,NPA,25-34,2 Asian / Pacific Islander,2856
+3,NPA,25-34,"3 Black, Not Hispanic",12515
+3,NPA,25-34,4 Hispanic,24341
+3,NPA,25-34,"5 White, Not Hispanic",42299
+3,NPA,25-34,6 Other,2669
+3,NPA,25-34,7 Multi-racial,1102
+3,NPA,25-34,9 Unknown,4635
+3,NPA,35-44,1 American Indian / Alaskan,232
+3,NPA,35-44,2 Asian / Pacific Islander,3360
+3,NPA,35-44,"3 Black, Not Hispanic",13658
+3,NPA,35-44,4 Hispanic,29384
+3,NPA,35-44,"5 White, Not Hispanic",54942
+3,NPA,35-44,6 Other,3124
+3,NPA,35-44,7 Multi-racial,627
+3,NPA,35-44,9 Unknown,4420
+3,NPA,45-54,1 American Indian / Alaskan,248
+3,NPA,45-54,2 Asian / Pacific Islander,4366
+3,NPA,45-54,"3 Black, Not Hispanic",9693
+3,NPA,45-54,4 Hispanic,30775
+3,NPA,45-54,"5 White, Not Hispanic",48432
+3,NPA,45-54,6 Other,3066
+3,NPA,45-54,7 Multi-racial,509
+3,NPA,45-54,9 Unknown,4395
+3,NPA,55-64,1 American Indian / Alaskan,237
+3,NPA,55-64,2 Asian / Pacific Islander,3598
+3,NPA,55-64,"3 Black, Not Hispanic",6188
+3,NPA,55-64,4 Hispanic,25430
+3,NPA,55-64,"5 White, Not Hispanic",48318
+3,NPA,55-64,6 Other,2628
+3,NPA,55-64,7 Multi-racial,399
+3,NPA,55-64,9 Unknown,3935
+3,NPA,65-74,1 American Indian / Alaskan,239
+3,NPA,65-74,2 Asian / Pacific Islander,2539
+3,NPA,65-74,"3 Black, Not Hispanic",3452
+3,NPA,65-74,4 Hispanic,14953
+3,NPA,65-74,"5 White, Not Hispanic",45854
+3,NPA,65-74,6 Other,1895
+3,NPA,65-74,7 Multi-racial,246
+3,NPA,65-74,9 Unknown,3095
+3,NPA,75+,1 American Indian / Alaskan,175
+3,NPA,75+,2 Asian / Pacific Islander,1749
+3,NPA,75+,"3 Black, Not Hispanic",1509
+3,NPA,75+,4 Hispanic,10074
+3,NPA,75+,"5 White, Not Hispanic",37217
+3,NPA,75+,6 Other,1172
+3,NPA,75+,7 Multi-racial,149
+3,NPA,75+,9 Unknown,2156
+3,NPA,unknown,2 Asian / Pacific Islander,41
+3,NPA,unknown,"3 Black, Not Hispanic",269
+3,NPA,unknown,4 Hispanic,369
+3,NPA,unknown,"5 White, Not Hispanic",1191
+3,NPA,unknown,6 Other,57
+3,NPA,unknown,7 Multi-racial,14
+3,NPA,unknown,9 Unknown,78
+3,PSL,25-34,"3 Black, Not Hispanic",22
+3,PSL,25-34,4 Hispanic,46
+3,PSL,25-34,"5 White, Not Hispanic",102
+3,PSL,35-44,"5 White, Not Hispanic",39
+3,PSL,45-54,"5 White, Not Hispanic",10
+3,REP,18-24,1 American Indian / Alaskan,37
+3,REP,18-24,2 Asian / Pacific Islander,158
+3,REP,18-24,"3 Black, Not Hispanic",95
+3,REP,18-24,4 Hispanic,1785
+3,REP,18-24,"5 White, Not Hispanic",8355
+3,REP,18-24,6 Other,145
+3,REP,18-24,7 Multi-racial,72
+3,REP,18-24,9 Unknown,525
+3,REP,25-34,1 American Indian / Alaskan,283
+3,REP,25-34,2 Asian / Pacific Islander,1437
+3,REP,25-34,"3 Black, Not Hispanic",1930
+3,REP,25-34,4 Hispanic,19492
+3,REP,25-34,"5 White, Not Hispanic",81890
+3,REP,25-34,6 Other,1493
+3,REP,25-34,7 Multi-racial,587
+3,REP,25-34,9 Unknown,2516
+3,REP,35-44,1 American Indian / Alaskan,324
+3,REP,35-44,2 Asian / Pacific Islander,1969
+3,REP,35-44,"3 Black, Not Hispanic",2754
+3,REP,35-44,4 Hispanic,24046
+3,REP,35-44,"5 White, Not Hispanic",85217
+3,REP,35-44,6 Other,1695
+3,REP,35-44,7 Multi-racial,330
+3,REP,35-44,9 Unknown,2159
+3,REP,45-54,1 American Indian / Alaskan,316
+3,REP,45-54,2 Asian / Pacific Islander,2971
+3,REP,45-54,"3 Black, Not Hispanic",2436
+3,REP,45-54,4 Hispanic,24135
+3,REP,45-54,"5 White, Not Hispanic",77641
+3,REP,45-54,6 Other,1802
+3,REP,45-54,7 Multi-racial,286
+3,REP,45-54,9 Unknown,2242
+3,REP,55-64,1 American Indian / Alaskan,456
+3,REP,55-64,2 Asian / Pacific Islander,2775
+3,REP,55-64,"3 Black, Not Hispanic",2020
+3,REP,55-64,4 Hispanic,24092
+3,REP,55-64,"5 White, Not Hispanic",104439
+3,REP,55-64,6 Other,1859
+3,REP,55-64,7 Multi-racial,268
+3,REP,55-64,9 Unknown,2757
+3,REP,65-74,1 American Indian / Alaskan,451
+3,REP,65-74,2 Asian / Pacific Islander,2081
+3,REP,65-74,"3 Black, Not Hispanic",1287
+3,REP,65-74,4 Hispanic,15545
+3,REP,65-74,"5 White, Not Hispanic",105915
+3,REP,65-74,6 Other,1504
+3,REP,65-74,7 Multi-racial,181
+3,REP,65-74,9 Unknown,2583
+3,REP,75+,1 American Indian / Alaskan,360
+3,REP,75+,2 Asian / Pacific Islander,1783
+3,REP,75+,"3 Black, Not Hispanic",684
+3,REP,75+,4 Hispanic,14792
+3,REP,75+,"5 White, Not Hispanic",87040
+3,REP,75+,6 Other,1150
+3,REP,75+,7 Multi-racial,123
+3,REP,75+,9 Unknown,1821
+3,REP,unknown,1 American Indian / Alaskan,19
+3,REP,unknown,2 Asian / Pacific Islander,53
+3,REP,unknown,"3 Black, Not Hispanic",101
+3,REP,unknown,4 Hispanic,501
+3,REP,unknown,"5 White, Not Hispanic",3345
+3,REP,unknown,6 Other,72
+3,REP,unknown,7 Multi-racial,12
+3,REP,unknown,9 Unknown,67
+4,AMF,25-34,"3 Black, Not Hispanic",30
+4,AMF,25-34,4 Hispanic,22
+4,AMF,25-34,"5 White, Not Hispanic",67
+4,AMF,35-44,"3 Black, Not Hispanic",47
+4,AMF,35-44,4 Hispanic,36
+4,AMF,35-44,"5 White, Not Hispanic",79
+4,AMF,45-54,"3 Black, Not Hispanic",58
+4,AMF,45-54,4 Hispanic,54
+4,AMF,45-54,"5 White, Not Hispanic",85
+4,AMF,55-64,"3 Black, Not Hispanic",49
+4,AMF,55-64,4 Hispanic,55
+4,AMF,55-64,"5 White, Not Hispanic",141
+4,AMF,65-74,"3 Black, Not Hispanic",11
+4,AMF,65-74,4 Hispanic,18
+4,AMF,65-74,"5 White, Not Hispanic",90
+4,AMF,75+,"5 White, Not Hispanic",40
+4,ASP,25-34,"3 Black, Not Hispanic",11
+4,ASP,25-34,4 Hispanic,13
+4,ASP,25-34,"5 White, Not Hispanic",35
+4,ASP,35-44,"3 Black, Not Hispanic",29
+4,ASP,35-44,4 Hispanic,14
+4,ASP,35-44,"5 White, Not Hispanic",33
+4,ASP,45-54,"3 Black, Not Hispanic",33
+4,ASP,45-54,4 Hispanic,28
+4,ASP,45-54,"5 White, Not Hispanic",21
+4,ASP,55-64,"3 Black, Not Hispanic",14
+4,ASP,55-64,4 Hispanic,19
+4,ASP,55-64,"5 White, Not Hispanic",45
+4,ASP,65-74,4 Hispanic,16
+4,ASP,65-74,"5 White, Not Hispanic",29
+4,ASP,75+,"5 White, Not Hispanic",19
+4,BPP,25-34,4 Hispanic,65
+4,BPP,35-44,4 Hispanic,113
+4,BPP,35-44,"5 White, Not Hispanic",20
+4,BPP,45-54,4 Hispanic,191
+4,BPP,45-54,"5 White, Not Hispanic",13
+4,BPP,55-64,4 Hispanic,108
+4,BPP,55-64,"5 White, Not Hispanic",20
+4,BPP,65-74,4 Hispanic,50
+4,BPP,65-74,"5 White, Not Hispanic",13
+4,BPP,75+,4 Hispanic,31
+4,CPF,25-34,"3 Black, Not Hispanic",24
+4,CPF,25-34,4 Hispanic,26
+4,CPF,25-34,"5 White, Not Hispanic",76
+4,CPF,35-44,"3 Black, Not Hispanic",43
+4,CPF,35-44,4 Hispanic,31
+4,CPF,35-44,"5 White, Not Hispanic",127
+4,CPF,35-44,6 Other,11
+4,CPF,45-54,"3 Black, Not Hispanic",49
+4,CPF,45-54,4 Hispanic,37
+4,CPF,45-54,"5 White, Not Hispanic",122
+4,CPF,55-64,"3 Black, Not Hispanic",30
+4,CPF,55-64,4 Hispanic,37
+4,CPF,55-64,"5 White, Not Hispanic",162
+4,CPF,65-74,4 Hispanic,22
+4,CPF,65-74,"5 White, Not Hispanic",100
+4,CPF,75+,4 Hispanic,10
+4,CPF,75+,"5 White, Not Hispanic",61
+4,CPP,25-34,"3 Black, Not Hispanic",18
+4,CPP,25-34,4 Hispanic,10
+4,CPP,25-34,"5 White, Not Hispanic",17
+4,CPP,35-44,"3 Black, Not Hispanic",37
+4,CPP,35-44,4 Hispanic,15
+4,CPP,35-44,"5 White, Not Hispanic",26
+4,CPP,45-54,"3 Black, Not Hispanic",41
+4,CPP,45-54,4 Hispanic,32
+4,CPP,45-54,"5 White, Not Hispanic",32
+4,CPP,55-64,"3 Black, Not Hispanic",33
+4,CPP,55-64,4 Hispanic,28
+4,CPP,55-64,"5 White, Not Hispanic",39
+4,CPP,65-74,"3 Black, Not Hispanic",16
+4,CPP,65-74,4 Hispanic,19
+4,CPP,65-74,"5 White, Not Hispanic",38
+4,CPP,75+,"5 White, Not Hispanic",39
+4,CSV,25-34,"3 Black, Not Hispanic",46
+4,CSV,25-34,4 Hispanic,56
+4,CSV,25-34,"5 White, Not Hispanic",165
+4,CSV,35-44,"3 Black, Not Hispanic",128
+4,CSV,35-44,4 Hispanic,76
+4,CSV,35-44,"5 White, Not Hispanic",232
+4,CSV,45-54,2 Asian / Pacific Islander,19
+4,CSV,45-54,"3 Black, Not Hispanic",109
+4,CSV,45-54,4 Hispanic,118
+4,CSV,45-54,"5 White, Not Hispanic",199
+4,CSV,45-54,6 Other,10
+4,CSV,55-64,2 Asian / Pacific Islander,10
+4,CSV,55-64,"3 Black, Not Hispanic",58
+4,CSV,55-64,4 Hispanic,120
+4,CSV,55-64,"5 White, Not Hispanic",315
+4,CSV,65-74,"3 Black, Not Hispanic",32
+4,CSV,65-74,4 Hispanic,61
+4,CSV,65-74,"5 White, Not Hispanic",262
+4,CSV,75+,4 Hispanic,18
+4,CSV,75+,"5 White, Not Hispanic",215
+4,DEM,18-24,"3 Black, Not Hispanic",46
+4,DEM,18-24,4 Hispanic,22
+4,DEM,18-24,"5 White, Not Hispanic",31
+4,DEM,18-24,9 Unknown,14
+4,DEM,25-34,1 American Indian / Alaskan,170
+4,DEM,25-34,2 Asian / Pacific Islander,2648
+4,DEM,25-34,"3 Black, Not Hispanic",27214
+4,DEM,25-34,4 Hispanic,19341
+4,DEM,25-34,"5 White, Not Hispanic",36223
+4,DEM,25-34,6 Other,2138
+4,DEM,25-34,7 Multi-racial,1183
+4,DEM,25-34,9 Unknown,2406
+4,DEM,35-44,1 American Indian / Alaskan,266
+4,DEM,35-44,2 Asian / Pacific Islander,2321
+4,DEM,35-44,"3 Black, Not Hispanic",43745
+4,DEM,35-44,4 Hispanic,21675
+4,DEM,35-44,"5 White, Not Hispanic",44031
+4,DEM,35-44,6 Other,2482
+4,DEM,35-44,7 Multi-racial,777
+4,DEM,35-44,9 Unknown,2332
+4,DEM,45-54,1 American Indian / Alaskan,255
+4,DEM,45-54,2 Asian / Pacific Islander,2594
+4,DEM,45-54,"3 Black, Not Hispanic",43453
+4,DEM,45-54,4 Hispanic,23376
+4,DEM,45-54,"5 White, Not Hispanic",36520
+4,DEM,45-54,6 Other,2484
+4,DEM,45-54,7 Multi-racial,574
+4,DEM,45-54,9 Unknown,2098
+4,DEM,55-64,1 American Indian / Alaskan,351
+4,DEM,55-64,2 Asian / Pacific Islander,2391
+4,DEM,55-64,"3 Black, Not Hispanic",41792
+4,DEM,55-64,4 Hispanic,25149
+4,DEM,55-64,"5 White, Not Hispanic",43968
+4,DEM,55-64,6 Other,2612
+4,DEM,55-64,7 Multi-racial,486
+4,DEM,55-64,9 Unknown,2246
+4,DEM,65-74,1 American Indian / Alaskan,352
+4,DEM,65-74,2 Asian / Pacific Islander,2018
+4,DEM,65-74,"3 Black, Not Hispanic",33509
+4,DEM,65-74,4 Hispanic,20859
+4,DEM,65-74,"5 White, Not Hispanic",58880
+4,DEM,65-74,6 Other,2534
+4,DEM,65-74,7 Multi-racial,434
+4,DEM,65-74,9 Unknown,2134
+4,DEM,75+,1 American Indian / Alaskan,352
+4,DEM,75+,2 Asian / Pacific Islander,1639
+4,DEM,75+,"3 Black, Not Hispanic",22025
+4,DEM,75+,4 Hispanic,17821
+4,DEM,75+,"5 White, Not Hispanic",64601
+4,DEM,75+,6 Other,1941
+4,DEM,75+,7 Multi-racial,359
+4,DEM,75+,9 Unknown,1754
+4,DEM,unknown,1 American Indian / Alaskan,11
+4,DEM,unknown,2 Asian / Pacific Islander,27
+4,DEM,unknown,"3 Black, Not Hispanic",1079
+4,DEM,unknown,4 Hispanic,325
+4,DEM,unknown,"5 White, Not Hispanic",1142
+4,DEM,unknown,6 Other,44
+4,DEM,unknown,9 Unknown,36
+4,ECO,25-34,"5 White, Not Hispanic",23
+4,ECO,35-44,4 Hispanic,13
+4,ECO,35-44,"5 White, Not Hispanic",29
+4,ECO,45-54,4 Hispanic,15
+4,ECO,45-54,"5 White, Not Hispanic",15
+4,ECO,55-64,4 Hispanic,19
+4,ECO,55-64,"5 White, Not Hispanic",21
+4,ECO,65-74,4 Hispanic,12
+4,ECO,65-74,"5 White, Not Hispanic",34
+4,ECO,75+,"5 White, Not Hispanic",15
+4,FFP,25-34,"5 White, Not Hispanic",10
+4,FFP,35-44,"5 White, Not Hispanic",27
+4,FFP,45-54,"5 White, Not Hispanic",19
+4,FFP,55-64,"5 White, Not Hispanic",15
+4,FFP,65-74,"5 White, Not Hispanic",16
+4,GRE,25-34,"3 Black, Not Hispanic",32
+4,GRE,25-34,4 Hispanic,55
+4,GRE,25-34,"5 White, Not Hispanic",130
+4,GRE,25-34,6 Other,11
+4,GRE,35-44,"3 Black, Not Hispanic",28
+4,GRE,35-44,4 Hispanic,43
+4,GRE,35-44,"5 White, Not Hispanic",167
+4,GRE,35-44,6 Other,13
+4,GRE,45-54,"3 Black, Not Hispanic",13
+4,GRE,45-54,4 Hispanic,31
+4,GRE,45-54,"5 White, Not Hispanic",130
+4,GRE,45-54,6 Other,12
+4,GRE,55-64,"3 Black, Not Hispanic",13
+4,GRE,55-64,4 Hispanic,17
+4,GRE,55-64,"5 White, Not Hispanic",112
+4,GRE,65-74,"5 White, Not Hispanic",62
+4,GRE,75+,"5 White, Not Hispanic",37
+4,IND,25-34,1 American Indian / Alaskan,10
+4,IND,25-34,2 Asian / Pacific Islander,74
+4,IND,25-34,"3 Black, Not Hispanic",755
+4,IND,25-34,4 Hispanic,1057
+4,IND,25-34,"5 White, Not Hispanic",3110
+4,IND,25-34,6 Other,148
+4,IND,25-34,7 Multi-racial,20
+4,IND,25-34,9 Unknown,106
+4,IND,35-44,1 American Indian / Alaskan,17
+4,IND,35-44,2 Asian / Pacific Islander,78
+4,IND,35-44,"3 Black, Not Hispanic",1230
+4,IND,35-44,4 Hispanic,1219
+4,IND,35-44,"5 White, Not Hispanic",3906
+4,IND,35-44,6 Other,166
+4,IND,35-44,7 Multi-racial,18
+4,IND,35-44,9 Unknown,92
+4,IND,45-54,1 American Indian / Alaskan,15
+4,IND,45-54,2 Asian / Pacific Islander,126
+4,IND,45-54,"3 Black, Not Hispanic",1292
+4,IND,45-54,4 Hispanic,1304
+4,IND,45-54,"5 White, Not Hispanic",4143
+4,IND,45-54,6 Other,169
+4,IND,45-54,7 Multi-racial,21
+4,IND,45-54,9 Unknown,84
+4,IND,55-64,1 American Indian / Alaskan,23
+4,IND,55-64,2 Asian / Pacific Islander,112
+4,IND,55-64,"3 Black, Not Hispanic",909
+4,IND,55-64,4 Hispanic,1240
+4,IND,55-64,"5 White, Not Hispanic",5373
+4,IND,55-64,6 Other,143
+4,IND,55-64,7 Multi-racial,14
+4,IND,55-64,9 Unknown,94
+4,IND,65-74,1 American Indian / Alaskan,13
+4,IND,65-74,2 Asian / Pacific Islander,81
+4,IND,65-74,"3 Black, Not Hispanic",480
+4,IND,65-74,4 Hispanic,810
+4,IND,65-74,"5 White, Not Hispanic",5879
+4,IND,65-74,6 Other,137
+4,IND,65-74,7 Multi-racial,12
+4,IND,65-74,9 Unknown,47
+4,IND,75+,1 American Indian / Alaskan,11
+4,IND,75+,2 Asian / Pacific Islander,63
+4,IND,75+,"3 Black, Not Hispanic",145
+4,IND,75+,4 Hispanic,411
+4,IND,75+,"5 White, Not Hispanic",4481
+4,IND,75+,6 Other,74
+4,IND,75+,7 Multi-racial,12
+4,IND,75+,9 Unknown,49
+4,IND,unknown,"3 Black, Not Hispanic",48
+4,IND,unknown,4 Hispanic,25
+4,IND,unknown,"5 White, Not Hispanic",148
+4,IND,unknown,6 Other,10
+4,LPF,25-34,2 Asian / Pacific Islander,14
+4,LPF,25-34,"3 Black, Not Hispanic",47
+4,LPF,25-34,4 Hispanic,133
+4,LPF,25-34,"5 White, Not Hispanic",672
+4,LPF,25-34,6 Other,24
+4,LPF,25-34,9 Unknown,16
+4,LPF,35-44,2 Asian / Pacific Islander,32
+4,LPF,35-44,"3 Black, Not Hispanic",47
+4,LPF,35-44,4 Hispanic,169
+4,LPF,35-44,"5 White, Not Hispanic",1351
+4,LPF,35-44,6 Other,29
+4,LPF,35-44,9 Unknown,24
+4,LPF,45-54,2 Asian / Pacific Islander,17
+4,LPF,45-54,"3 Black, Not Hispanic",36
+4,LPF,45-54,4 Hispanic,109
+4,LPF,45-54,"5 White, Not Hispanic",964
+4,LPF,45-54,6 Other,21
+4,LPF,45-54,9 Unknown,18
+4,LPF,55-64,"3 Black, Not Hispanic",14
+4,LPF,55-64,4 Hispanic,43
+4,LPF,55-64,"5 White, Not Hispanic",589
+4,LPF,55-64,6 Other,15
+4,LPF,55-64,9 Unknown,12
+4,LPF,65-74,4 Hispanic,16
+4,LPF,65-74,"5 White, Not Hispanic",353
+4,LPF,75+,"5 White, Not Hispanic",161
+4,LPF,unknown,"5 White, Not Hispanic",30
+4,NPA,18-24,"5 White, Not Hispanic",13
+4,NPA,25-34,1 American Indian / Alaskan,99
+4,NPA,25-34,2 Asian / Pacific Islander,1505
+4,NPA,25-34,"3 Black, Not Hispanic",7882
+4,NPA,25-34,4 Hispanic,13519
+4,NPA,25-34,"5 White, Not Hispanic",24013
+4,NPA,25-34,6 Other,1466
+4,NPA,25-34,7 Multi-racial,645
+4,NPA,25-34,9 Unknown,2079
+4,NPA,35-44,1 American Indian / Alaskan,167
+4,NPA,35-44,2 Asian / Pacific Islander,2278
+4,NPA,35-44,"3 Black, Not Hispanic",12478
+4,NPA,35-44,4 Hispanic,21518
+4,NPA,35-44,"5 White, Not Hispanic",44387
+4,NPA,35-44,6 Other,2414
+4,NPA,35-44,7 Multi-racial,528
+4,NPA,35-44,9 Unknown,2429
+4,NPA,45-54,1 American Indian / Alaskan,200
+4,NPA,45-54,2 Asian / Pacific Islander,3841
+4,NPA,45-54,"3 Black, Not Hispanic",10689
+4,NPA,45-54,4 Hispanic,27021
+4,NPA,45-54,"5 White, Not Hispanic",46996
+4,NPA,45-54,6 Other,2760
+4,NPA,45-54,7 Multi-racial,504
+4,NPA,45-54,9 Unknown,2675
+4,NPA,55-64,1 American Indian / Alaskan,236
+4,NPA,55-64,2 Asian / Pacific Islander,3812
+4,NPA,55-64,"3 Black, Not Hispanic",7388
+4,NPA,55-64,4 Hispanic,25324
+4,NPA,55-64,"5 White, Not Hispanic",49443
+4,NPA,55-64,6 Other,2664
+4,NPA,55-64,7 Multi-racial,421
+4,NPA,55-64,9 Unknown,2831
+4,NPA,65-74,1 American Indian / Alaskan,209
+4,NPA,65-74,2 Asian / Pacific Islander,2644
+4,NPA,65-74,"3 Black, Not Hispanic",4153
+4,NPA,65-74,4 Hispanic,15782
+4,NPA,65-74,"5 White, Not Hispanic",47704
+4,NPA,65-74,6 Other,1933
+4,NPA,65-74,7 Multi-racial,295
+4,NPA,65-74,9 Unknown,2090
+4,NPA,75+,1 American Indian / Alaskan,173
+4,NPA,75+,2 Asian / Pacific Islander,1832
+4,NPA,75+,"3 Black, Not Hispanic",1904
+4,NPA,75+,4 Hispanic,10223
+4,NPA,75+,"5 White, Not Hispanic",45126
+4,NPA,75+,6 Other,1308
+4,NPA,75+,7 Multi-racial,198
+4,NPA,75+,9 Unknown,1482
+4,NPA,unknown,2 Asian / Pacific Islander,42
+4,NPA,unknown,"3 Black, Not Hispanic",356
+4,NPA,unknown,4 Hispanic,421
+4,NPA,unknown,"5 White, Not Hispanic",1442
+4,NPA,unknown,6 Other,64
+4,NPA,unknown,7 Multi-racial,11
+4,NPA,unknown,9 Unknown,40
+4,PSL,25-34,"3 Black, Not Hispanic",22
+4,PSL,25-34,4 Hispanic,20
+4,PSL,25-34,"5 White, Not Hispanic",79
+4,PSL,35-44,4 Hispanic,12
+4,PSL,35-44,"5 White, Not Hispanic",50
+4,PSL,45-54,"5 White, Not Hispanic",14
+4,REP,18-24,"5 White, Not Hispanic",35
+4,REP,25-34,1 American Indian / Alaskan,178
+4,REP,25-34,2 Asian / Pacific Islander,861
+4,REP,25-34,"3 Black, Not Hispanic",1154
+4,REP,25-34,4 Hispanic,11455
+4,REP,25-34,"5 White, Not Hispanic",55370
+4,REP,25-34,6 Other,897
+4,REP,25-34,7 Multi-racial,381
+4,REP,25-34,9 Unknown,1192
+4,REP,35-44,1 American Indian / Alaskan,240
+4,REP,35-44,2 Asian / Pacific Islander,1467
+4,REP,35-44,"3 Black, Not Hispanic",2346
+4,REP,35-44,4 Hispanic,18199
+4,REP,35-44,"5 White, Not Hispanic",82349
+4,REP,35-44,6 Other,1350
+4,REP,35-44,7 Multi-racial,285
+4,REP,35-44,9 Unknown,1062
+4,REP,45-54,1 American Indian / Alaskan,304
+4,REP,45-54,2 Asian / Pacific Islander,2500
+4,REP,45-54,"3 Black, Not Hispanic",2514
+4,REP,45-54,4 Hispanic,22154
+4,REP,45-54,"5 White, Not Hispanic",86569
+4,REP,45-54,6 Other,1658
+4,REP,45-54,7 Multi-racial,264
+4,REP,45-54,9 Unknown,1157
+4,REP,55-64,1 American Indian / Alaskan,472
+4,REP,55-64,2 Asian / Pacific Islander,2825
+4,REP,55-64,"3 Black, Not Hispanic",2393
+4,REP,55-64,4 Hispanic,24230
+4,REP,55-64,"5 White, Not Hispanic",118688
+4,REP,55-64,6 Other,1867
+4,REP,55-64,7 Multi-racial,273
+4,REP,55-64,9 Unknown,1423
+4,REP,65-74,1 American Indian / Alaskan,459
+4,REP,65-74,2 Asian / Pacific Islander,2236
+4,REP,65-74,"3 Black, Not Hispanic",1658
+4,REP,65-74,4 Hispanic,16957
+4,REP,65-74,"5 White, Not Hispanic",118133
+4,REP,65-74,6 Other,1622
+4,REP,65-74,7 Multi-racial,219
+4,REP,65-74,9 Unknown,1321
+4,REP,75+,1 American Indian / Alaskan,419
+4,REP,75+,2 Asian / Pacific Islander,2003
+4,REP,75+,"3 Black, Not Hispanic",824
+4,REP,75+,4 Hispanic,16725
+4,REP,75+,"5 White, Not Hispanic",112513
+4,REP,75+,6 Other,1432
+4,REP,75+,7 Multi-racial,175
+4,REP,75+,9 Unknown,1261
+4,REP,unknown,1 American Indian / Alaskan,17
+4,REP,unknown,2 Asian / Pacific Islander,75
+4,REP,unknown,"3 Black, Not Hispanic",141
+4,REP,unknown,4 Hispanic,630
+4,REP,unknown,"5 White, Not Hispanic",5313
+4,REP,unknown,6 Other,63
+4,REP,unknown,7 Multi-racial,13
+4,REP,unknown,9 Unknown,47
+5 (every general),AMF,25-34,"3 Black, Not Hispanic",11
+5 (every general),AMF,25-34,4 Hispanic,11
+5 (every general),AMF,25-34,"5 White, Not Hispanic",32
+5 (every general),AMF,35-44,"3 Black, Not Hispanic",30
+5 (every general),AMF,35-44,"5 White, Not Hispanic",51
+5 (every general),AMF,45-54,"3 Black, Not Hispanic",34
+5 (every general),AMF,45-54,4 Hispanic,33
+5 (every general),AMF,45-54,"5 White, Not Hispanic",73
+5 (every general),AMF,55-64,"3 Black, Not Hispanic",28
+5 (every general),AMF,55-64,4 Hispanic,45
+5 (every general),AMF,55-64,"5 White, Not Hispanic",139
+5 (every general),AMF,65-74,"3 Black, Not Hispanic",17
+5 (every general),AMF,65-74,4 Hispanic,33
+5 (every general),AMF,65-74,"5 White, Not Hispanic",170
+5 (every general),AMF,75+,4 Hispanic,10
+5 (every general),AMF,75+,"5 White, Not Hispanic",114
+5 (every general),ASP,25-34,"5 White, Not Hispanic",17
+5 (every general),ASP,35-44,"3 Black, Not Hispanic",10
+5 (every general),ASP,35-44,"5 White, Not Hispanic",20
+5 (every general),ASP,45-54,"3 Black, Not Hispanic",20
+5 (every general),ASP,45-54,4 Hispanic,10
+5 (every general),ASP,45-54,"5 White, Not Hispanic",23
+5 (every general),ASP,55-64,"3 Black, Not Hispanic",24
+5 (every general),ASP,55-64,4 Hispanic,21
+5 (every general),ASP,55-64,"5 White, Not Hispanic",36
+5 (every general),ASP,65-74,4 Hispanic,12
+5 (every general),ASP,65-74,"5 White, Not Hispanic",39
+5 (every general),ASP,75+,4 Hispanic,10
+5 (every general),ASP,75+,"5 White, Not Hispanic",36
+5 (every general),BPP,25-34,4 Hispanic,18
+5 (every general),BPP,35-44,4 Hispanic,43
+5 (every general),BPP,45-54,4 Hispanic,84
+5 (every general),BPP,55-64,4 Hispanic,70
+5 (every general),BPP,55-64,"5 White, Not Hispanic",13
+5 (every general),BPP,65-74,4 Hispanic,52
+5 (every general),BPP,65-74,"5 White, Not Hispanic",16
+5 (every general),BPP,75+,4 Hispanic,25
+5 (every general),BPP,75+,"5 White, Not Hispanic",19
+5 (every general),CPF,25-34,"5 White, Not Hispanic",29
+5 (every general),CPF,35-44,"3 Black, Not Hispanic",22
+5 (every general),CPF,35-44,4 Hispanic,19
+5 (every general),CPF,35-44,"5 White, Not Hispanic",137
+5 (every general),CPF,45-54,"3 Black, Not Hispanic",29
+5 (every general),CPF,45-54,4 Hispanic,27
+5 (every general),CPF,45-54,"5 White, Not Hispanic",134
+5 (every general),CPF,55-64,"3 Black, Not Hispanic",38
+5 (every general),CPF,55-64,4 Hispanic,33
+5 (every general),CPF,55-64,"5 White, Not Hispanic",225
+5 (every general),CPF,65-74,4 Hispanic,23
+5 (every general),CPF,65-74,"5 White, Not Hispanic",186
+5 (every general),CPF,75+,"5 White, Not Hispanic",136
+5 (every general),CPP,35-44,"3 Black, Not Hispanic",15
+5 (every general),CPP,35-44,4 Hispanic,10
+5 (every general),CPP,35-44,"5 White, Not Hispanic",12
+5 (every general),CPP,45-54,"3 Black, Not Hispanic",29
+5 (every general),CPP,45-54,4 Hispanic,16
+5 (every general),CPP,45-54,"5 White, Not Hispanic",21
+5 (every general),CPP,55-64,"3 Black, Not Hispanic",38
+5 (every general),CPP,55-64,4 Hispanic,18
+5 (every general),CPP,55-64,"5 White, Not Hispanic",59
+5 (every general),CPP,65-74,"3 Black, Not Hispanic",13
+5 (every general),CPP,65-74,4 Hispanic,20
+5 (every general),CPP,65-74,"5 White, Not Hispanic",62
+5 (every general),CPP,75+,"5 White, Not Hispanic",59
+5 (every general),CSV,25-34,"3 Black, Not Hispanic",14
+5 (every general),CSV,25-34,4 Hispanic,18
+5 (every general),CSV,25-34,"5 White, Not Hispanic",59
+5 (every general),CSV,35-44,"3 Black, Not Hispanic",36
+5 (every general),CSV,35-44,4 Hispanic,43
+5 (every general),CSV,35-44,"5 White, Not Hispanic",177
+5 (every general),CSV,45-54,2 Asian / Pacific Islander,14
+5 (every general),CSV,45-54,"3 Black, Not Hispanic",68
+5 (every general),CSV,45-54,4 Hispanic,79
+5 (every general),CSV,45-54,"5 White, Not Hispanic",210
+5 (every general),CSV,55-64,2 Asian / Pacific Islander,12
+5 (every general),CSV,55-64,"3 Black, Not Hispanic",63
+5 (every general),CSV,55-64,4 Hispanic,102
+5 (every general),CSV,55-64,"5 White, Not Hispanic",386
+5 (every general),CSV,55-64,6 Other,10
+5 (every general),CSV,65-74,2 Asian / Pacific Islander,10
+5 (every general),CSV,65-74,"3 Black, Not Hispanic",42
+5 (every general),CSV,65-74,4 Hispanic,75
+5 (every general),CSV,65-74,"5 White, Not Hispanic",529
+5 (every general),CSV,65-74,6 Other,12
+5 (every general),CSV,75+,"3 Black, Not Hispanic",11
+5 (every general),CSV,75+,4 Hispanic,30
+5 (every general),CSV,75+,"5 White, Not Hispanic",505
+5 (every general),CSV,unknown,"5 White, Not Hispanic",12
+5 (every general),DEM,25-34,1 American Indian / Alaskan,109
+5 (every general),DEM,25-34,2 Asian / Pacific Islander,1576
+5 (every general),DEM,25-34,"3 Black, Not Hispanic",16571
+5 (every general),DEM,25-34,4 Hispanic,12045
+5 (every general),DEM,25-34,"5 White, Not Hispanic",28226
+5 (every general),DEM,25-34,6 Other,1393
+5 (every general),DEM,25-34,7 Multi-racial,825
+5 (every general),DEM,25-34,9 Unknown,1375
+5 (every general),DEM,35-44,1 American Indian / Alaskan,317
+5 (every general),DEM,35-44,2 Asian / Pacific Islander,2448
+5 (every general),DEM,35-44,"3 Black, Not Hispanic",43358
+5 (every general),DEM,35-44,4 Hispanic,22379
+5 (every general),DEM,35-44,"5 White, Not Hispanic",71225
+5 (every general),DEM,35-44,6 Other,2851
+5 (every general),DEM,35-44,7 Multi-racial,971
+5 (every general),DEM,35-44,9 Unknown,2212
+5 (every general),DEM,45-54,1 American Indian / Alaskan,401
+5 (every general),DEM,45-54,2 Asian / Pacific Islander,3760
+5 (every general),DEM,45-54,"3 Black, Not Hispanic",68013
+5 (every general),DEM,45-54,4 Hispanic,28894
+5 (every general),DEM,45-54,"5 White, Not Hispanic",84653
+5 (every general),DEM,45-54,6 Other,3479
+5 (every general),DEM,45-54,7 Multi-racial,989
+5 (every general),DEM,45-54,9 Unknown,2334
+5 (every general),DEM,55-64,1 American Indian / Alaskan,674
+5 (every general),DEM,55-64,2 Asian / Pacific Islander,4415
+5 (every general),DEM,55-64,"3 Black, Not Hispanic",100258
+5 (every general),DEM,55-64,4 Hispanic,36218
+5 (every general),DEM,55-64,"5 White, Not Hispanic",127880
+5 (every general),DEM,55-64,6 Other,4541
+5 (every general),DEM,55-64,7 Multi-racial,1039
+5 (every general),DEM,55-64,9 Unknown,3489
+5 (every general),DEM,65-74,1 American Indian / Alaskan,899
+5 (every general),DEM,65-74,2 Asian / Pacific Islander,4144
+5 (every general),DEM,65-74,"3 Black, Not Hispanic",110046
+5 (every general),DEM,65-74,4 Hispanic,37198
+5 (every general),DEM,65-74,"5 White, Not Hispanic",216326
+5 (every general),DEM,65-74,6 Other,5543
+5 (every general),DEM,65-74,7 Multi-racial,1151
+5 (every general),DEM,65-74,9 Unknown,3969
+5 (every general),DEM,75+,1 American Indian / Alaskan,986
+5 (every general),DEM,75+,2 Asian / Pacific Islander,3516
+5 (every general),DEM,75+,"3 Black, Not Hispanic",85024
+5 (every general),DEM,75+,4 Hispanic,33433
+5 (every general),DEM,75+,"5 White, Not Hispanic",282118
+5 (every general),DEM,75+,6 Other,5476
+5 (every general),DEM,75+,7 Multi-racial,1208
+5 (every general),DEM,75+,9 Unknown,3683
+5 (every general),DEM,unknown,1 American Indian / Alaskan,25
+5 (every general),DEM,unknown,2 Asian / Pacific Islander,68
+5 (every general),DEM,unknown,"3 Black, Not Hispanic",4311
+5 (every general),DEM,unknown,4 Hispanic,767
+5 (every general),DEM,unknown,"5 White, Not Hispanic",4851
+5 (every general),DEM,unknown,6 Other,129
+5 (every general),DEM,unknown,7 Multi-racial,56
+5 (every general),DEM,unknown,9 Unknown,92
+5 (every general),ECO,25-34,"5 White, Not Hispanic",13
+5 (every general),ECO,35-44,"5 White, Not Hispanic",16
+5 (every general),ECO,45-54,4 Hispanic,11
+5 (every general),ECO,45-54,"5 White, Not Hispanic",23
+5 (every general),ECO,55-64,4 Hispanic,10
+5 (every general),ECO,55-64,"5 White, Not Hispanic",31
+5 (every general),ECO,65-74,"5 White, Not Hispanic",55
+5 (every general),ECO,75+,"5 White, Not Hispanic",38
+5 (every general),FFP,35-44,"5 White, Not Hispanic",25
+5 (every general),FFP,45-54,"5 White, Not Hispanic",33
+5 (every general),FFP,55-64,"5 White, Not Hispanic",27
+5 (every general),FFP,65-74,"5 White, Not Hispanic",38
+5 (every general),FFP,75+,"5 White, Not Hispanic",28
+5 (every general),GRE,25-34,"3 Black, Not Hispanic",13
+5 (every general),GRE,25-34,4 Hispanic,27
+5 (every general),GRE,25-34,"5 White, Not Hispanic",60
+5 (every general),GRE,35-44,"3 Black, Not Hispanic",15
+5 (every general),GRE,35-44,4 Hispanic,37
+5 (every general),GRE,35-44,"5 White, Not Hispanic",165
+5 (every general),GRE,35-44,6 Other,10
+5 (every general),GRE,35-44,9 Unknown,10
+5 (every general),GRE,45-54,"3 Black, Not Hispanic",22
+5 (every general),GRE,45-54,4 Hispanic,25
+5 (every general),GRE,45-54,"5 White, Not Hispanic",183
+5 (every general),GRE,45-54,6 Other,13
+5 (every general),GRE,55-64,"3 Black, Not Hispanic",10
+5 (every general),GRE,55-64,4 Hispanic,24
+5 (every general),GRE,55-64,"5 White, Not Hispanic",172
+5 (every general),GRE,65-74,4 Hispanic,11
+5 (every general),GRE,65-74,"5 White, Not Hispanic",183
+5 (every general),GRE,75+,"5 White, Not Hispanic",122
+5 (every general),IND,25-34,2 Asian / Pacific Islander,30
+5 (every general),IND,25-34,"3 Black, Not Hispanic",317
+5 (every general),IND,25-34,4 Hispanic,477
+5 (every general),IND,25-34,"5 White, Not Hispanic",1535
+5 (every general),IND,25-34,6 Other,56
+5 (every general),IND,25-34,9 Unknown,35
+5 (every general),IND,35-44,1 American Indian / Alaskan,20
+5 (every general),IND,35-44,2 Asian / Pacific Islander,68
+5 (every general),IND,35-44,"3 Black, Not Hispanic",962
+5 (every general),IND,35-44,4 Hispanic,878
+5 (every general),IND,35-44,"5 White, Not Hispanic",3505
+5 (every general),IND,35-44,6 Other,124
+5 (every general),IND,35-44,7 Multi-racial,14
+5 (every general),IND,35-44,9 Unknown,65
+5 (every general),IND,45-54,1 American Indian / Alaskan,22
+5 (every general),IND,45-54,2 Asian / Pacific Islander,134
+5 (every general),IND,45-54,"3 Black, Not Hispanic",1500
+5 (every general),IND,45-54,4 Hispanic,1422
+5 (every general),IND,45-54,"5 White, Not Hispanic",5329
+5 (every general),IND,45-54,6 Other,187
+5 (every general),IND,45-54,7 Multi-racial,13
+5 (every general),IND,45-54,9 Unknown,88
+5 (every general),IND,55-64,1 American Indian / Alaskan,25
+5 (every general),IND,55-64,2 Asian / Pacific Islander,150
+5 (every general),IND,55-64,"3 Black, Not Hispanic",1575
+5 (every general),IND,55-64,4 Hispanic,1901
+5 (every general),IND,55-64,"5 White, Not Hispanic",9306
+5 (every general),IND,55-64,6 Other,274
+5 (every general),IND,55-64,7 Multi-racial,26
+5 (every general),IND,55-64,9 Unknown,115
+5 (every general),IND,65-74,1 American Indian / Alaskan,37
+5 (every general),IND,65-74,2 Asian / Pacific Islander,113
+5 (every general),IND,65-74,"3 Black, Not Hispanic",1026
+5 (every general),IND,65-74,4 Hispanic,1398
+5 (every general),IND,65-74,"5 White, Not Hispanic",12957
+5 (every general),IND,65-74,6 Other,278
+5 (every general),IND,65-74,7 Multi-racial,30
+5 (every general),IND,65-74,9 Unknown,103
+5 (every general),IND,75+,1 American Indian / Alaskan,23
+5 (every general),IND,75+,2 Asian / Pacific Islander,105
+5 (every general),IND,75+,"3 Black, Not Hispanic",451
+5 (every general),IND,75+,4 Hispanic,880
+5 (every general),IND,75+,"5 White, Not Hispanic",12135
+5 (every general),IND,75+,6 Other,195
+5 (every general),IND,75+,7 Multi-racial,24
+5 (every general),IND,75+,9 Unknown,74
+5 (every general),IND,unknown,"3 Black, Not Hispanic",89
+5 (every general),IND,unknown,4 Hispanic,54
+5 (every general),IND,unknown,"5 White, Not Hispanic",312
+5 (every general),LPF,25-34,"3 Black, Not Hispanic",15
+5 (every general),LPF,25-34,4 Hispanic,78
+5 (every general),LPF,25-34,"5 White, Not Hispanic",395
+5 (every general),LPF,25-34,9 Unknown,11
+5 (every general),LPF,35-44,2 Asian / Pacific Islander,21
+5 (every general),LPF,35-44,"3 Black, Not Hispanic",37
+5 (every general),LPF,35-44,4 Hispanic,140
+5 (every general),LPF,35-44,"5 White, Not Hispanic",1442
+5 (every general),LPF,35-44,6 Other,33
+5 (every general),LPF,35-44,9 Unknown,32
+5 (every general),LPF,45-54,1 American Indian / Alaskan,10
+5 (every general),LPF,45-54,2 Asian / Pacific Islander,26
+5 (every general),LPF,45-54,"3 Black, Not Hispanic",33
+5 (every general),LPF,45-54,4 Hispanic,150
+5 (every general),LPF,45-54,"5 White, Not Hispanic",1622
+5 (every general),LPF,45-54,6 Other,27
+5 (every general),LPF,45-54,9 Unknown,13
+5 (every general),LPF,55-64,2 Asian / Pacific Islander,17
+5 (every general),LPF,55-64,"3 Black, Not Hispanic",21
+5 (every general),LPF,55-64,4 Hispanic,83
+5 (every general),LPF,55-64,"5 White, Not Hispanic",1326
+5 (every general),LPF,55-64,6 Other,29
+5 (every general),LPF,55-64,7 Multi-racial,10
+5 (every general),LPF,55-64,9 Unknown,17
+5 (every general),LPF,65-74,"3 Black, Not Hispanic",17
+5 (every general),LPF,65-74,4 Hispanic,33
+5 (every general),LPF,65-74,"5 White, Not Hispanic",999
+5 (every general),LPF,65-74,6 Other,24
+5 (every general),LPF,65-74,9 Unknown,10
+5 (every general),LPF,75+,4 Hispanic,17
+5 (every general),LPF,75+,"5 White, Not Hispanic",596
+5 (every general),LPF,unknown,"5 White, Not Hispanic",69
+5 (every general),NPA,25-34,1 American Indian / Alaskan,50
+5 (every general),NPA,25-34,2 Asian / Pacific Islander,737
+5 (every general),NPA,25-34,"3 Black, Not Hispanic",3285
+5 (every general),NPA,25-34,4 Hispanic,6344
+5 (every general),NPA,25-34,"5 White, Not Hispanic",13397
+5 (every general),NPA,25-34,6 Other,648
+5 (every general),NPA,25-34,7 Multi-racial,379
+5 (every general),NPA,25-34,9 Unknown,958
+5 (every general),NPA,35-44,1 American Indian / Alaskan,163
+5 (every general),NPA,35-44,2 Asian / Pacific Islander,1764
+5 (every general),NPA,35-44,"3 Black, Not Hispanic",8454
+5 (every general),NPA,35-44,4 Hispanic,15687
+5 (every general),NPA,35-44,"5 White, Not Hispanic",44395
+5 (every general),NPA,35-44,6 Other,1820
+5 (every general),NPA,35-44,7 Multi-racial,478
+5 (every general),NPA,35-44,9 Unknown,1731
+5 (every general),NPA,45-54,1 American Indian / Alaskan,252
+5 (every general),NPA,45-54,2 Asian / Pacific Islander,4451
+5 (every general),NPA,45-54,"3 Black, Not Hispanic",11804
+5 (every general),NPA,45-54,4 Hispanic,27472
+5 (every general),NPA,45-54,"5 White, Not Hispanic",66948
+5 (every general),NPA,45-54,6 Other,2965
+5 (every general),NPA,45-54,7 Multi-racial,641
+5 (every general),NPA,45-54,9 Unknown,2321
+5 (every general),NPA,55-64,1 American Indian / Alaskan,377
+5 (every general),NPA,55-64,2 Asian / Pacific Islander,5656
+5 (every general),NPA,55-64,"3 Black, Not Hispanic",11892
+5 (every general),NPA,55-64,4 Hispanic,32752
+5 (every general),NPA,55-64,"5 White, Not Hispanic",94495
+5 (every general),NPA,55-64,6 Other,4047
+5 (every general),NPA,55-64,7 Multi-racial,621
+5 (every general),NPA,55-64,9 Unknown,3331
+5 (every general),NPA,65-74,1 American Indian / Alaskan,402
+5 (every general),NPA,65-74,2 Asian / Pacific Islander,4193
+5 (every general),NPA,65-74,"3 Black, Not Hispanic",8205
+5 (every general),NPA,65-74,4 Hispanic,24548
+5 (every general),NPA,65-74,"5 White, Not Hispanic",115212
+5 (every general),NPA,65-74,6 Other,3599
+5 (every general),NPA,65-74,7 Multi-racial,545
+5 (every general),NPA,65-74,9 Unknown,3040
+5 (every general),NPA,75+,1 American Indian / Alaskan,440
+5 (every general),NPA,75+,2 Asian / Pacific Islander,3342
+5 (every general),NPA,75+,"3 Black, Not Hispanic",4368
+5 (every general),NPA,75+,4 Hispanic,18345
+5 (every general),NPA,75+,"5 White, Not Hispanic",140116
+5 (every general),NPA,75+,6 Other,2785
+5 (every general),NPA,75+,7 Multi-racial,484
+5 (every general),NPA,75+,9 Unknown,2612
+5 (every general),NPA,unknown,1 American Indian / Alaskan,13
+5 (every general),NPA,unknown,2 Asian / Pacific Islander,89
+5 (every general),NPA,unknown,"3 Black, Not Hispanic",618
+5 (every general),NPA,unknown,4 Hispanic,674
+5 (every general),NPA,unknown,"5 White, Not Hispanic",3540
+5 (every general),NPA,unknown,6 Other,105
+5 (every general),NPA,unknown,7 Multi-racial,40
+5 (every general),NPA,unknown,9 Unknown,81
+5 (every general),PSL,25-34,4 Hispanic,13
+5 (every general),PSL,25-34,"5 White, Not Hispanic",54
+5 (every general),PSL,35-44,4 Hispanic,11
+5 (every general),PSL,35-44,"5 White, Not Hispanic",63
+5 (every general),PSL,45-54,"5 White, Not Hispanic",25
+5 (every general),PSL,55-64,"5 White, Not Hispanic",12
+5 (every general),REP,25-34,1 American Indian / Alaskan,125
+5 (every general),REP,25-34,2 Asian / Pacific Islander,525
+5 (every general),REP,25-34,"3 Black, Not Hispanic",632
+5 (every general),REP,25-34,4 Hispanic,7797
+5 (every general),REP,25-34,"5 White, Not Hispanic",44609
+5 (every general),REP,25-34,6 Other,535
+5 (every general),REP,25-34,7 Multi-racial,257
+5 (every general),REP,25-34,9 Unknown,609
+5 (every general),REP,35-44,1 American Indian / Alaskan,312
+5 (every general),REP,35-44,2 Asian / Pacific Islander,1499
+5 (every general),REP,35-44,"3 Black, Not Hispanic",2099
+5 (every general),REP,35-44,4 Hispanic,20214
+5 (every general),REP,35-44,"5 White, Not Hispanic",128525
+5 (every general),REP,35-44,6 Other,1503
+5 (every general),REP,35-44,7 Multi-racial,388
+5 (every general),REP,35-44,9 Unknown,1107
+5 (every general),REP,45-54,1 American Indian / Alaskan,599
+5 (every general),REP,45-54,2 Asian / Pacific Islander,3918
+5 (every general),REP,45-54,"3 Black, Not Hispanic",3360
+5 (every general),REP,45-54,4 Hispanic,36005
+5 (every general),REP,45-54,"5 White, Not Hispanic",200943
+5 (every general),REP,45-54,6 Other,2693
+5 (every general),REP,45-54,7 Multi-racial,558
+5 (every general),REP,45-54,9 Unknown,1482
+5 (every general),REP,55-64,1 American Indian / Alaskan,1199
+5 (every general),REP,55-64,2 Asian / Pacific Islander,5974
+5 (every general),REP,55-64,"3 Black, Not Hispanic",4588
+5 (every general),REP,55-64,4 Hispanic,53129
+5 (every general),REP,55-64,"5 White, Not Hispanic",377544
+5 (every general),REP,55-64,6 Other,4513
+5 (every general),REP,55-64,7 Multi-racial,706
+5 (every general),REP,55-64,9 Unknown,2596
+5 (every general),REP,65-74,1 American Indian / Alaskan,1539
+5 (every general),REP,65-74,2 Asian / Pacific Islander,5410
+5 (every general),REP,65-74,"3 Black, Not Hispanic",4515
+5 (every general),REP,65-74,4 Hispanic,47806
+5 (every general),REP,65-74,"5 White, Not Hispanic",474722
+5 (every general),REP,65-74,6 Other,5159
+5 (every general),REP,65-74,7 Multi-racial,716
+5 (every general),REP,65-74,9 Unknown,2936
+5 (every general),REP,75+,1 American Indian / Alaskan,1712
+5 (every general),REP,75+,2 Asian / Pacific Islander,4986
+5 (every general),REP,75+,"3 Black, Not Hispanic",2703
+5 (every general),REP,75+,4 Hispanic,54099
+5 (every general),REP,75+,"5 White, Not Hispanic",557425
+5 (every general),REP,75+,6 Other,5077
+5 (every general),REP,75+,7 Multi-racial,562
+5 (every general),REP,75+,9 Unknown,3651
+5 (every general),REP,unknown,1 American Indian / Alaskan,94
+5 (every general),REP,unknown,2 Asian / Pacific Islander,208
+5 (every general),REP,unknown,"3 Black, Not Hispanic",426
+5 (every general),REP,unknown,4 Hispanic,2049
+5 (every general),REP,unknown,"5 White, Not Hispanic",24310
+5 (every general),REP,unknown,6 Other,199
+5 (every general),REP,unknown,7 Multi-racial,55
+5 (every general),REP,unknown,9 Unknown,114
+,CSV,75+,"5 White, Not Hispanic",13
+,DEM,25-34,2 Asian / Pacific Islander,38
+,DEM,25-34,"3 Black, Not Hispanic",464
+,DEM,25-34,4 Hispanic,218
+,DEM,25-34,"5 White, Not Hispanic",539
+,DEM,25-34,6 Other,37
+,DEM,25-34,7 Multi-racial,30
+,DEM,25-34,9 Unknown,38
+,DEM,35-44,2 Asian / Pacific Islander,71
+,DEM,35-44,"3 Black, Not Hispanic",1166
+,DEM,35-44,4 Hispanic,567
+,DEM,35-44,"5 White, Not Hispanic",1886
+,DEM,35-44,6 Other,80
+,DEM,35-44,7 Multi-racial,20
+,DEM,35-44,9 Unknown,70
+,DEM,45-54,1 American Indian / Alaskan,12
+,DEM,45-54,2 Asian / Pacific Islander,125
+,DEM,45-54,"3 Black, Not Hispanic",2163
+,DEM,45-54,4 Hispanic,871
+,DEM,45-54,"5 White, Not Hispanic",2962
+,DEM,45-54,6 Other,127
+,DEM,45-54,7 Multi-racial,37
+,DEM,45-54,9 Unknown,130
+,DEM,55-64,1 American Indian / Alaskan,28
+,DEM,55-64,2 Asian / Pacific Islander,188
+,DEM,55-64,"3 Black, Not Hispanic",4113
+,DEM,55-64,4 Hispanic,1176
+,DEM,55-64,"5 White, Not Hispanic",5433
+,DEM,55-64,6 Other,168
+,DEM,55-64,7 Multi-racial,59
+,DEM,55-64,9 Unknown,211
+,DEM,65-74,1 American Indian / Alaskan,44
+,DEM,65-74,2 Asian / Pacific Islander,214
+,DEM,65-74,"3 Black, Not Hispanic",6414
+,DEM,65-74,4 Hispanic,1565
+,DEM,65-74,"5 White, Not Hispanic",11421
+,DEM,65-74,6 Other,296
+,DEM,65-74,7 Multi-racial,88
+,DEM,65-74,9 Unknown,335
+,DEM,75+,1 American Indian / Alaskan,69
+,DEM,75+,2 Asian / Pacific Islander,193
+,DEM,75+,"3 Black, Not Hispanic",6969
+,DEM,75+,4 Hispanic,1814
+,DEM,75+,"5 White, Not Hispanic",22550
+,DEM,75+,6 Other,402
+,DEM,75+,7 Multi-racial,134
+,DEM,75+,9 Unknown,504
+,DEM,unknown,"3 Black, Not Hispanic",127
+,DEM,unknown,4 Hispanic,26
+,DEM,unknown,"5 White, Not Hispanic",154
+,GRE,65-74,"5 White, Not Hispanic",11
+,IND,35-44,"3 Black, Not Hispanic",13
+,IND,35-44,4 Hispanic,13
+,IND,35-44,"5 White, Not Hispanic",45
+,IND,45-54,"3 Black, Not Hispanic",32
+,IND,45-54,4 Hispanic,31
+,IND,45-54,"5 White, Not Hispanic",109
+,IND,45-54,6 Other,11
+,IND,55-64,"3 Black, Not Hispanic",43
+,IND,55-64,4 Hispanic,36
+,IND,55-64,"5 White, Not Hispanic",283
+,IND,65-74,"3 Black, Not Hispanic",45
+,IND,65-74,4 Hispanic,38
+,IND,65-74,"5 White, Not Hispanic",467
+,IND,75+,"3 Black, Not Hispanic",22
+,IND,75+,4 Hispanic,48
+,IND,75+,"5 White, Not Hispanic",598
+,LPF,35-44,"5 White, Not Hispanic",24
+,LPF,45-54,"5 White, Not Hispanic",15
+,LPF,55-64,"5 White, Not Hispanic",40
+,LPF,65-74,"5 White, Not Hispanic",23
+,LPF,75+,"5 White, Not Hispanic",14
+,NPA,25-34,2 Asian / Pacific Islander,11
+,NPA,25-34,"3 Black, Not Hispanic",57
+,NPA,25-34,4 Hispanic,64
+,NPA,25-34,"5 White, Not Hispanic",168
+,NPA,25-34,6 Other,10
+,NPA,25-34,9 Unknown,21
+,NPA,35-44,2 Asian / Pacific Islander,28
+,NPA,35-44,"3 Black, Not Hispanic",163
+,NPA,35-44,4 Hispanic,225
+,NPA,35-44,"5 White, Not Hispanic",689
+,NPA,35-44,6 Other,32
+,NPA,35-44,9 Unknown,36
+,NPA,45-54,2 Asian / Pacific Islander,80
+,NPA,45-54,"3 Black, Not Hispanic",252
+,NPA,45-54,4 Hispanic,502
+,NPA,45-54,"5 White, Not Hispanic",1320
+,NPA,45-54,6 Other,63
+,NPA,45-54,7 Multi-racial,12
+,NPA,45-54,9 Unknown,76
+,NPA,55-64,2 Asian / Pacific Islander,150
+,NPA,55-64,"3 Black, Not Hispanic",349
+,NPA,55-64,4 Hispanic,637
+,NPA,55-64,"5 White, Not Hispanic",2246
+,NPA,55-64,6 Other,80
+,NPA,55-64,7 Multi-racial,13
+,NPA,55-64,9 Unknown,99
+,NPA,65-74,1 American Indian / Alaskan,10
+,NPA,65-74,2 Asian / Pacific Islander,106
+,NPA,65-74,"3 Black, Not Hispanic",302
+,NPA,65-74,4 Hispanic,686
+,NPA,65-74,"5 White, Not Hispanic",3410
+,NPA,65-74,6 Other,102
+,NPA,65-74,7 Multi-racial,26
+,NPA,65-74,9 Unknown,132
+,NPA,75+,1 American Indian / Alaskan,13
+,NPA,75+,2 Asian / Pacific Islander,103
+,NPA,75+,"3 Black, Not Hispanic",235
+,NPA,75+,4 Hispanic,758
+,NPA,75+,"5 White, Not Hispanic",5873
+,NPA,75+,6 Other,96
+,NPA,75+,7 Multi-racial,37
+,NPA,75+,9 Unknown,152
+,NPA,unknown,"3 Black, Not Hispanic",13
+,NPA,unknown,4 Hispanic,22
+,NPA,unknown,"5 White, Not Hispanic",67
+,REP,25-34,2 Asian / Pacific Islander,12
+,REP,25-34,"3 Black, Not Hispanic",12
+,REP,25-34,4 Hispanic,124
+,REP,25-34,"5 White, Not Hispanic",453
+,REP,35-44,2 Asian / Pacific Islander,26
+,REP,35-44,"3 Black, Not Hispanic",35
+,REP,35-44,4 Hispanic,339
+,REP,35-44,"5 White, Not Hispanic",1613
+,REP,35-44,6 Other,28
+,REP,35-44,7 Multi-racial,10
+,REP,35-44,9 Unknown,37
+,REP,45-54,1 American Indian / Alaskan,10
+,REP,45-54,2 Asian / Pacific Islander,81
+,REP,45-54,"3 Black, Not Hispanic",94
+,REP,45-54,4 Hispanic,661
+,REP,45-54,"5 White, Not Hispanic",2963
+,REP,45-54,6 Other,56
+,REP,45-54,9 Unknown,54
+,REP,55-64,1 American Indian / Alaskan,22
+,REP,55-64,2 Asian / Pacific Islander,104
+,REP,55-64,"3 Black, Not Hispanic",123
+,REP,55-64,4 Hispanic,1185
+,REP,55-64,"5 White, Not Hispanic",7389
+,REP,55-64,6 Other,86
+,REP,55-64,7 Multi-racial,17
+,REP,55-64,9 Unknown,79
+,REP,65-74,1 American Indian / Alaskan,29
+,REP,65-74,2 Asian / Pacific Islander,160
+,REP,65-74,"3 Black, Not Hispanic",144
+,REP,65-74,4 Hispanic,1345
+,REP,65-74,"5 White, Not Hispanic",12055
+,REP,65-74,6 Other,105
+,REP,65-74,7 Multi-racial,34
+,REP,65-74,9 Unknown,147
+,REP,75+,1 American Indian / Alaskan,50
+,REP,75+,2 Asian / Pacific Islander,150
+,REP,75+,"3 Black, Not Hispanic",146
+,REP,75+,4 Hispanic,2482
+,REP,75+,"5 White, Not Hispanic",19655
+,REP,75+,6 Other,142
+,REP,75+,7 Multi-racial,25
+,REP,75+,9 Unknown,221
+,REP,unknown,4 Hispanic,34
+,REP,unknown,"5 White, Not Hispanic",422

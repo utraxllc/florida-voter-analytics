@@ -1,0 +1,11 @@
+file,columns,description
+county_month_summary.csv,"extract_month, county_code, party_affiliation, voter_status, voter_count","Voter counts by county x month x party x status. Lowest-grain aggregate, no suppression needed."
+county_party_age_summary.csv,"county_code, party_affiliation, age_band, voter_count",Voters by county x party x age band using the voter's last-known affiliation/county.
+zip_month_summary.csv,"extract_month, zip_code, party_affiliation, voter_count",Voters by ZIP x month x party. Cells with <10 voters are suppressed.
+voter_movement_summary.csv,"county_code, party_affiliation, voters, new_in_*, missing_after_*, zip_changed_*, county_changed_*, party_changed_*, status_changed_*",Movement flag counts aggregated by county and party. Use for movement maps and county-level churn metrics.
+movement_by_age_band.csv,"age_band, party_affiliation, voters, new_registrations, departures, zip_changes, county_changes, party_changes, status_changes",Total movement events by age band and party — used for cohort comparisons.
+movement_by_affordability.csv,"affordability_band, party_affiliation, voters, new_registrations, departures, zip_changes, county_changes, party_changes",Movement events by ZIP-level affordability pressure band — answers the housing pressure question.
+zip_affordability_export.csv,"zip_code, city, county, metro, mean_agi_per_return, real_mean_agi_2026, income_band, typical_home_value_latest, home_value_yoy_change, home_value_5yr_change, real_income_growth_2020_2022, home_value_to_income_ratio, affordability_pressure_score, affordability_band","One row per Florida ZIP with income (IRS SOI TY 2022), home values (Zillow ZHVI latest), and derived affordability metrics."
+zip_party_by_affordability.csv,"affordability_band, age_band, party_affiliation, voters",Party share by affordability x age band. Cells <10 suppressed.
+party_by_income_band.csv,"income_band, party_affiliation, voters",Party share by ZIP-level mean-AGI income band. Cells <10 suppressed.
+state_executive_summary.csv,"voters_*, active_voters_may, dem_may, rep_may, npa_may, other_party_may, new_in_*, missing_after_*, *_changes_*",Single-row KPI strip for the report cover page.

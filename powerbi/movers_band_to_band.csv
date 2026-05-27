@@ -1,0 +1,488 @@
+src_income_band,dst_income_band,race_label,party_after,movers
+1: under $35K,1: under $35K,"3 Black, Not Hispanic",DEM,10
+1: under $35K,2: $35-55K,"3 Black, Not Hispanic",DEM,150
+1: under $35K,2: $35-55K,"3 Black, Not Hispanic",NPA,45
+1: under $35K,2: $35-55K,"3 Black, Not Hispanic",REP,10
+1: under $35K,2: $35-55K,4 Hispanic,DEM,33
+1: under $35K,2: $35-55K,4 Hispanic,NPA,25
+1: under $35K,2: $35-55K,4 Hispanic,REP,28
+1: under $35K,2: $35-55K,"5 White, Not Hispanic",DEM,16
+1: under $35K,2: $35-55K,"5 White, Not Hispanic",REP,16
+1: under $35K,2: $35-55K,9 Unknown,DEM,20
+1: under $35K,2: $35-55K,9 Unknown,NPA,10
+1: under $35K,3: $55-80K,"3 Black, Not Hispanic",DEM,103
+1: under $35K,3: $55-80K,"3 Black, Not Hispanic",NPA,35
+1: under $35K,3: $55-80K,4 Hispanic,DEM,15
+1: under $35K,3: $55-80K,4 Hispanic,NPA,27
+1: under $35K,3: $55-80K,4 Hispanic,REP,32
+1: under $35K,3: $55-80K,"5 White, Not Hispanic",DEM,37
+1: under $35K,3: $55-80K,"5 White, Not Hispanic",NPA,13
+1: under $35K,3: $55-80K,"5 White, Not Hispanic",REP,17
+1: under $35K,3: $55-80K,9 Unknown,DEM,24
+1: under $35K,3: $55-80K,9 Unknown,NPA,13
+1: under $35K,3: $55-80K,9 Unknown,REP,11
+1: under $35K,4: $80-120K,"3 Black, Not Hispanic",DEM,46
+1: under $35K,4: $80-120K,4 Hispanic,DEM,12
+1: under $35K,4: $80-120K,4 Hispanic,NPA,12
+1: under $35K,4: $80-120K,4 Hispanic,REP,16
+1: under $35K,4: $80-120K,"5 White, Not Hispanic",DEM,24
+1: under $35K,4: $80-120K,"5 White, Not Hispanic",NPA,15
+1: under $35K,4: $80-120K,"5 White, Not Hispanic",REP,20
+1: under $35K,4: $80-120K,9 Unknown,REP,10
+1: under $35K,5: $120-200K,"5 White, Not Hispanic",DEM,17
+1: under $35K,5: $120-200K,"5 White, Not Hispanic",REP,14
+1: under $35K,6: $200K+,"5 White, Not Hispanic",DEM,11
+1: under $35K,6: $200K+,"5 White, Not Hispanic",REP,10
+2: $35-55K,1: under $35K,"3 Black, Not Hispanic",DEM,157
+2: $35-55K,1: under $35K,"3 Black, Not Hispanic",NPA,38
+2: $35-55K,1: under $35K,4 Hispanic,DEM,29
+2: $35-55K,1: under $35K,4 Hispanic,NPA,25
+2: $35-55K,1: under $35K,4 Hispanic,REP,33
+2: $35-55K,1: under $35K,"5 White, Not Hispanic",DEM,11
+2: $35-55K,1: under $35K,"5 White, Not Hispanic",REP,12
+2: $35-55K,2: $35-55K,2 Asian / Pacific Islander,DEM,20
+2: $35-55K,2: $35-55K,2 Asian / Pacific Islander,NPA,31
+2: $35-55K,2: $35-55K,2 Asian / Pacific Islander,REP,26
+2: $35-55K,2: $35-55K,"3 Black, Not Hispanic",DEM,1217
+2: $35-55K,2: $35-55K,"3 Black, Not Hispanic",NPA,409
+2: $35-55K,2: $35-55K,"3 Black, Not Hispanic",REP,109
+2: $35-55K,2: $35-55K,4 Hispanic,DEM,867
+2: $35-55K,2: $35-55K,4 Hispanic,NPA,979
+2: $35-55K,2: $35-55K,4 Hispanic,REP,885
+2: $35-55K,2: $35-55K,"5 White, Not Hispanic",DEM,496
+2: $35-55K,2: $35-55K,"5 White, Not Hispanic",NPA,510
+2: $35-55K,2: $35-55K,"5 White, Not Hispanic",REP,1000
+2: $35-55K,2: $35-55K,6 Other,DEM,67
+2: $35-55K,2: $35-55K,6 Other,NPA,62
+2: $35-55K,2: $35-55K,6 Other,REP,27
+2: $35-55K,2: $35-55K,7 Multi-racial,DEM,15
+2: $35-55K,2: $35-55K,7 Multi-racial,NPA,14
+2: $35-55K,2: $35-55K,7 Multi-racial,REP,13
+2: $35-55K,2: $35-55K,9 Unknown,DEM,116
+2: $35-55K,2: $35-55K,9 Unknown,NPA,88
+2: $35-55K,2: $35-55K,9 Unknown,REP,55
+2: $35-55K,3: $55-80K,2 Asian / Pacific Islander,DEM,53
+2: $35-55K,3: $55-80K,2 Asian / Pacific Islander,NPA,38
+2: $35-55K,3: $55-80K,2 Asian / Pacific Islander,REP,24
+2: $35-55K,3: $55-80K,"3 Black, Not Hispanic",DEM,1140
+2: $35-55K,3: $55-80K,"3 Black, Not Hispanic",NPA,444
+2: $35-55K,3: $55-80K,"3 Black, Not Hispanic",REP,142
+2: $35-55K,3: $55-80K,4 Hispanic,DEM,756
+2: $35-55K,3: $55-80K,4 Hispanic,NPA,909
+2: $35-55K,3: $55-80K,4 Hispanic,REP,871
+2: $35-55K,3: $55-80K,"5 White, Not Hispanic",DEM,931
+2: $35-55K,3: $55-80K,"5 White, Not Hispanic",NPA,980
+2: $35-55K,3: $55-80K,"5 White, Not Hispanic",REP,2141
+2: $35-55K,3: $55-80K,6 Other,DEM,69
+2: $35-55K,3: $55-80K,6 Other,NPA,62
+2: $35-55K,3: $55-80K,6 Other,REP,51
+2: $35-55K,3: $55-80K,7 Multi-racial,DEM,22
+2: $35-55K,3: $55-80K,7 Multi-racial,NPA,16
+2: $35-55K,3: $55-80K,7 Multi-racial,REP,11
+2: $35-55K,3: $55-80K,9 Unknown,DEM,142
+2: $35-55K,3: $55-80K,9 Unknown,NPA,144
+2: $35-55K,3: $55-80K,9 Unknown,REP,78
+2: $35-55K,4: $80-120K,2 Asian / Pacific Islander,DEM,30
+2: $35-55K,4: $80-120K,2 Asian / Pacific Islander,NPA,32
+2: $35-55K,4: $80-120K,2 Asian / Pacific Islander,REP,27
+2: $35-55K,4: $80-120K,"3 Black, Not Hispanic",DEM,591
+2: $35-55K,4: $80-120K,"3 Black, Not Hispanic",NPA,217
+2: $35-55K,4: $80-120K,"3 Black, Not Hispanic",REP,44
+2: $35-55K,4: $80-120K,4 Hispanic,DEM,345
+2: $35-55K,4: $80-120K,4 Hispanic,NPA,409
+2: $35-55K,4: $80-120K,4 Hispanic,REP,434
+2: $35-55K,4: $80-120K,"5 White, Not Hispanic",DEM,623
+2: $35-55K,4: $80-120K,"5 White, Not Hispanic",NPA,604
+2: $35-55K,4: $80-120K,"5 White, Not Hispanic",REP,1292
+2: $35-55K,4: $80-120K,6 Other,DEM,35
+2: $35-55K,4: $80-120K,6 Other,NPA,41
+2: $35-55K,4: $80-120K,6 Other,REP,39
+2: $35-55K,4: $80-120K,7 Multi-racial,DEM,13
+2: $35-55K,4: $80-120K,9 Unknown,DEM,97
+2: $35-55K,4: $80-120K,9 Unknown,NPA,77
+2: $35-55K,4: $80-120K,9 Unknown,REP,58
+2: $35-55K,5: $120-200K,"3 Black, Not Hispanic",DEM,100
+2: $35-55K,5: $120-200K,"3 Black, Not Hispanic",NPA,44
+2: $35-55K,5: $120-200K,4 Hispanic,DEM,76
+2: $35-55K,5: $120-200K,4 Hispanic,NPA,94
+2: $35-55K,5: $120-200K,4 Hispanic,REP,92
+2: $35-55K,5: $120-200K,"5 White, Not Hispanic",DEM,156
+2: $35-55K,5: $120-200K,"5 White, Not Hispanic",NPA,162
+2: $35-55K,5: $120-200K,"5 White, Not Hispanic",REP,307
+2: $35-55K,5: $120-200K,6 Other,DEM,12
+2: $35-55K,5: $120-200K,9 Unknown,DEM,16
+2: $35-55K,5: $120-200K,9 Unknown,NPA,14
+2: $35-55K,6: $200K+,"3 Black, Not Hispanic",DEM,38
+2: $35-55K,6: $200K+,"3 Black, Not Hispanic",NPA,16
+2: $35-55K,6: $200K+,4 Hispanic,DEM,60
+2: $35-55K,6: $200K+,4 Hispanic,NPA,59
+2: $35-55K,6: $200K+,4 Hispanic,REP,74
+2: $35-55K,6: $200K+,"5 White, Not Hispanic",DEM,65
+2: $35-55K,6: $200K+,"5 White, Not Hispanic",NPA,76
+2: $35-55K,6: $200K+,"5 White, Not Hispanic",REP,118
+2: $35-55K,6: $200K+,6 Other,DEM,10
+2: $35-55K,6: $200K+,6 Other,NPA,11
+2: $35-55K,6: $200K+,9 Unknown,DEM,13
+2: $35-55K,6: $200K+,9 Unknown,NPA,16
+3: $55-80K,1: under $35K,"3 Black, Not Hispanic",DEM,74
+3: $55-80K,1: under $35K,"3 Black, Not Hispanic",NPA,24
+3: $55-80K,1: under $35K,4 Hispanic,DEM,16
+3: $55-80K,1: under $35K,4 Hispanic,NPA,10
+3: $55-80K,1: under $35K,4 Hispanic,REP,15
+3: $55-80K,1: under $35K,"5 White, Not Hispanic",DEM,13
+3: $55-80K,1: under $35K,"5 White, Not Hispanic",NPA,13
+3: $55-80K,1: under $35K,"5 White, Not Hispanic",REP,23
+3: $55-80K,2: $35-55K,1 American Indian / Alaskan,REP,10
+3: $55-80K,2: $35-55K,2 Asian / Pacific Islander,DEM,26
+3: $55-80K,2: $35-55K,2 Asian / Pacific Islander,NPA,32
+3: $55-80K,2: $35-55K,2 Asian / Pacific Islander,REP,39
+3: $55-80K,2: $35-55K,"3 Black, Not Hispanic",DEM,951
+3: $55-80K,2: $35-55K,"3 Black, Not Hispanic",NPA,381
+3: $55-80K,2: $35-55K,"3 Black, Not Hispanic",REP,103
+3: $55-80K,2: $35-55K,4 Hispanic,DEM,737
+3: $55-80K,2: $35-55K,4 Hispanic,NPA,815
+3: $55-80K,2: $35-55K,4 Hispanic,REP,769
+3: $55-80K,2: $35-55K,"5 White, Not Hispanic",DEM,901
+3: $55-80K,2: $35-55K,"5 White, Not Hispanic",NPA,901
+3: $55-80K,2: $35-55K,"5 White, Not Hispanic",REP,1945
+3: $55-80K,2: $35-55K,6 Other,DEM,74
+3: $55-80K,2: $35-55K,6 Other,NPA,65
+3: $55-80K,2: $35-55K,6 Other,REP,44
+3: $55-80K,2: $35-55K,7 Multi-racial,DEM,15
+3: $55-80K,2: $35-55K,7 Multi-racial,NPA,14
+3: $55-80K,2: $35-55K,9 Unknown,DEM,94
+3: $55-80K,2: $35-55K,9 Unknown,NPA,91
+3: $55-80K,2: $35-55K,9 Unknown,REP,62
+3: $55-80K,3: $55-80K,1 American Indian / Alaskan,DEM,15
+3: $55-80K,3: $55-80K,1 American Indian / Alaskan,REP,20
+3: $55-80K,3: $55-80K,2 Asian / Pacific Islander,DEM,79
+3: $55-80K,3: $55-80K,2 Asian / Pacific Islander,NPA,92
+3: $55-80K,3: $55-80K,2 Asian / Pacific Islander,REP,85
+3: $55-80K,3: $55-80K,"3 Black, Not Hispanic",DEM,1576
+3: $55-80K,3: $55-80K,"3 Black, Not Hispanic",NPA,641
+3: $55-80K,3: $55-80K,"3 Black, Not Hispanic",REP,208
+3: $55-80K,3: $55-80K,4 Hispanic,DEM,1015
+3: $55-80K,3: $55-80K,4 Hispanic,NPA,1203
+3: $55-80K,3: $55-80K,4 Hispanic,REP,1165
+3: $55-80K,3: $55-80K,"5 White, Not Hispanic",DEM,2393
+3: $55-80K,3: $55-80K,"5 White, Not Hispanic",NPA,2701
+3: $55-80K,3: $55-80K,"5 White, Not Hispanic",REP,6499
+3: $55-80K,3: $55-80K,6 Other,DEM,127
+3: $55-80K,3: $55-80K,6 Other,NPA,144
+3: $55-80K,3: $55-80K,6 Other,REP,133
+3: $55-80K,3: $55-80K,7 Multi-racial,DEM,42
+3: $55-80K,3: $55-80K,7 Multi-racial,NPA,39
+3: $55-80K,3: $55-80K,7 Multi-racial,REP,30
+3: $55-80K,3: $55-80K,9 Unknown,DEM,161
+3: $55-80K,3: $55-80K,9 Unknown,NPA,192
+3: $55-80K,3: $55-80K,9 Unknown,REP,171
+3: $55-80K,4: $80-120K,2 Asian / Pacific Islander,DEM,65
+3: $55-80K,4: $80-120K,2 Asian / Pacific Islander,NPA,84
+3: $55-80K,4: $80-120K,2 Asian / Pacific Islander,REP,68
+3: $55-80K,4: $80-120K,"3 Black, Not Hispanic",DEM,773
+3: $55-80K,4: $80-120K,"3 Black, Not Hispanic",NPA,308
+3: $55-80K,4: $80-120K,"3 Black, Not Hispanic",REP,99
+3: $55-80K,4: $80-120K,4 Hispanic,DEM,533
+3: $55-80K,4: $80-120K,4 Hispanic,NPA,660
+3: $55-80K,4: $80-120K,4 Hispanic,REP,670
+3: $55-80K,4: $80-120K,"5 White, Not Hispanic",DEM,1746
+3: $55-80K,4: $80-120K,"5 White, Not Hispanic",NPA,1765
+3: $55-80K,4: $80-120K,"5 White, Not Hispanic",REP,3816
+3: $55-80K,4: $80-120K,6 Other,DEM,87
+3: $55-80K,4: $80-120K,6 Other,NPA,123
+3: $55-80K,4: $80-120K,6 Other,REP,72
+3: $55-80K,4: $80-120K,7 Multi-racial,DEM,22
+3: $55-80K,4: $80-120K,7 Multi-racial,NPA,11
+3: $55-80K,4: $80-120K,7 Multi-racial,REP,12
+3: $55-80K,4: $80-120K,9 Unknown,DEM,89
+3: $55-80K,4: $80-120K,9 Unknown,NPA,139
+3: $55-80K,4: $80-120K,9 Unknown,REP,118
+3: $55-80K,5: $120-200K,2 Asian / Pacific Islander,DEM,21
+3: $55-80K,5: $120-200K,2 Asian / Pacific Islander,NPA,24
+3: $55-80K,5: $120-200K,2 Asian / Pacific Islander,REP,20
+3: $55-80K,5: $120-200K,"3 Black, Not Hispanic",DEM,156
+3: $55-80K,5: $120-200K,"3 Black, Not Hispanic",NPA,74
+3: $55-80K,5: $120-200K,"3 Black, Not Hispanic",REP,24
+3: $55-80K,5: $120-200K,4 Hispanic,DEM,162
+3: $55-80K,5: $120-200K,4 Hispanic,NPA,160
+3: $55-80K,5: $120-200K,4 Hispanic,REP,167
+3: $55-80K,5: $120-200K,"5 White, Not Hispanic",DEM,551
+3: $55-80K,5: $120-200K,"5 White, Not Hispanic",NPA,618
+3: $55-80K,5: $120-200K,"5 White, Not Hispanic",REP,1256
+3: $55-80K,5: $120-200K,6 Other,DEM,19
+3: $55-80K,5: $120-200K,6 Other,NPA,30
+3: $55-80K,5: $120-200K,6 Other,REP,21
+3: $55-80K,5: $120-200K,9 Unknown,DEM,40
+3: $55-80K,5: $120-200K,9 Unknown,NPA,42
+3: $55-80K,5: $120-200K,9 Unknown,REP,38
+3: $55-80K,6: $200K+,2 Asian / Pacific Islander,DEM,12
+3: $55-80K,6: $200K+,"3 Black, Not Hispanic",DEM,69
+3: $55-80K,6: $200K+,"3 Black, Not Hispanic",NPA,19
+3: $55-80K,6: $200K+,4 Hispanic,DEM,72
+3: $55-80K,6: $200K+,4 Hispanic,NPA,80
+3: $55-80K,6: $200K+,4 Hispanic,REP,91
+3: $55-80K,6: $200K+,"5 White, Not Hispanic",DEM,275
+3: $55-80K,6: $200K+,"5 White, Not Hispanic",NPA,243
+3: $55-80K,6: $200K+,"5 White, Not Hispanic",REP,473
+3: $55-80K,6: $200K+,6 Other,DEM,11
+3: $55-80K,6: $200K+,6 Other,NPA,13
+3: $55-80K,6: $200K+,6 Other,REP,17
+3: $55-80K,6: $200K+,9 Unknown,DEM,19
+3: $55-80K,6: $200K+,9 Unknown,NPA,15
+3: $55-80K,6: $200K+,9 Unknown,REP,18
+4: $80-120K,1: under $35K,"3 Black, Not Hispanic",DEM,27
+4: $80-120K,1: under $35K,"3 Black, Not Hispanic",NPA,12
+4: $80-120K,1: under $35K,4 Hispanic,DEM,11
+4: $80-120K,1: under $35K,4 Hispanic,NPA,13
+4: $80-120K,1: under $35K,"5 White, Not Hispanic",DEM,21
+4: $80-120K,1: under $35K,"5 White, Not Hispanic",NPA,11
+4: $80-120K,2: $35-55K,2 Asian / Pacific Islander,DEM,25
+4: $80-120K,2: $35-55K,2 Asian / Pacific Islander,NPA,29
+4: $80-120K,2: $35-55K,2 Asian / Pacific Islander,REP,27
+4: $80-120K,2: $35-55K,"3 Black, Not Hispanic",DEM,454
+4: $80-120K,2: $35-55K,"3 Black, Not Hispanic",NPA,190
+4: $80-120K,2: $35-55K,"3 Black, Not Hispanic",REP,50
+4: $80-120K,2: $35-55K,4 Hispanic,DEM,305
+4: $80-120K,2: $35-55K,4 Hispanic,NPA,348
+4: $80-120K,2: $35-55K,4 Hispanic,REP,366
+4: $80-120K,2: $35-55K,"5 White, Not Hispanic",DEM,667
+4: $80-120K,2: $35-55K,"5 White, Not Hispanic",NPA,628
+4: $80-120K,2: $35-55K,"5 White, Not Hispanic",REP,1153
+4: $80-120K,2: $35-55K,6 Other,DEM,31
+4: $80-120K,2: $35-55K,6 Other,NPA,38
+4: $80-120K,2: $35-55K,6 Other,REP,27
+4: $80-120K,2: $35-55K,7 Multi-racial,NPA,11
+4: $80-120K,2: $35-55K,9 Unknown,DEM,62
+4: $80-120K,2: $35-55K,9 Unknown,NPA,60
+4: $80-120K,2: $35-55K,9 Unknown,REP,39
+4: $80-120K,3: $55-80K,1 American Indian / Alaskan,NPA,10
+4: $80-120K,3: $55-80K,1 American Indian / Alaskan,REP,12
+4: $80-120K,3: $55-80K,2 Asian / Pacific Islander,DEM,64
+4: $80-120K,3: $55-80K,2 Asian / Pacific Islander,NPA,74
+4: $80-120K,3: $55-80K,2 Asian / Pacific Islander,REP,75
+4: $80-120K,3: $55-80K,"3 Black, Not Hispanic",DEM,770
+4: $80-120K,3: $55-80K,"3 Black, Not Hispanic",NPA,297
+4: $80-120K,3: $55-80K,"3 Black, Not Hispanic",REP,90
+4: $80-120K,3: $55-80K,4 Hispanic,DEM,548
+4: $80-120K,3: $55-80K,4 Hispanic,NPA,587
+4: $80-120K,3: $55-80K,4 Hispanic,REP,639
+4: $80-120K,3: $55-80K,"5 White, Not Hispanic",DEM,1685
+4: $80-120K,3: $55-80K,"5 White, Not Hispanic",NPA,1879
+4: $80-120K,3: $55-80K,"5 White, Not Hispanic",REP,4309
+4: $80-120K,3: $55-80K,6 Other,DEM,92
+4: $80-120K,3: $55-80K,6 Other,NPA,97
+4: $80-120K,3: $55-80K,6 Other,REP,79
+4: $80-120K,3: $55-80K,7 Multi-racial,DEM,20
+4: $80-120K,3: $55-80K,7 Multi-racial,NPA,16
+4: $80-120K,3: $55-80K,7 Multi-racial,REP,16
+4: $80-120K,3: $55-80K,9 Unknown,DEM,109
+4: $80-120K,3: $55-80K,9 Unknown,NPA,148
+4: $80-120K,3: $55-80K,9 Unknown,REP,130
+4: $80-120K,4: $80-120K,2 Asian / Pacific Islander,DEM,49
+4: $80-120K,4: $80-120K,2 Asian / Pacific Islander,NPA,77
+4: $80-120K,4: $80-120K,2 Asian / Pacific Islander,REP,74
+4: $80-120K,4: $80-120K,"3 Black, Not Hispanic",DEM,437
+4: $80-120K,4: $80-120K,"3 Black, Not Hispanic",NPA,175
+4: $80-120K,4: $80-120K,"3 Black, Not Hispanic",REP,76
+4: $80-120K,4: $80-120K,4 Hispanic,DEM,383
+4: $80-120K,4: $80-120K,4 Hispanic,NPA,453
+4: $80-120K,4: $80-120K,4 Hispanic,REP,444
+4: $80-120K,4: $80-120K,"5 White, Not Hispanic",DEM,1627
+4: $80-120K,4: $80-120K,"5 White, Not Hispanic",NPA,1551
+4: $80-120K,4: $80-120K,"5 White, Not Hispanic",REP,3693
+4: $80-120K,4: $80-120K,6 Other,DEM,59
+4: $80-120K,4: $80-120K,6 Other,NPA,87
+4: $80-120K,4: $80-120K,6 Other,REP,71
+4: $80-120K,4: $80-120K,7 Multi-racial,DEM,14
+4: $80-120K,4: $80-120K,7 Multi-racial,NPA,13
+4: $80-120K,4: $80-120K,7 Multi-racial,REP,12
+4: $80-120K,4: $80-120K,9 Unknown,DEM,100
+4: $80-120K,4: $80-120K,9 Unknown,NPA,114
+4: $80-120K,4: $80-120K,9 Unknown,REP,103
+4: $80-120K,5: $120-200K,2 Asian / Pacific Islander,DEM,22
+4: $80-120K,5: $120-200K,2 Asian / Pacific Islander,NPA,33
+4: $80-120K,5: $120-200K,2 Asian / Pacific Islander,REP,30
+4: $80-120K,5: $120-200K,"3 Black, Not Hispanic",DEM,129
+4: $80-120K,5: $120-200K,"3 Black, Not Hispanic",NPA,58
+4: $80-120K,5: $120-200K,"3 Black, Not Hispanic",REP,18
+4: $80-120K,5: $120-200K,4 Hispanic,DEM,121
+4: $80-120K,5: $120-200K,4 Hispanic,NPA,152
+4: $80-120K,5: $120-200K,4 Hispanic,REP,154
+4: $80-120K,5: $120-200K,"5 White, Not Hispanic",DEM,642
+4: $80-120K,5: $120-200K,"5 White, Not Hispanic",NPA,684
+4: $80-120K,5: $120-200K,"5 White, Not Hispanic",REP,1574
+4: $80-120K,5: $120-200K,6 Other,DEM,24
+4: $80-120K,5: $120-200K,6 Other,NPA,25
+4: $80-120K,5: $120-200K,6 Other,REP,23
+4: $80-120K,5: $120-200K,9 Unknown,DEM,28
+4: $80-120K,5: $120-200K,9 Unknown,NPA,43
+4: $80-120K,5: $120-200K,9 Unknown,REP,40
+4: $80-120K,6: $200K+,2 Asian / Pacific Islander,NPA,16
+4: $80-120K,6: $200K+,2 Asian / Pacific Islander,REP,10
+4: $80-120K,6: $200K+,"3 Black, Not Hispanic",DEM,34
+4: $80-120K,6: $200K+,"3 Black, Not Hispanic",NPA,19
+4: $80-120K,6: $200K+,4 Hispanic,DEM,55
+4: $80-120K,6: $200K+,4 Hispanic,NPA,74
+4: $80-120K,6: $200K+,4 Hispanic,REP,72
+4: $80-120K,6: $200K+,"5 White, Not Hispanic",DEM,288
+4: $80-120K,6: $200K+,"5 White, Not Hispanic",NPA,274
+4: $80-120K,6: $200K+,"5 White, Not Hispanic",REP,597
+4: $80-120K,6: $200K+,6 Other,NPA,14
+4: $80-120K,6: $200K+,6 Other,REP,15
+4: $80-120K,6: $200K+,9 Unknown,DEM,12
+4: $80-120K,6: $200K+,9 Unknown,NPA,28
+4: $80-120K,6: $200K+,9 Unknown,REP,25
+5: $120-200K,2: $35-55K,"3 Black, Not Hispanic",DEM,180
+5: $120-200K,2: $35-55K,"3 Black, Not Hispanic",NPA,68
+5: $120-200K,2: $35-55K,"3 Black, Not Hispanic",REP,16
+5: $120-200K,2: $35-55K,4 Hispanic,DEM,89
+5: $120-200K,2: $35-55K,4 Hispanic,NPA,72
+5: $120-200K,2: $35-55K,4 Hispanic,REP,91
+5: $120-200K,2: $35-55K,"5 White, Not Hispanic",DEM,178
+5: $120-200K,2: $35-55K,"5 White, Not Hispanic",NPA,177
+5: $120-200K,2: $35-55K,"5 White, Not Hispanic",REP,309
+5: $120-200K,2: $35-55K,6 Other,DEM,14
+5: $120-200K,2: $35-55K,6 Other,NPA,19
+5: $120-200K,2: $35-55K,9 Unknown,DEM,14
+5: $120-200K,2: $35-55K,9 Unknown,NPA,17
+5: $120-200K,2: $35-55K,9 Unknown,REP,15
+5: $120-200K,3: $55-80K,2 Asian / Pacific Islander,DEM,13
+5: $120-200K,3: $55-80K,2 Asian / Pacific Islander,NPA,23
+5: $120-200K,3: $55-80K,2 Asian / Pacific Islander,REP,31
+5: $120-200K,3: $55-80K,"3 Black, Not Hispanic",DEM,145
+5: $120-200K,3: $55-80K,"3 Black, Not Hispanic",NPA,63
+5: $120-200K,3: $55-80K,"3 Black, Not Hispanic",REP,24
+5: $120-200K,3: $55-80K,4 Hispanic,DEM,130
+5: $120-200K,3: $55-80K,4 Hispanic,NPA,169
+5: $120-200K,3: $55-80K,4 Hispanic,REP,164
+5: $120-200K,3: $55-80K,"5 White, Not Hispanic",DEM,600
+5: $120-200K,3: $55-80K,"5 White, Not Hispanic",NPA,639
+5: $120-200K,3: $55-80K,"5 White, Not Hispanic",REP,1355
+5: $120-200K,3: $55-80K,6 Other,DEM,27
+5: $120-200K,3: $55-80K,6 Other,NPA,30
+5: $120-200K,3: $55-80K,6 Other,REP,30
+5: $120-200K,3: $55-80K,9 Unknown,DEM,43
+5: $120-200K,3: $55-80K,9 Unknown,NPA,52
+5: $120-200K,3: $55-80K,9 Unknown,REP,45
+5: $120-200K,4: $80-120K,2 Asian / Pacific Islander,DEM,29
+5: $120-200K,4: $80-120K,2 Asian / Pacific Islander,NPA,21
+5: $120-200K,4: $80-120K,2 Asian / Pacific Islander,REP,28
+5: $120-200K,4: $80-120K,"3 Black, Not Hispanic",DEM,124
+5: $120-200K,4: $80-120K,"3 Black, Not Hispanic",NPA,61
+5: $120-200K,4: $80-120K,"3 Black, Not Hispanic",REP,23
+5: $120-200K,4: $80-120K,4 Hispanic,DEM,136
+5: $120-200K,4: $80-120K,4 Hispanic,NPA,159
+5: $120-200K,4: $80-120K,4 Hispanic,REP,166
+5: $120-200K,4: $80-120K,"5 White, Not Hispanic",DEM,728
+5: $120-200K,4: $80-120K,"5 White, Not Hispanic",NPA,798
+5: $120-200K,4: $80-120K,"5 White, Not Hispanic",REP,1632
+5: $120-200K,4: $80-120K,6 Other,DEM,29
+5: $120-200K,4: $80-120K,6 Other,NPA,45
+5: $120-200K,4: $80-120K,6 Other,REP,33
+5: $120-200K,4: $80-120K,9 Unknown,DEM,44
+5: $120-200K,4: $80-120K,9 Unknown,NPA,57
+5: $120-200K,4: $80-120K,9 Unknown,REP,39
+5: $120-200K,5: $120-200K,2 Asian / Pacific Islander,DEM,13
+5: $120-200K,5: $120-200K,2 Asian / Pacific Islander,NPA,19
+5: $120-200K,5: $120-200K,2 Asian / Pacific Islander,REP,13
+5: $120-200K,5: $120-200K,"3 Black, Not Hispanic",DEM,42
+5: $120-200K,5: $120-200K,"3 Black, Not Hispanic",NPA,24
+5: $120-200K,5: $120-200K,4 Hispanic,DEM,52
+5: $120-200K,5: $120-200K,4 Hispanic,NPA,75
+5: $120-200K,5: $120-200K,4 Hispanic,REP,84
+5: $120-200K,5: $120-200K,"5 White, Not Hispanic",DEM,444
+5: $120-200K,5: $120-200K,"5 White, Not Hispanic",NPA,514
+5: $120-200K,5: $120-200K,"5 White, Not Hispanic",REP,1191
+5: $120-200K,5: $120-200K,6 Other,DEM,15
+5: $120-200K,5: $120-200K,6 Other,NPA,21
+5: $120-200K,5: $120-200K,6 Other,REP,17
+5: $120-200K,5: $120-200K,9 Unknown,DEM,14
+5: $120-200K,5: $120-200K,9 Unknown,NPA,23
+5: $120-200K,5: $120-200K,9 Unknown,REP,23
+5: $120-200K,6: $200K+,2 Asian / Pacific Islander,NPA,11
+5: $120-200K,6: $200K+,"3 Black, Not Hispanic",DEM,25
+5: $120-200K,6: $200K+,4 Hispanic,DEM,41
+5: $120-200K,6: $200K+,4 Hispanic,NPA,54
+5: $120-200K,6: $200K+,4 Hispanic,REP,55
+5: $120-200K,6: $200K+,"5 White, Not Hispanic",DEM,263
+5: $120-200K,6: $200K+,"5 White, Not Hispanic",NPA,275
+5: $120-200K,6: $200K+,"5 White, Not Hispanic",REP,621
+5: $120-200K,6: $200K+,6 Other,NPA,14
+5: $120-200K,6: $200K+,6 Other,REP,15
+5: $120-200K,6: $200K+,9 Unknown,DEM,10
+5: $120-200K,6: $200K+,9 Unknown,NPA,24
+5: $120-200K,6: $200K+,9 Unknown,REP,20
+6: $200K+,2: $35-55K,"3 Black, Not Hispanic",DEM,47
+6: $200K+,2: $35-55K,"3 Black, Not Hispanic",NPA,16
+6: $200K+,2: $35-55K,4 Hispanic,DEM,49
+6: $200K+,2: $35-55K,4 Hispanic,NPA,57
+6: $200K+,2: $35-55K,4 Hispanic,REP,63
+6: $200K+,2: $35-55K,"5 White, Not Hispanic",DEM,120
+6: $200K+,2: $35-55K,"5 White, Not Hispanic",NPA,87
+6: $200K+,2: $35-55K,"5 White, Not Hispanic",REP,120
+6: $200K+,2: $35-55K,9 Unknown,DEM,14
+6: $200K+,2: $35-55K,9 Unknown,NPA,16
+6: $200K+,2: $35-55K,9 Unknown,REP,11
+6: $200K+,3: $55-80K,2 Asian / Pacific Islander,DEM,11
+6: $200K+,3: $55-80K,2 Asian / Pacific Islander,NPA,13
+6: $200K+,3: $55-80K,"3 Black, Not Hispanic",DEM,65
+6: $200K+,3: $55-80K,"3 Black, Not Hispanic",NPA,29
+6: $200K+,3: $55-80K,4 Hispanic,DEM,116
+6: $200K+,3: $55-80K,4 Hispanic,NPA,111
+6: $200K+,3: $55-80K,4 Hispanic,REP,101
+6: $200K+,3: $55-80K,"5 White, Not Hispanic",DEM,357
+6: $200K+,3: $55-80K,"5 White, Not Hispanic",NPA,297
+6: $200K+,3: $55-80K,"5 White, Not Hispanic",REP,518
+6: $200K+,3: $55-80K,6 Other,DEM,14
+6: $200K+,3: $55-80K,6 Other,NPA,13
+6: $200K+,3: $55-80K,6 Other,REP,10
+6: $200K+,3: $55-80K,9 Unknown,DEM,26
+6: $200K+,3: $55-80K,9 Unknown,NPA,23
+6: $200K+,3: $55-80K,9 Unknown,REP,24
+6: $200K+,4: $80-120K,2 Asian / Pacific Islander,NPA,10
+6: $200K+,4: $80-120K,"3 Black, Not Hispanic",DEM,36
+6: $200K+,4: $80-120K,"3 Black, Not Hispanic",NPA,18
+6: $200K+,4: $80-120K,4 Hispanic,DEM,69
+6: $200K+,4: $80-120K,4 Hispanic,NPA,83
+6: $200K+,4: $80-120K,4 Hispanic,REP,101
+6: $200K+,4: $80-120K,"5 White, Not Hispanic",DEM,380
+6: $200K+,4: $80-120K,"5 White, Not Hispanic",NPA,321
+6: $200K+,4: $80-120K,"5 White, Not Hispanic",REP,753
+6: $200K+,4: $80-120K,6 Other,DEM,19
+6: $200K+,4: $80-120K,6 Other,NPA,23
+6: $200K+,4: $80-120K,6 Other,REP,25
+6: $200K+,4: $80-120K,9 Unknown,DEM,27
+6: $200K+,4: $80-120K,9 Unknown,NPA,33
+6: $200K+,4: $80-120K,9 Unknown,REP,38
+6: $200K+,5: $120-200K,2 Asian / Pacific Islander,NPA,18
+6: $200K+,5: $120-200K,"3 Black, Not Hispanic",DEM,26
+6: $200K+,5: $120-200K,"3 Black, Not Hispanic",NPA,13
+6: $200K+,5: $120-200K,4 Hispanic,DEM,48
+6: $200K+,5: $120-200K,4 Hispanic,NPA,53
+6: $200K+,5: $120-200K,4 Hispanic,REP,68
+6: $200K+,5: $120-200K,"5 White, Not Hispanic",DEM,304
+6: $200K+,5: $120-200K,"5 White, Not Hispanic",NPA,321
+6: $200K+,5: $120-200K,"5 White, Not Hispanic",REP,705
+6: $200K+,5: $120-200K,6 Other,DEM,14
+6: $200K+,5: $120-200K,6 Other,NPA,11
+6: $200K+,5: $120-200K,6 Other,REP,21
+6: $200K+,5: $120-200K,9 Unknown,DEM,19
+6: $200K+,5: $120-200K,9 Unknown,NPA,36
+6: $200K+,5: $120-200K,9 Unknown,REP,28
+6: $200K+,6: $200K+,2 Asian / Pacific Islander,DEM,14
+6: $200K+,6: $200K+,2 Asian / Pacific Islander,NPA,16
+6: $200K+,6: $200K+,2 Asian / Pacific Islander,REP,10
+6: $200K+,6: $200K+,"3 Black, Not Hispanic",DEM,12
+6: $200K+,6: $200K+,"3 Black, Not Hispanic",NPA,15
+6: $200K+,6: $200K+,4 Hispanic,DEM,55
+6: $200K+,6: $200K+,4 Hispanic,NPA,93
+6: $200K+,6: $200K+,4 Hispanic,REP,117
+6: $200K+,6: $200K+,"5 White, Not Hispanic",DEM,363
+6: $200K+,6: $200K+,"5 White, Not Hispanic",NPA,377
+6: $200K+,6: $200K+,"5 White, Not Hispanic",REP,729
+6: $200K+,6: $200K+,6 Other,DEM,11
+6: $200K+,6: $200K+,6 Other,NPA,26
+6: $200K+,6: $200K+,6 Other,REP,27
+6: $200K+,6: $200K+,9 Unknown,DEM,21
+6: $200K+,6: $200K+,9 Unknown,NPA,50
+6: $200K+,6: $200K+,9 Unknown,REP,33

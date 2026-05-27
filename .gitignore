@@ -1,0 +1,25 @@
+# Sensitive / raw voter data
+raw_zips/
+extracted/
+duckdb/
+*.duckdb
+*.duckdb.wal
+
+# Local environments
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Mac system files
+.DS_Store
+._*
+.AppleDouble
+
+# Power BI Desktop files / large local artifacts
+*.pbix
+*.pbit
+
+# Temporary files
+*.tmp
+*.log
